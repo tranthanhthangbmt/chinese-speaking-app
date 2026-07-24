@@ -395,7 +395,7 @@ function App() {
             {activeTab === 'pdf' && (
               <div style={{ height: 'calc(100vh - 250px)', borderRadius: '1rem', overflow: 'hidden', border: '1px solid var(--border-color)' }}>
                 <iframe 
-                  src={`/LessonPDF/Lesson_${String(currentLessonData.lesson).padStart(2, '0')}.pdf`} 
+                  src={`${import.meta.env.BASE_URL}LessonPDF/Lesson_${String(currentLessonData.lesson).padStart(2, '0')}.pdf`} 
                   width="100%" 
                   height="100%" 
                   style={{ border: 'none' }}
