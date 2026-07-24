@@ -1,0 +1,155 @@
+{
+  "lesson": 1,
+  "title": "我哪儿都没去过 (I haven't been anywhere)",
+  "pdfPage": 1,
+  "vocabulary": [
+    { "id": 1, "hanzi": "嘿", "pinyin": "hēi", "meaning": "này, ê (gọi sự chú ý)", "type": "thán từ" },
+    { "id": 2, "hanzi": "好久", "pinyin": "hǎojiǔ", "meaning": "đã lâu, rất lâu", "type": "tính từ" },
+    { "id": 3, "hanzi": "好", "pinyin": "hǎo", "meaning": "rất, quá", "type": "phó từ" },
+    { "id": 4, "hanzi": "参加", "pinyin": "cānjiā", "meaning": "tham gia", "type": "động từ" },
+    { "id": 5, "hanzi": "培训", "pinyin": "péixùn", "meaning": "đào tạo, huấn luyện", "type": "động từ" },
+    { "id": 6, "hanzi": "刚", "pinyin": "gāng", "meaning": "vừa mới", "type": "phó từ" },
+    { "id": 7, "hanzi": "对了", "pinyin": "duì le", "meaning": "à đúng rồi", "type": "" },
+    { "id": 8, "hanzi": "申请", "pinyin": "shēnqǐng", "meaning": "xin, đăng ký", "type": "động từ" },
+    { "id": 9, "hanzi": "后来", "pinyin": "hòulái", "meaning": "về sau, sau này", "type": "danh từ" },
+    { "id": 10, "hanzi": "让", "pinyin": "ràng", "meaning": "bảo, để, cho phép", "type": "động từ" },
+    { "id": 11, "hanzi": "联系", "pinyin": "liánxì", "meaning": "liên hệ", "type": "động từ" },
+    { "id": 12, "hanzi": "见面", "pinyin": "jiànmiàn", "meaning": "gặp mặt", "type": "động từ" },
+    { "id": 13, "hanzi": "哪儿", "pinyin": "nǎr", "meaning": "đâu, nơi nào", "type": "đại từ" },
+    { "id": 14, "hanzi": "习惯", "pinyin": "xíguàn", "meaning": "quen với, thói quen", "type": "động/danh từ" },
+    { "id": 15, "hanzi": "生活", "pinyin": "shēnghuó", "meaning": "cuộc sống, sinh hoạt", "type": "danh/động từ" },
+    { "id": 16, "hanzi": "导游", "pinyin": "dǎoyóu", "meaning": "hướng dẫn viên", "type": "danh từ" },
+    { "id": 17, "hanzi": "好好儿", "pinyin": "hǎohāor", "meaning": "hết mình, thật tốt", "type": "phó từ" },
+    { "id": 18, "hanzi": "事", "pinyin": "shì", "meaning": "việc, chuyện", "type": "danh từ" },
+    { "id": 19, "hanzi": "陪", "pinyin": "péi", "meaning": "cùng, theo", "type": "động từ" },
+    { "id": 20, "hanzi": "充电器", "pinyin": "chōngdiànqì", "meaning": "cục sạc", "type": "danh từ" },
+    { "id": 21, "hanzi": "电池", "pinyin": "diànchí", "meaning": "pin", "type": "danh từ" },
+    { "id": 22, "hanzi": "熟悉", "pinyin": "shúxī", "meaning": "quen thuộc", "type": "động từ" },
+    { "id": 23, "hanzi": "得", "pinyin": "děi", "meaning": "phải", "type": "trợ động từ" },
+    { "id": 24, "hanzi": "转", "pinyin": "zhuàn", "meaning": "đi dạo, xoay", "type": "động từ" }
+  ],
+  "dialogues": [
+    {
+      "id": 1,
+      "title": "课文 (一)",
+      "context": "友美在路上遇到好朋友铃木",
+      "lines": [
+        { "speaker": "友美", "hanzi": "嘿，这不是铃木吗？你什么时候也来北京了？", "pinyin": "Hēi, zhè bù shì Língmù ma? Nǐ shénme shíhou yě lái Běijīng le?", "translation": "Này, đây không phải là Linh Mộc sao? Bạn cũng đến Bắc Kinh khi nào vậy?" },
+        { "speaker": "铃木", "hanzi": "友美，好久不见。我来参加汉语培训，前天刚到。", "pinyin": "Yǒuměi, hǎojiǔ bú jiàn. Wǒ lái cānjiā Hànyǔ péixùn, qiántiān gāng dào.", "translation": "Hữu Mỹ, lâu rồi không gặp. Mình đến tham gia khóa đào tạo tiếng Hán, hôm kia vừa đến." },
+        { "speaker": "友美", "hanzi": "真没想到在这儿看见你。来北京培训多长时间？", "pinyin": "Zhēn méi xiǎngdào zài zhèr kànjiàn nǐ. Lái Běijīng péixùn duō cháng shíjiān?", "translation": "Thật không ngờ lại gặp bạn ở đây. Đến Bắc Kinh đào tạo bao lâu?" },
+        { "speaker": "铃木", "hanzi": "一共三个月，在北京两个月，香港一个月。", "pinyin": "Yígòng sān gè yuè, zài Běijīng liǎng gè yuè, Xiānggǎng yí gè yuè.", "translation": "Tổng cộng 3 tháng, ở Bắc Kinh 2 tháng, Hồng Kông 1 tháng." },
+        { "speaker": "友美", "hanzi": "对了，我来的时候，你妹妹也在申请来中国，后来怎么样了？", "pinyin": "Duì le, wǒ lái de shíhou, nǐ mèimei yě zài shēnqǐng lái Zhōngguó, hòulái zěnmeyàng le?", "translation": "À đúng rồi, lúc mình đến, em gái bạn cũng đang xin đến Trung Quốc, sau đó thế nào rồi?" },
+        { "speaker": "铃木", "hanzi": "她现在在西安学习汉语，昨天打电话，她还让我跟你联系呢。", "pinyin": "Tā xiànzài zài Xī'ān xuéxí Hànyǔ, zuótiān dǎ diànhuà, tā hái ràng wǒ gēn nǐ liánxì ne.", "translation": "Em ấy hiện đang học tiếng Hán ở Tây An, hôm qua gọi điện, em ấy còn bảo mình liên hệ với bạn đấy." },
+        { "speaker": "友美", "hanzi": "真的吗？我和她也很长时间没见面了。", "pinyin": "Zhēnde ma? Wǒ hé tā yě hěn cháng shíjiān méi jiànmiàn le.", "translation": "Thật sao? Mình và em ấy cũng rất lâu không gặp rồi." },
+        { "speaker": "铃木", "hanzi": "哎，你去过西安吗？", "pinyin": "Āi, nǐ qùguò Xī'ān ma?", "translation": "Này, bạn đã đi Tây An bao giờ chưa?" },
+        { "speaker": "友美", "hanzi": "还没有，来了这么长时间，每天都在上课，我哪儿都没去过。", "pinyin": "Hái méiyǒu, lái le zhème cháng shíjiān, měitiān dōu zài shàngkè, wǒ nǎr dōu méi qùguò.", "translation": "Vẫn chưa, đến đây bao lâu rồi, ngày nào cũng đi học, mình chưa đi đâu cả." },
+        { "speaker": "铃木", "hanzi": "那咱们找机会一起去吧。", "pinyin": "Nà zánmen zhǎo jīhuì yìqǐ qù ba.", "translation": "Vậy chúng ta tìm cơ hội cùng đi nhé." },
+        { "speaker": "友美", "hanzi": "好啊。", "pinyin": "Hǎo a.", "translation": "Được thôi." }
+      ],
+      "questions": [
+        { "q": "友美知道铃木来北京吗？", "a": "不知道，她觉得很意外 (真没想到)。" },
+        { "q": "友美认识铃木的妹妹吗？", "a": "认识，她们是很长时间没见面的朋友。" },
+        { "q": "铃木来北京做什么？", "a": "他来参加汉语培训。" },
+        { "q": "友美去过什么地方？", "a": "她哪儿都没去过。" }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "课文 (二)",
+      "context": "友美和铃木在路上聊天儿",
+      "lines": [
+        { "speaker": "友美", "hanzi": "你妹妹在西安怎么样？对那儿习惯了吗？", "pinyin": "Nǐ mèimei zài Xī'ān zěnmeyàng? Duì nàr xíguàn le ma?", "translation": "Em gái bạn ở Tây An thế nào? Đã quen với ở đó chưa?" },
+        { "speaker": "铃木", "hanzi": "她说已经习惯了，学习啊、生活啊，什么都很方便，她很喜欢西安。", "pinyin": "Tā shuō yǐjīng xíguàn le, xuéxí a, shēnghuó a, shénme dōu hěn fāngbiàn, tā hěn xǐhuan Xī'ān.", "translation": "Em ấy nói đã quen rồi, học tập này, sinh hoạt này, cái gì cũng rất tiện lợi, em ấy rất thích Tây An." },
+        { "speaker": "友美", "hanzi": "真想去看她。", "pinyin": "Zhēn xiǎng qù kàn tā.", "translation": "Thật muốn đi thăm em ấy." },
+        { "speaker": "铃木", "hanzi": "可以啊，我们一起去，让我妹妹做咱们的导游。", "pinyin": "Kěyǐ a, wǒmen yìqǐ qù, ràng wǒ mèimei zuò zánmen de dǎoyóu.", "translation": "Được thôi, chúng ta cùng đi, để em gái mình làm hướng dẫn viên cho chúng ta." },
+        { "speaker": "友美", "hanzi": "对，让她带我们好好儿玩儿玩儿。", "pinyin": "Duì, ràng tā dài wǒmen hǎohāor wánr wánr.", "translation": "Đúng vậy, để em ấy dẫn chúng ta đi chơi thật vui." },
+        { "speaker": "铃木", "hanzi": "没问题。哎，你现在有事吗？", "pinyin": "Méi wèntí. Āi, nǐ xiànzài yǒu shì ma?", "translation": "Không vấn đề gì. Này, bây giờ bạn có việc gì không?" },
+        { "speaker": "友美", "hanzi": "怎么，你现在就要去吗？", "pinyin": "Zěnme, nǐ xiànzài jiù yào qù ma?", "translation": "Sao vậy, bây giờ bạn muốn đi luôn à?" },
+        { "speaker": "铃木", "hanzi": "不是。要是你没事的话，能陪我去买东西吗？", "pinyin": "Bú shì. Yàoshi nǐ méi shì de huà, néng péi wǒ qù mǎi dōngxi ma?", "translation": "Không phải. Nếu bạn không có việc gì, có thể cùng mình đi mua đồ không?" },
+        { "speaker": "友美", "hanzi": "可以啊，你打算买什么？", "pinyin": "Kěyǐ a, nǐ dǎsuàn mǎi shénme?", "translation": "Được chứ, bạn định mua gì?" },
+        { "speaker": "铃木", "hanzi": "吃的、用的，什么都要买。最重要的是先买充电器和电池。", "pinyin": "Chī de, yòng de, shénme dōu yào mǎi. Zuì zhòngyào de shì xiān mǎi chōngdiànqì hé diànchí.", "translation": "Đồ ăn, đồ dùng, cái gì cũng muốn mua. Quan trọng nhất là mua sạc và pin trước." },
+        { "speaker": "友美", "hanzi": "那我们去超市吧。", "pinyin": "Nà wǒmen qù chāoshì ba.", "translation": "Vậy chúng ta đi siêu thị đi." },
+        { "speaker": "铃木", "hanzi": "好啊。我哪儿都不认识，什么地方都不熟悉。你得带我好好儿转转。", "pinyin": "Hǎo a. Wǒ nǎr dōu bù rènshi, shénme dìfang dōu bù shúxī. Nǐ děi dài wǒ hǎohāor zhuànzhuàn.", "translation": "Được thôi. Mình chẳng biết nơi nào, chỗ nào cũng không quen. Bạn phải dẫn mình đi dạo thật kỹ đấy." },
+        { "speaker": "友美", "hanzi": "好，我先做你的导游吧。", "pinyin": "Hǎo, wǒ xiān zuò nǐ de dǎoyóu ba.", "translation": "Được, mình làm hướng dẫn viên của bạn trước nhé." }
+      ],
+      "questions": [
+        { "q": "铃木的妹妹现在怎么样？", "a": "她已经习惯了西安的生活，觉得什么都很方便。" },
+        { "q": "友美和铃木有什么打算？", "a": "他们打算找机会一起去西安，让铃木的妹妹当导游。" },
+        { "q": "铃木现在要做什么？", "a": "他要去超市买吃用的东西，特别是充电器和电池。" },
+        { "q": "铃木对这里熟悉吗？", "a": "他不熟悉，哪儿都不认识。" }
+      ]
+    }
+  ],
+  "functional_sentences": [
+    {
+      "category": "打招呼、问候 (Trao đổi lời chào)",
+      "examples": [
+        "嘿，这不是铃木吗？(Này, đây không phải Linh Mộc sao?)",
+        "好久不见。(Lâu rồi không gặp.)",
+        "你最近怎么样？(Dạo này bạn thế nào?)",
+        "你现在习惯了吗？ —— 已经习惯了。(Bây giờ bạn đã quen chưa? - Đã quen rồi.)"
+      ]
+    },
+    {
+      "category": "吃惊、意外 (Bày tỏ sự ngạc nhiên)",
+      "examples": [
+        "真没想到在这儿看见你。(Thật không ngờ lại gặp bạn ở đây.)",
+        "真的吗？(Thật không?)"
+      ]
+    },
+    {
+      "category": "请求、要求 (Yêu cầu, đề nghị)",
+      "examples": [
+        "让她做我们的导游，带我们好好儿玩儿玩儿。(Để cô ấy làm HDV, dẫn chúng ta đi chơi thật vui.)",
+        "要是你没事的话，能陪我去买东西吗？(Nếu bạn rảnh, đi mua đồ cùng mình được không?)",
+        "你得带我好好儿转转。(Bạn phải dẫn mình đi dạo thật kỹ đấy.)"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill-in-the-blank",
+      "instruction": "Hoàn thành hội thoại sau:",
+      "questions": [
+        {
+          "context": "A: 这不是铃木吗？你好啊！\nB: 友美！___________________________了。\nA: 是啊，我们一年没见了。\nB: 时间___________________________。",
+          "hint": "(Gợi ý: 好久不见, 过得真快)",
+          "answer": "好久不见 / 过得真快"
+        },
+        {
+          "context": "A: 刚才给你打电话，你不在。\nB: 是吗？他说什么？\nA: ___________________________。\nB: 好的，我现在就给他打电话。",
+          "hint": "(Gợi ý: 让 - Bảo gọi lại)",
+          "answer": "他让你给他回电话"
+        },
+        {
+          "context": "A: ___________________________？\nB: 已经习惯了，我很喜欢这里。\nA: 你都去了什么地方？\nB: 我太忙了，___________________________。",
+          "hint": "(Gợi ý: 习惯, 哪儿都没去过)",
+          "answer": "你对这里习惯了吗 / 我哪儿都没去过"
+        }
+      ]
+    },
+    {
+      "type": "substitution",
+      "instruction": "Luyện tập thay thế từ:",
+      "questions": [
+        {
+          "sentence": "A: 真没想到在这儿看见你。\nB: 我也没想到。",
+          "substitutes": [
+            "他也来了",
+            "面试这么容易",
+            "这个电影这么有意思",
+            "今天的比赛他们赢了"
+          ]
+        },
+        {
+          "sentence": "A: 你能陪我去买东西吗？\nB: 对不起，要是有时间的话，我一定去。",
+          "substitutes": [
+            "逛公园",
+            "去买书",
+            "去修电脑"
+          ]
+        }
+      ]
+    }
+  ]
+}

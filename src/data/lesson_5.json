@@ -1,0 +1,69 @@
+{
+  "lesson": 5,
+  "title": "请问去银行怎么走 (Xin hỏi đi đến ngân hàng như thế nào)",
+  "vocabulary": [
+    {
+      "id": 1,
+      "hanzi": "请问",
+      "pinyin": "qǐngwèn",
+      "meaning": "xin hỏi",
+      "type": "động từ"
+    },
+    {
+      "id": 2,
+      "hanzi": "银行",
+      "pinyin": "yínháng",
+      "meaning": "ngân hàng",
+      "type": "danh từ"
+    },
+    {
+      "id": 3,
+      "hanzi": "怎么",
+      "pinyin": "zěnme",
+      "meaning": "như thế nào",
+      "type": "đại từ"
+    },
+    {
+      "id": 4,
+      "hanzi": "走",
+      "pinyin": "zǒu",
+      "meaning": "đi",
+      "type": "động từ"
+    },
+    {
+      "id": 5,
+      "hanzi": "一直",
+      "pinyin": "yìzhí",
+      "meaning": "đi thẳng, liên tục",
+      "type": "phó từ"
+    },
+    {
+      "id": 6,
+      "hanzi": "往",
+      "pinyin": "wǎng",
+      "meaning": "hướng về",
+      "type": "giới từ"
+    },
+    {
+      "id": 7,
+      "hanzi": "前",
+      "pinyin": "qián",
+      "meaning": "phía trước",
+      "type": "danh từ chỉ phương hướng"
+    },
+    {
+      "id": 8,
+      "hanzi": "十字路口",
+      "pinyin": "shízì lùkǒu",
+      "meaning": "ngã tư",
+      "type": "danh từ"
+    },
+    {
+      "id": 9,
+      "hanzi": "拐",
+      "pinyin": "guǎi",
+      "meaning": "rẽ",
+      "type": "động từ"
+    }
+  ]
+}

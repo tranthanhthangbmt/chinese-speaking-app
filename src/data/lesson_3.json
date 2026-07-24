@@ -1,0 +1,55 @@
+{
+  "lesson": 3,
+  "title": "好像要下雨了 (Hình như sắp mưa rồi)",
+  "vocabulary": [
+    {
+      "id": 1,
+      "hanzi": "好像",
+      "pinyin": "hǎoxiàng",
+      "meaning": "hình như, có vẻ",
+      "type": "phó từ"
+    },
+    {
+      "id": 2,
+      "hanzi": "下雨",
+      "pinyin": "xiàyǔ",
+      "meaning": "trời mưa",
+      "type": "động từ"
+    },
+    {
+      "id": 3,
+      "hanzi": "伞",
+      "pinyin": "sǎn",
+      "meaning": "cái ô (dù)",
+      "type": "danh từ"
+    },
+    {
+      "id": 4,
+      "hanzi": "刮风",
+      "pinyin": "guāfēng",
+      "meaning": "nổi gió",
+      "type": "động từ"
+    },
+    {
+      "id": 5,
+      "hanzi": "秋天",
+      "pinyin": "qiūtiān",
+      "meaning": "mùa thu",
+      "type": "danh từ"
+    },
+    {
+      "id": 6,
+      "hanzi": "冷",
+      "pinyin": "lěng",
+      "meaning": "lạnh",
+      "type": "tính từ"
+    },
+    {
+      "id": 7,
+      "hanzi": "感冒",
+      "pinyin": "gǎnmào",
+      "meaning": "cảm cúm",
+      "type": "động từ"
+    }
+  ]
+}

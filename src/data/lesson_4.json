@@ -1,0 +1,62 @@
+{
+  "lesson": 4,
+  "title": "你想租什么样的房子 (Bạn muốn thuê căn hộ như thế nào)",
+  "vocabulary": [
+    {
+      "id": 1,
+      "hanzi": "租",
+      "pinyin": "zū",
+      "meaning": "thuê",
+      "type": "động từ"
+    },
+    {
+      "id": 2,
+      "hanzi": "房子",
+      "pinyin": "fángzi",
+      "meaning": "căn hộ, nhà",
+      "type": "danh từ"
+    },
+    {
+      "id": 3,
+      "hanzi": "套",
+      "pinyin": "tào",
+      "meaning": "căn, bộ (lượng từ)",
+      "type": "lượng từ"
+    },
+    {
+      "id": 4,
+      "hanzi": "卧室",
+      "pinyin": "wòshì",
+      "meaning": "phòng ngủ",
+      "type": "danh từ"
+    },
+    {
+      "id": 5,
+      "hanzi": "客厅",
+      "pinyin": "kètīng",
+      "meaning": "phòng khách",
+      "type": "danh từ"
+    },
+    {
+      "id": 6,
+      "hanzi": "家具",
+      "pinyin": "jiājù",
+      "meaning": "nội thất",
+      "type": "danh từ"
+    },
+    {
+      "id": 7,
+      "hanzi": "安静",
+      "pinyin": "ānjìng",
+      "meaning": "yên tĩnh",
+      "type": "tính từ"
+    },
+    {
+      "id": 8,
+      "hanzi": "房租",
+      "pinyin": "fángzū",
+      "meaning": "tiền thuê nhà",
+      "type": "danh từ"
+    }
+  ]
+}

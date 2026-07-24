@@ -1,0 +1,181 @@
+{
+  "lesson": 2,
+  "title": "晚上早点儿睡 (Go to bed early at night)",
+  "pdfPage": 13,
+  "vocabulary": [
+    { "id": 1, "hanzi": "问题", "pinyin": "wèntí", "meaning": "câu hỏi, vấn đề", "type": "danh từ" },
+    { "id": 2, "hanzi": "运动会", "pinyin": "yùndònghuì", "meaning": "đại hội thể thao", "type": "danh từ" },
+    { "id": 3, "hanzi": "通知", "pinyin": "tōngzhī", "meaning": "thông báo", "type": "động/danh từ" },
+    { "id": 4, "hanzi": "集合", "pinyin": "jíhé", "meaning": "tập hợp", "type": "động từ" },
+    { "id": 5, "hanzi": "早", "pinyin": "zǎo", "meaning": "sớm", "type": "tính từ" },
+    { "id": 6, "hanzi": "建议", "pinyin": "jiànyì", "meaning": "đề nghị, khuyên", "type": "động/danh từ" },
+    { "id": 7, "hanzi": "一点儿", "pinyin": "yìdiǎnr", "meaning": "một chút", "type": "số lượng từ" },
+    { "id": 8, "hanzi": "入乡随俗", "pinyin": "rù xiāng suí sú", "meaning": "nhập gia tùy tục", "type": "thành ngữ" },
+    { "id": 9, "hanzi": "意思", "pinyin": "yìsi", "meaning": "ý nghĩa", "type": "danh từ" },
+    { "id": 10, "hanzi": "成语", "pinyin": "chéngyǔ", "meaning": "thành ngữ", "type": "danh từ" },
+    { "id": 11, "hanzi": "遵守", "pinyin": "zūnshǒu", "meaning": "tuân thủ", "type": "động từ" },
+    { "id": 12, "hanzi": "风俗", "pinyin": "fēngsú", "meaning": "phong tục", "type": "danh từ" },
+    { "id": 13, "hanzi": "有用", "pinyin": "yǒuyòng", "meaning": "hữu ích", "type": "tính từ" },
+    { "id": 14, "hanzi": "记住", "pinyin": "jìzhù", "meaning": "nhớ kỹ", "type": "động từ" },
+    { "id": 15, "hanzi": "都", "pinyin": "dōu", "meaning": "đã (biểu thị sự nhấn mạnh/trách móc)", "type": "phó từ" },
+    { "id": 16, "hanzi": "告诉", "pinyin": "gàosu", "meaning": "nói cho biết", "type": "động từ" },
+    { "id": 17, "hanzi": "吸引", "pinyin": "xīyǐn", "meaning": "thu hút", "type": "động từ" },
+    { "id": 18, "hanzi": "挺", "pinyin": "tǐng", "meaning": "rất, khá", "type": "phó từ" },
+    { "id": 19, "hanzi": "懂", "pinyin": "dǒng", "meaning": "hiểu", "type": "động từ" },
+    { "id": 20, "hanzi": "字幕", "pinyin": "zìmù", "meaning": "phụ đề", "type": "danh từ" },
+    { "id": 21, "hanzi": "别", "pinyin": "bié", "meaning": "đừng", "type": "phó từ" },
+    { "id": 22, "hanzi": "叫", "pinyin": "jiào", "meaning": "gọi, bảo", "type": "động từ" },
+    { "id": 23, "hanzi": "不过", "pinyin": "búguò", "meaning": "có điều, nhưng", "type": "liên từ" },
+    { "id": 24, "hanzi": "怕", "pinyin": "pà", "meaning": "sợ, e rằng", "type": "động từ" },
+    { "id": 25, "hanzi": "熬夜", "pinyin": "áoyè", "meaning": "thức khuya", "type": "động từ" },
+    { "id": 26, "hanzi": "偶尔", "pinyin": "ǒu'ěr", "meaning": "thỉnh thoảng", "type": "phó từ" },
+    { "id": 27, "hanzi": "展览", "pinyin": "zhǎnlǎn", "meaning": "triển lãm", "type": "danh/động từ" },
+    { "id": 28, "hanzi": "票", "pinyin": "piào", "meaning": "vé", "type": "danh từ" },
+    { "id": 29, "hanzi": "礼物", "pinyin": "lǐwù", "meaning": "quà tặng", "type": "danh từ" }
+  ],
+  "dialogues": [
+    {
+      "id": 1,
+      "title": "课文 (一)",
+      "context": "杰森和汉娜聊天儿",
+      "lines": [
+        { "speaker": "杰森", "hanzi": "汉娜，我想问一个问题，可以吗？", "pinyin": "Hànnà, wǒ xiǎng wèn yí gè wèntí, kěyǐ ma?", "translation": "Hannah, mình muốn hỏi một câu, có được không?" },
+        { "speaker": "汉娜", "hanzi": "当然可以，什么问题，你说吧。", "pinyin": "Dāngrán kěyǐ, shénme wèntí, nǐ shuō ba.", "translation": "Đương nhiên là được, câu hỏi gì, bạn nói đi." },
+        { "speaker": "杰森", "hanzi": "明天开运动会，老师通知大家，早上7点在操场集合，为什么这么早啊？", "pinyin": "Míngtiān kāi yùndònghuì, lǎoshī tōngzhī dàjiā, zǎoshang 7 diǎn zài cāochǎng jíhé, wèishénme zhème zǎo a?", "translation": "Ngày mai tổ chức đại hội thể thao, cô giáo thông báo mọi người 7 giờ sáng tập trung ở sân vận động, tại sao lại sớm thế?" },
+        { "speaker": "汉娜", "hanzi": "早吗？中国人都习惯早睡早起。", "pinyin": "Zǎo ma? Zhōngguórén dōu xíguàn zǎo shuì zǎo qǐ.", "translation": "Sớm à? Người Trung Quốc đều có thói quen ngủ sớm dậy sớm." },
+        { "speaker": "杰森", "hanzi": "现在每天8点就上课，太早了，我早上特别不想起床。", "pinyin": "Xiànzài měitiān 8 diǎn jiù shàngkè, tài zǎo le, wǒ zǎoshang tèbié bù xiǎng qǐchuáng.", "translation": "Bây giờ ngày nào cũng 8 giờ vào lớp, sớm quá, buổi sáng mình đặc biệt không muốn rời giường." },
+        { "speaker": "汉娜", "hanzi": "中国的学校，都是8点上课。我建议你晚上早点儿睡，早睡就能早起。", "pinyin": "Zhōngguó de xuéxiào, dōu shì 8 diǎn shàngkè. Wǒ jiànyì nǐ wǎnshang zǎo diǎnr shuì, zǎo shuì jiù néng zǎo qǐ.", "translation": "Các trường học ở Trung Quốc đều 8 giờ vào học. Mình khuyên bạn buổi tối ngủ sớm một chút, ngủ sớm thì mới dậy sớm được." },
+        { "speaker": "杰森", "hanzi": "为什么不能晚一点儿上课呢？", "pinyin": "Wèishénme bù néng wǎn yì diǎnr shàngkè ne?", "translation": "Tại sao không thể vào lớp muộn một chút nhỉ?" },
+        { "speaker": "汉娜", "hanzi": "我看你呀，还是入乡随俗吧。我刚来的时候也不习惯。在中国生活了半年，觉得早睡早起也不错。", "pinyin": "Wǒ kàn nǐ ya, háishì rù xiāng suí sú ba. Wǒ gāng lái de shíhou yě bù xíguàn. Zài Zhōngguó shēnghuó le bàn nián, juéde zǎo shuì zǎo qǐ yě búcuò.", "translation": "Mình thấy bạn á, vẫn nên 'nhập gia tùy tục' đi. Hồi mới đến mình cũng không quen. Sống ở Trung Quốc nửa năm, cảm thấy ngủ sớm dậy sớm cũng không tệ." },
+        { "speaker": "杰森", "hanzi": "入乡随俗？“入乡随俗”是什么意思？", "pinyin": "Rù xiāng suí sú? “Rù xiāng suí sú” shì shénme yìsi?", "translation": "Nhập gia tùy tục? 'Nhập gia tùy tục' có ý nghĩa là gì?" },
+        { "speaker": "汉娜", "hanzi": "这是汉语的一个成语，意思是，到什么地方，就要遵守那儿的风俗习惯。", "pinyin": "Zhè shì Hànyǔ de yí gè chéngyǔ, yìsi shì, dào shénme dìfang, jiù yào zūnshǒu nàr de fēngsú xíguàn.", "translation": "Đây là một thành ngữ tiếng Hán, ý là, đến nơi nào thì phải tuân thủ phong tục tập quán ở nơi đó." },
+        { "speaker": "杰森", "hanzi": "哦，入乡随俗，这个词有用，我得记住。", "pinyin": "Ò, rù xiāng suí sú, zhège cí yǒuyòng, wǒ děi jìzhù.", "translation": "Ồ, nhập gia tùy tục, từ này thật hữu ích, mình phải nhớ kỹ." }
+      ],
+      "questions": [
+        { "q": "杰森问汉娜一个什么问题？", "a": "他问为什么早上7点集合这么早。" },
+        { "q": "为什么杰森觉得 8 点上课太早？", "a": "因为他早上特别不想起床。" },
+        { "q": "中国人的习惯是什么？", "a": "中国人都习惯早睡早起。" },
+        { "q": "汉娜给杰森一个什么建议？", "a": "她建议杰森晚上早点儿睡，或者入乡随俗。" },
+        { "q": "汉娜已经“入乡随俗”了吗？", "a": "是的，她觉得早睡早起也不错。" }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "课文 (二)",
+      "context": "大家在运动场上集合，杰森来晚了",
+      "lines": [
+        { "speaker": "汉娜", "hanzi": "你怎么才来啊？都七点一刻了。", "pinyin": "Nǐ zěnme cái lái a? Dōu qī diǎn yí kè le.", "translation": "Sao bây giờ bạn mới đến? Đã bảy giờ mười lăm phút rồi." },
+        { "speaker": "杰森", "hanzi": "没关系，就晚了一会儿。", "pinyin": "Méi guānxi, jiù wǎn le yí huìr.", "translation": "Không sao đâu, chỉ muộn một lúc thôi mà." },
+        { "speaker": "汉娜", "hanzi": "昨天不是告诉你了吗？要早点儿睡觉。", "pinyin": "Zuótiān bú shì gàosu nǐ le ma? Yào zǎo diǎnr shuìjiào.", "translation": "Hôm qua không phải đã nói với bạn rồi sao? Phải ngủ sớm một chút." },
+        { "speaker": "杰森", "hanzi": "昨天晚上，我和同屋看电影，快两点才睡。", "pinyin": "Zuótiān wǎnshang, wǒ hé tóngwū kàn diànyǐng, kuài liǎng diǎn cái shuì.", "translation": "Tối hôm qua, mình và bạn cùng phòng xem phim, sắp hai giờ mới ngủ." },
+        { "speaker": "汉娜", "hanzi": "快两点才睡？太晚了。什么电影这么吸引人？", "pinyin": "Kuài liǎng diǎn cái shuì? Tài wǎn le. Shénme diànyǐng zhème xīyǐn rén?", "translation": "Gần hai giờ mới ngủ? Muộn quá rồi. Phim gì mà thu hút thế?" },
+        { "speaker": "杰森", "hanzi": "是一个中国电影，挺不错的。", "pinyin": "Shì yí gè Zhōngguó diànyǐng, tǐng búcuò de.", "translation": "Là một bộ phim điện ảnh Trung Quốc, khá hay đấy." },
+        { "speaker": "汉娜", "hanzi": "中国电影？能听懂吗？", "pinyin": "Zhōngguó diànyǐng? Néng tīngdǒng ma?", "translation": "Phim Trung Quốc á? Có nghe hiểu không?" },
+        { "speaker": "杰森", "hanzi": "一边听，一边看字幕，差不多都能懂。", "pinyin": "Yìbiān tīng, yìbiān kàn zìmù, chàbuduō dōu néng dǒng.", "translation": "Vừa nghe, vừa xem phụ đề, gần như đều hiểu được." },
+        { "speaker": "汉娜", "hanzi": "你的汉语进步得真快。对了，下次有好电影，别忘了叫我一起看。", "pinyin": "Nǐ de Hànyǔ jìnbù de zhēn kuài. Duì le, xià cì yǒu hǎo diànyǐng, bié wàng le jiào wǒ yìqǐ kàn.", "translation": "Tiếng Hán của bạn tiến bộ nhanh thật. À đúng rồi, lần sau có phim hay đừng quên rủ mình xem cùng nhé." },
+        { "speaker": "杰森", "hanzi": "好啊，不过，就怕你不能熬夜。", "pinyin": "Hǎo a, búguò, jiù pà nǐ bù néng áoyè.", "translation": "Được thôi, nhưng mà, chỉ sợ bạn không thức khuya được." },
+        { "speaker": "汉娜", "hanzi": "偶尔一两次，没问题。", "pinyin": "Ǒu'ěr yì liǎng cì, méi wèntí.", "translation": "Thỉnh thoảng một hai lần thì không vấn đề gì." }
+      ],
+      "questions": [
+        { "q": "杰森为什么来晚了？", "a": "因为昨天晚上他和同屋看电影，快两点才睡。" },
+        { "q": "杰森怎么看中国电影？", "a": "他一边听，一边看字幕。" },
+        { "q": "汉娜也想做什么？", "a": "下次有好的电影，她也想一起看。" },
+        { "q": "汉娜能熬夜吗？", "a": "偶尔一两次，她可以熬夜。" }
+      ]
+    }
+  ],
+  "functional_sentences": [
+    {
+      "category": "不满意 (Thể hiện sự không hài lòng)",
+      "examples": [
+        "太早了。(Sớm quá.)",
+        "太贵了。(Đắt quá.)",
+        "你怎么才来？都七点一刻了。(Sao giờ này cậu mới đến? Đã bảy giờ mười lăm phút rồi.)",
+        "昨天不是告诉你了吗？要早点儿睡觉。(Hôm qua không phải đã bảo cậu rồi sao? Phải đi ngủ sớm.)"
+      ]
+    },
+    {
+      "category": "建议 (Đưa ra lời khuyên)",
+      "examples": [
+        "我建议你晚上早点儿睡。(Mình khuyên cậu buổi tối ngủ sớm một chút.)",
+        "我看你呀，还是入乡随俗吧。(Mình thấy cậu á, vẫn nên nhập gia tùy tục thôi.)",
+        "我看你还是先打个电话问问吧。(Mình thấy cậu vẫn nên gọi điện thoại hỏi trước đi.)"
+      ]
+    },
+    {
+      "category": "说明 (Đưa ra lời giải thích)",
+      "examples": [
+        "“入乡随俗”是汉语的一个成语。('Nhập gia tùy tục' là một thành ngữ tiếng Hán.)",
+        "“入乡随俗”的意思是……('Nhập gia tùy tục' có nghĩa là...)"
+      ]
+    },
+    {
+      "category": "评价 (Đưa ra lời đánh giá)",
+      "examples": [
+        "我觉得早睡早起也不错。(Mình cảm thấy ngủ sớm dậy sớm cũng không tệ.)",
+        "那个电影挺不错的。(Bộ phim đó khá là hay.)",
+        "你这件衣服挺好看的。(Bộ quần áo này của cậu khá là đẹp.)"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill-in-the-blank",
+      "instruction": "Hoàn thành hội thoại sau:",
+      "questions": [
+        {
+          "context": "A: 我想问一个问题，可以吗？\nB: 当然可以，___________________________。\nA: 为什么咱们每天8点就上课？太早了。\nB: 不早吧，中国人___________________________。",
+          "hint": "(Gợi ý: 什么问题 / 习惯早睡早起)",
+          "answer": "什么问题，你说吧 / 中国人都习惯早睡早起"
+        },
+        {
+          "context": "A: 汉娜，每天早上我都不想起床，怎么办呀？\nB: ___________________________，早睡就能早起。\nA: 咱们为什么不能晚一点儿上课呢？\nB: 我刚开始也不习惯。在中国生活了半年，___________________________。",
+          "hint": "(Gợi ý: 我建议你晚上早点儿睡 / 觉得早睡早起也不错)",
+          "answer": "我建议你晚上早点儿睡 / 觉得早睡早起也不错"
+        },
+        {
+          "context": "A: 我不想去吃饭，我对中餐特别不习惯。\nB: 我看你呀，还是入乡随俗吧。\nA: ___________________________？\nB: 入乡随俗是汉语的一个成语，意思是，到什么地方，___________________________。",
+          "hint": "(Gợi ý: 入乡随俗是什么意思 / 就要遵守那儿的风俗习惯)",
+          "answer": "入乡随俗是什么意思 / 就要遵守那儿的风俗习惯"
+        },
+        {
+          "context": "A: 明天星期六，8点不上课，能好好儿睡一觉了。\nB: 太好了，我___________________________。\nA: 对了，你明天去银行，别忘了叫我一起去。\nB: 好啊，不过，___________________________。\nA: 你别上午去了，___________________________怎么样？\nB: 下午去也行。",
+          "hint": "(Gợi ý: 晚上可以晚点儿睡 / 就怕你不能早起 / 下午去)",
+          "answer": "晚上可以晚点儿睡 / 就怕你起不来 / 下午去"
+        }
+      ]
+    },
+    {
+      "type": "substitution",
+      "instruction": "Luyện tập thay thế từ:",
+      "questions": [
+        {
+          "sentence": "同屋建议我晚上早点儿睡。",
+          "substitutes": [
+            "妈妈建议我去中国学汉语",
+            "老师建议我多和中国朋友聊天儿",
+            "朋友建议我好好儿看看这本书",
+            "同学建议我早点儿去医院"
+          ]
+        },
+        {
+          "sentence": "你看你呀，还是入乡随俗吧。",
+          "substitutes": [
+            "别去了",
+            "跟我们去旅游吧",
+            "好好儿准备考试吧",
+            "别画画儿了，学书法吧"
+          ]
+        },
+        {
+          "sentence": "怎么才来啊？晚会都开始了。",
+          "substitutes": [
+            "怎么才起床？别人都走了。",
+            "怎么才到？大家都等你呢。",
+            "怎么才出来？车快开了。"
+          ]
+        }
+      ]
+    }
+  ]
+}
