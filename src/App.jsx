@@ -745,7 +745,20 @@ function App() {
                 </div>
 
                 {vocabView === 'flashcard' && <FlashcardViewer words={currentLessonData.vocabulary} />}
-                {vocabView === 'list' && <ListViewer words={currentLessonData.vocabulary} />}
+                {vocabView === 'list' && (
+                  <>
+                    {currentLessonData.vocabAudioPath && (
+                      <div className="full-audio-player" style={{ marginBottom: '1rem', background: 'var(--card-bg)', padding: '0.75rem', borderRadius: '0.75rem', border: '1px solid var(--border-color)', display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '0.5rem' }}>
+                        <span style={{ fontSize: '0.9rem', color: 'var(--text-muted)' }}>🎧 Nghe toàn bộ từ vựng</span>
+                        <audio controls style={{ width: '100%', height: '40px', outline: 'none' }}>
+                          <source src={`${import.meta.env.BASE_URL}${currentLessonData.vocabAudioPath}`} type="audio/mpeg" />
+                          Trình duyệt của bạn không hỗ trợ thẻ audio.
+                        </audio>
+                      </div>
+                    )}
+                    <ListViewer words={currentLessonData.vocabulary} />
+                  </>
+                )}
                 {vocabView === 'quiz' && <QuizViewer words={currentLessonData.vocabulary} />}
                 {vocabView === 'match' && <MatchGame words={currentLessonData.vocabulary} />}
               </>

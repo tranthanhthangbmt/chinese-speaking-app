@@ -1,7 +1,8 @@
 {
   "lesson": 2,
+  "vocabAudioPath": "audio/03.mp3",
   "title": "晚上早点儿睡 (Go to bed early at night)",
-  "pdfPage": 13,
+  "pdfPage": 9,
   "vocabulary": [
     { "id": 1, "hanzi": "问题", "pinyin": "wèntí", "meaning": "câu hỏi, vấn đề", "type": "danh từ" },
     { "id": 2, "hanzi": "运动会", "pinyin": "yùndònghuì", "meaning": "đại hội thể thao", "type": "danh từ" },
@@ -36,7 +37,7 @@
   "dialogues": [
     {
       "id": 1,
-      "audioPath": "audio/02.mp3",
+      "audioPath": "audio/04.mp3",
       "title": "课文 (一)",
       "context": "杰森和汉娜聊天儿",
       "lines": [

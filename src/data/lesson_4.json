@@ -1,5 +1,6 @@
 {
   "lesson": 4,
+  "vocabAudioPath": "audio/07.mp3",
   "title": "你想租什么样的房子 (Bạn muốn thuê căn hộ như thế nào)",
   "pdfPage": 37,
   "vocabulary": [
@@ -27,7 +28,7 @@
   "dialogues": [
     {
       "id": 1,
-      "audioPath": "audio/04.mp3",
+      "audioPath": "audio/08.mp3",
       "title": "课文 (一)",
       "context": "Tiểu Minh đến trung tâm môi giới để tìm thuê nhà",
       "lines": [

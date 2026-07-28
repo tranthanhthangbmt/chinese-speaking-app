@@ -1,5 +1,6 @@
 {
   "lesson": 1,
+  "vocabAudioPath": "audio/01.mp3",
   "title": "我哪儿都没去过 (I haven't been anywhere)",
   "pdfPage": 1,
   "vocabulary": [
@@ -31,7 +32,7 @@
   "dialogues": [
     {
       "id": 1,
-      "audioPath": "audio/01.mp3",
+      "audioPath": "audio/02.mp3",
       "title": "课文 (一)",
       "context": "友美在路上遇到好朋友铃木",
       "lines": [

@@ -1,5 +1,6 @@
 {
   "lesson": 5,
+  "vocabAudioPath": "audio/09.mp3",
   "title": "请问去银行怎么走 (Xin hỏi đi đến ngân hàng như thế nào)",
   "pdfPage": 49,
   "vocabulary": [
@@ -27,7 +28,7 @@
   "dialogues": [
     {
       "id": 1,
-      "audioPath": "audio/05.mp3",
+      "audioPath": "audio/10.mp3",
       "title": "课文 (一)",
       "context": "Một người nước ngoài hỏi đường cảnh sát giao thông",
       "lines": [

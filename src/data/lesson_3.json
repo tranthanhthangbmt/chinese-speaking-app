@@ -1,7 +1,8 @@
 {
   "lesson": 3,
+  "vocabAudioPath": "audio/05.mp3",
   "title": "好像要下雨了 (Hình như sắp mưa rồi)",
-  "pdfPage": 25,
+  "pdfPage": 13,
   "vocabulary": [
     { "id": 1, "hanzi": "好像", "pinyin": "hǎoxiàng", "meaning": "hình như, có vẻ", "type": "phó từ" },
     { "id": 2, "hanzi": "下雨", "pinyin": "xiàyǔ", "meaning": "trời mưa", "type": "động từ" },
@@ -32,7 +33,7 @@
   "dialogues": [
     {
       "id": 1,
-      "audioPath": "audio/03.mp3",
+      "audioPath": "audio/06.mp3",
       "title": "课文 (一)",
       "context": "大卫和马克在 chuẩn bị đi ra ngoài",
       "lines": [
