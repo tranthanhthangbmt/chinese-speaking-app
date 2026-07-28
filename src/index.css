@@ -942,3 +942,75 @@ body {
     grid-template-columns: repeat(2, 1fr) !important;
   }
 }
+/* Mobile Sidebar Styles */
+.mobile-menu-btn {
+  display: none;
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  color: var(--text-main);
+  cursor: pointer;
+  padding: 0 10px 0 0;
+}
+
+.sidebar-overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0,0,0,0.5);
+  z-index: 90;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.sidebar-overlay.active {
+  display: block;
+  opacity: 1;
+}
+
+@media (max-width: 768px) {
+  .app-container {
+    flex-direction: column;
+  }
+  .sidebar {
+    position: fixed;
+    top: 0;
+    left: -280px;
+    height: 100vh;
+    z-index: 100;
+    box-shadow: var(--shadow-lg);
+  }
+  .sidebar.open {
+    left: 0;
+  }
+  .mobile-menu-btn {
+    display: block;
+  }
+  .top-nav {
+    display: flex;
+    align-items: center;
+  }
+  .tabs-container {
+    flex-wrap: wrap;
+  }
+  .tab-btn {
+    flex: 1 1 45%;
+    margin-bottom: 5px;
+  }
+  .view-controls {
+    flex-wrap: wrap;
+  }
+  .view-btn {
+    flex: 1 1 45%;
+    margin-bottom: 5px;
+  }
+  .preset-modes, .custom-toggles {
+    flex-wrap: wrap;
+  }
+  .preset-btn, .toggle-pill {
+    flex: 1 1 45%;
+  }
+}

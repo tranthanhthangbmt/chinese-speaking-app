@@ -621,6 +621,7 @@ function App() {
   const [activeTab, setActiveTab] = useState('vocab');
   // Sub-view cho Từ vựng: 'flashcard' hoặc 'list'
   const [vocabView, setVocabView] = useState('flashcard');
+  const [isSidebarOpen, setIsSidebarOpen] = useState(false);
 
   useEffect(() => {
     if (darkMode) {
@@ -634,7 +635,8 @@ function App() {
 
   return (
     <div className="app-container">
-      <aside className="sidebar">
+      <div className={`sidebar-overlay ${isSidebarOpen ? 'active' : ''}`} onClick={() => setIsSidebarOpen(false)}></div>
+      <aside className={`sidebar ${isSidebarOpen ? 'open' : ''}`}>
         <div className="sidebar-header">
           <h1>Khẩu ngữ sơ cấp 2</h1>
           <button 
@@ -654,6 +656,7 @@ function App() {
               onClick={() => {
                 setActiveLesson(lesson.lesson);
                 setActiveTab('vocab');
+                setIsSidebarOpen(false);
               }}
             >
               Bài {lesson.lesson}: {lesson.title}
@@ -672,6 +675,9 @@ function App() {
         {currentLessonData ? (
           <>
             <div className="top-nav">
+              <button className="mobile-menu-btn" onClick={() => setIsSidebarOpen(true)}>
+                ☰
+              </button>
               <h2>Bài {currentLessonData.lesson}: {currentLessonData.title}</h2>
             </div>
             
