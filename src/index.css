@@ -994,18 +994,26 @@ body {
     align-items: center;
   }
   .tabs-container {
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    padding-bottom: 5px;
   }
   .tab-btn {
-    flex: 1 1 45%;
-    margin-bottom: 5px;
+    flex: 0 0 auto;
+    margin-bottom: 0;
+    white-space: nowrap;
   }
   .view-controls {
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    padding-bottom: 5px;
   }
   .view-btn {
-    flex: 1 1 45%;
-    margin-bottom: 5px;
+    flex: 0 0 auto;
+    margin-bottom: 0;
+    white-space: nowrap;
   }
   .preset-modes, .custom-toggles {
     flex-wrap: wrap;

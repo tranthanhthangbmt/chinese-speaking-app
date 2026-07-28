@@ -674,14 +674,15 @@ function App() {
       <main className="main-content">
         {currentLessonData ? (
           <>
-            <div className="top-nav">
-              <button className="mobile-menu-btn" onClick={() => setIsSidebarOpen(true)}>
-                ☰
-              </button>
-              <h2>Bài {currentLessonData.lesson}: {currentLessonData.title}</h2>
-            </div>
-            
-            <div className="tabs-container">
+            <div className="header-sticky" style={{ position: 'sticky', top: 0, background: 'var(--bg-color)', zIndex: 50, paddingTop: '2rem', marginTop: '-2rem', paddingBottom: '0.5rem', borderBottom: '1px solid var(--border-color)', marginBottom: '1.5rem' }}>
+              <div className="top-nav" style={{ marginBottom: '1rem' }}>
+                <button className="mobile-menu-btn" onClick={() => setIsSidebarOpen(true)}>
+                  ☰
+                </button>
+                <h2>Bài {currentLessonData.lesson}: {currentLessonData.title}</h2>
+              </div>
+              
+              <div className="tabs-container" style={{ borderBottom: 'none', marginBottom: 0 }}>
               <button 
                 className={`tab-btn ${activeTab === 'vocab' ? 'active' : ''}`}
                 onClick={() => setActiveTab('vocab')}
@@ -712,6 +713,7 @@ function App() {
               >
                 📖 Sách giáo khoa
               </button>
+            </div>
             </div>
 
             {/* Rendering based on activeTab */}
