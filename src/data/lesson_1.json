@@ -133,7 +133,7 @@
       "instruction": "Luyện tập thay thế từ:",
       "questions": [
         {
-          "sentence": "A: 真没想到在这儿看见你。\nB: 我也没想到。",
+          "sentence": "A: 真没想到【在这儿看见你】。\nB: 我也没想到。",
           "substitutes": [
             "他也来了",
             "面试这么容易",
@@ -142,7 +142,7 @@
           ]
         },
         {
-          "sentence": "A: 你能陪我去买东西吗？\nB: 对不起，要是有时间的话，我一定去。",
+          "sentence": "A: 你能陪我【去买东西】吗？\nB: 对不起，要是有时间的话，我一定去。",
           "substitutes": [
             "逛公园",
             "去买书",

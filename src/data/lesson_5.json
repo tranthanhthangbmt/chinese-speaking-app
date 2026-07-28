@@ -1,69 +1,114 @@
 {
   "lesson": 5,
   "title": "请问去银行怎么走 (Xin hỏi đi đến ngân hàng như thế nào)",
+  "pdfPage": 49,
   "vocabulary": [
+    { "id": 1, "hanzi": "请问", "pinyin": "qǐngwèn", "meaning": "xin hỏi", "type": "động từ" },
+    { "id": 2, "hanzi": "银行", "pinyin": "yínháng", "meaning": "ngân hàng", "type": "danh từ" },
+    { "id": 3, "hanzi": "怎么", "pinyin": "zěnme", "meaning": "như thế nào", "type": "đại từ" },
+    { "id": 4, "hanzi": "走", "pinyin": "zǒu", "meaning": "đi", "type": "động từ" },
+    { "id": 5, "hanzi": "一直", "pinyin": "yìzhí", "meaning": "đi thẳng, liên tục", "type": "phó từ" },
+    { "id": 6, "hanzi": "往", "pinyin": "wǎng", "meaning": "hướng về", "type": "giới từ" },
+    { "id": 7, "hanzi": "前", "pinyin": "qián", "meaning": "phía trước", "type": "danh từ chỉ phương hướng" },
+    { "id": 8, "hanzi": "十字路口", "pinyin": "shízì lùkǒu", "meaning": "ngã tư", "type": "danh từ" },
+    { "id": 9, "hanzi": "拐", "pinyin": "guǎi", "meaning": "rẽ", "type": "động từ" },
+    { "id": 10, "hanzi": "迷路", "pinyin": "mílù", "meaning": "lạc đường", "type": "động từ" },
+    { "id": 11, "hanzi": "离", "pinyin": "lí", "meaning": "cách", "type": "giới từ" },
+    { "id": 12, "hanzi": "远", "pinyin": "yuǎn", "meaning": "xa", "type": "tính từ" },
+    { "id": 13, "hanzi": "近", "pinyin": "jìn", "meaning": "gần", "type": "tính từ" },
+    { "id": 14, "hanzi": "过", "pinyin": "guò", "meaning": "qua, đi qua", "type": "động từ" },
+    { "id": 15, "hanzi": "马路", "pinyin": "mǎlù", "meaning": "đường lớn, đường bộ", "type": "danh từ" },
+    { "id": 16, "hanzi": "对面", "pinyin": "duìmiàn", "meaning": "đối diện", "type": "danh từ chỉ phương hướng" },
+    { "id": 17, "hanzi": "大概", "pinyin": "dàgài", "meaning": "khoảng chừng, đại khái", "type": "phó từ" },
+    { "id": 18, "hanzi": "分钟", "pinyin": "fēnzhōng", "meaning": "phút", "type": "danh từ" },
+    { "id": 19, "hanzi": "旁边", "pinyin": "pángbiān", "meaning": "bên cạnh", "type": "danh từ chỉ phương hướng" },
+    { "id": 20, "hanzi": "谢谢", "pinyin": "xièxie", "meaning": "cảm ơn", "type": "động từ" }
+  ],
+  "dialogues": [
     {
       "id": 1,
-      "hanzi": "请问",
-      "pinyin": "qǐngwèn",
-      "meaning": "xin hỏi",
-      "type": "động từ"
+      "title": "课文 (一)",
+      "context": "Một người nước ngoài hỏi đường cảnh sát giao thông",
+      "lines": [
+        { "speaker": "游客", "hanzi": "警察先生，打扰一下，请问去中国银行怎么走？我好像迷路了。", "pinyin": "Jǐngchá xiānsheng, dǎrǎo yíxià, qǐngwèn qù Zhōngguó Yínháng zěnme zǒu? Wǒ hǎoxiàng mílù le.", "translation": "Thưa đồng chí cảnh sát, làm phiền một chút, xin hỏi đi đến ngân hàng Trung Quốc như thế nào ạ? Hình như tôi bị lạc đường rồi." },
+        { "speaker": "警察", "hanzi": "中国银行是吗？这里离那儿不太远。", "pinyin": "Zhōngguó Yínháng shì ma? Zhèlǐ lí nàr bú tài yuǎn.", "translation": "Ngân hàng Trung Quốc phải không? Ở đây cách đó không xa lắm đâu." },
+        { "speaker": "游客", "hanzi": "走路大概需要多长时间？", "pinyin": "Zǒulù dàgài xūyào duō cháng shíjiān?", "translation": "Đi bộ thì khoảng chừng cần bao nhiêu thời gian ạ?" },
+        { "speaker": "警察", "hanzi": "走路大概十分钟就到了。你顺着这条路一直往前走，过两个十字路口。", "pinyin": "Zǒulù dàgài shí fēnzhōng jiù dào le. Nǐ shùnzhe zhè tiáo lù yìzhí wǎng qián zǒu, guò liǎng gè shízì lùkǒu.", "translation": "Đi bộ khoảng 10 phút là tới. Bạn cứ đi dọc theo con đường này đi thẳng về phía trước, qua hai cái ngã tư." },
+        { "speaker": "游客", "hanzi": "过了两个十字路口以后呢？", "pinyin": "Guò le liǎng gè shízì lùkǒu yǐhòu ne?", "translation": "Qua hai ngã tư xong thì sao ạ?" },
+        { "speaker": "警察", "hanzi": "到了第二个十字路口往右拐，你就能看到一个大超市。中国银行就在超市的对面。", "pinyin": "Dào le dì èr gè shízì lùkǒu wǎng yòu guǎi, nǐ jiù néng kàndào yí gè dà chāoshì. Zhōngguó Yínháng jiù zài chāoshì de duìmiàn.", "translation": "Đến ngã tư thứ hai thì rẽ phải, bạn sẽ nhìn thấy một siêu thị lớn. Ngân hàng Trung Quốc nằm ngay đối diện siêu thị." },
+        { "speaker": "游客", "hanzi": "一直往前走，第二个十字路口右拐，在超市对面。我记住了，谢谢您！", "pinyin": "Yìzhí wǎng qián zǒu, dì èr gè shízì lùkǒu yòu guǎi, zài chāoshì duìmiàn. Wǒ jì zhù le, xièxie nín!", "translation": "Đi thẳng về phía trước, ngã tư thứ 2 rẽ phải, ở đối diện siêu thị. Tôi nhớ rồi, cảm ơn anh!" },
+        { "speaker": "警察", "hanzi": "不客气，过马路请注意安全。", "pinyin": "Bú kèqi, guò mǎlù qǐng zhùyì ānquán.", "translation": "Không có gì, qua đường xin chú ý an toàn." }
+      ],
+      "questions": [
+        { "q": "Du khách gặp vấn đề gì?", "a": "Du khách bị lạc đường và muốn tìm đường đến Ngân hàng Trung Quốc." },
+        { "q": "Ngân hàng cách đó có xa không? Đi bộ mất bao lâu?", "a": "Cách đó không xa, đi bộ mất khoảng 10 phút." },
+        { "q": "Vị trí của ngân hàng nằm ở đâu?", "a": "Nằm ở đối diện một siêu thị lớn." }
+      ]
     },
     {
       "id": 2,
-      "hanzi": "银行",
-      "pinyin": "yínháng",
-      "meaning": "ngân hàng",
-      "type": "danh từ"
+      "title": "课文 (二)",
+      "context": "Hỏi đường đi đến tàu điện ngầm",
+      "lines": [
+        { "speaker": "A", "hanzi": "你好，请问离这里最近的地铁站在哪儿？", "pinyin": "Nǐ hǎo, qǐngwèn lí zhèlǐ zuì jìn de dìtiě zhàn zài nǎr?", "translation": "Chào bạn, xin hỏi trạm tàu điện ngầm gần đây nhất ở đâu vậy?" },
+        { "speaker": "B", "hanzi": "地铁站啊，你往回走，过了那个红绿灯，往左拐就能看到了。", "pinyin": "Dìtiě zhàn a, nǐ wǎng huí zǒu, guò le nàge hónglǜdēng, wǎng zuǒ guǎi jiù néng kàndào le.", "translation": "Trạm tàu điện à, bạn đi ngược lại, qua cái đèn giao thông đó, rẽ trái là có thể thấy ngay." },
+        { "speaker": "A", "hanzi": "好的，地铁站旁边有什么特别的建筑吗？", "pinyin": "Hǎo de, dìtiě zhàn pángbiān yǒu shénme tèbié de jiànzhù ma?", "translation": "Vâng, bên cạnh trạm tàu điện ngầm có tòa nhà nào đặc biệt không?" },
+        { "speaker": "B", "hanzi": "旁边有一家很大的电影院，很好找的。", "pinyin": "Pángbiān yǒu yì jiā hěn dà de diànyǐngyuàn, hěn hǎo zhǎo de.", "translation": "Bên cạnh có một rạp chiếu phim rất lớn, rất dễ tìm." },
+        { "speaker": "A", "hanzi": "太感谢了！", "pinyin": "Tài gǎnxiè le!", "translation": "Cảm ơn rất nhiều!" }
+      ],
+      "questions": [
+        { "q": "Người A muốn đi đâu?", "a": "Người A muốn đi tìm trạm tàu điện ngầm gần nhất." },
+        { "q": "Bên cạnh trạm tàu điện ngầm có gì?", "a": "Có một rạp chiếu phim rất lớn." }
+      ]
+    }
+  ],
+  "functional_sentences": [
+    {
+      "category": "Hỏi đường",
+      "examples": [
+        "请问去中国银行怎么走？ (Xin hỏi đi đến ngân hàng TQ đi như thế nào?)",
+        "打扰一下，请问离这里最近的地铁站在哪儿？ (Xin làm phiền chút, cho hỏi trạm tàu điện gần đây nhất nằm ở đâu?)",
+        "去超市走路大概需要多长时间？ (Đi bộ đến siêu thị khoảng chừng mất bao lâu?)"
+      ]
     },
     {
-      "id": 3,
-      "hanzi": "怎么",
-      "pinyin": "zěnme",
-      "meaning": "như thế nào",
-      "type": "đại từ"
+      "category": "Chỉ đường",
+      "examples": [
+        "一直往前走，过两个十字路口。 (Cứ đi thẳng về phía trước, qua 2 cái ngã tư.)",
+        "到了红绿灯往右拐，银行就在超市对面。 (Đến đèn đỏ thì rẽ phải, ngân hàng nằm ngay đối diện siêu thị.)",
+        "这里离地铁站不太远，就在电影院旁边。 (Ở đây cách trạm tàu không xa lắm, nằm ngay cạnh rạp chiếu phim.)"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill-in-the-blank",
+      "instruction": "Hoàn thành hội thoại sau bằng từ thích hợp:",
+      "questions": [
+        {
+          "context": "A: 请问去学校怎么 __________？\nB: 一直往 __________ 走，大概五分钟就到了。",
+          "hint": "(Gợi ý: đi / phía trước)",
+          "answer": "走 / 前"
+        },
+        {
+          "context": "A: 超市在哪里？\nB: 过了前面的 __________ 往左拐，超市就在银行的 __________。",
+          "hint": "(Gợi ý: ngã tư / đối diện)",
+          "answer": "十字路口 / 对面"
+        }
+      ]
     },
     {
-      "id": 4,
-      "hanzi": "走",
-      "pinyin": "zǒu",
-      "meaning": "đi",
-      "type": "động từ"
-    },
-    {
-      "id": 5,
-      "hanzi": "一直",
-      "pinyin": "yìzhí",
-      "meaning": "đi thẳng, liên tục",
-      "type": "phó từ"
-    },
-    {
-      "id": 6,
-      "hanzi": "往",
-      "pinyin": "wǎng",
-      "meaning": "hướng về",
-      "type": "giới từ"
-    },
-    {
-      "id": 7,
-      "hanzi": "前",
-      "pinyin": "qián",
-      "meaning": "phía trước",
-      "type": "danh từ chỉ phương hướng"
-    },
-    {
-      "id": 8,
-      "hanzi": "十字路口",
-      "pinyin": "shízì lùkǒu",
-      "meaning": "ngã tư",
-      "type": "danh từ"
-    },
-    {
-      "id": 9,
-      "hanzi": "拐",
-      "pinyin": "guǎi",
-      "meaning": "rẽ",
-      "type": "động từ"
+      "type": "substitution",
+      "instruction": "Luyện tập thay thế từ trong mẫu câu:",
+      "questions": [
+        {
+          "sentence": "请问去【中国银行】怎么走？到了【十字路口】往【右】拐。",
+          "substitutes": [
+            "火车站 (ga xe lửa) / 红绿灯 (đèn giao thông) / 左 (trái)",
+            "超市 (siêu thị) / 第一个路口 (ngã rẽ đầu tiên) / 左 (trái)"
+          ]
+        }
+      ]
     }
   ]
 }

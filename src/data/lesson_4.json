@@ -1,62 +1,115 @@
 {
   "lesson": 4,
   "title": "你想租什么样的房子 (Bạn muốn thuê căn hộ như thế nào)",
+  "pdfPage": 37,
   "vocabulary": [
+    { "id": 1, "hanzi": "租", "pinyin": "zū", "meaning": "thuê", "type": "động từ" },
+    { "id": 2, "hanzi": "房子", "pinyin": "fángzi", "meaning": "căn hộ, nhà", "type": "danh từ" },
+    { "id": 3, "hanzi": "套", "pinyin": "tào", "meaning": "căn, bộ (lượng từ)", "type": "lượng từ" },
+    { "id": 4, "hanzi": "卧室", "pinyin": "wòshì", "meaning": "phòng ngủ", "type": "danh từ" },
+    { "id": 5, "hanzi": "客厅", "pinyin": "kètīng", "meaning": "phòng khách", "type": "danh từ" },
+    { "id": 6, "hanzi": "家具", "pinyin": "jiājù", "meaning": "nội thất", "type": "danh từ" },
+    { "id": 7, "hanzi": "安静", "pinyin": "ānjìng", "meaning": "yên tĩnh", "type": "tính từ" },
+    { "id": 8, "hanzi": "房租", "pinyin": "fángzū", "meaning": "tiền thuê nhà", "type": "danh từ" },
+    { "id": 9, "hanzi": "中介", "pinyin": "zhōngjiè", "meaning": "môi giới, trung gian", "type": "danh từ" },
+    { "id": 10, "hanzi": "环境", "pinyin": "huánjìng", "meaning": "môi trường, hoàn cảnh", "type": "danh từ" },
+    { "id": 11, "hanzi": "附近", "pinyin": "fùjìn", "meaning": "gần đây, lân cận", "type": "danh từ chỉ nơi chốn" },
+    { "id": 12, "hanzi": "超市", "pinyin": "chāoshì", "meaning": "siêu thị", "type": "danh từ" },
+    { "id": 13, "hanzi": "交通", "pinyin": "jiāotōng", "meaning": "giao thông", "type": "danh từ" },
+    { "id": 14, "hanzi": "方便", "pinyin": "fāngbiàn", "meaning": "tiện lợi", "type": "tính từ" },
+    { "id": 15, "hanzi": "厨房", "pinyin": "chúfáng", "meaning": "nhà bếp", "type": "danh từ" },
+    { "id": 16, "hanzi": "卫生间", "pinyin": "wèishēngjiān", "meaning": "phòng vệ sinh", "type": "danh từ" },
+    { "id": 17, "hanzi": "满意", "pinyin": "mǎnyì", "meaning": "hài lòng", "type": "tính từ" },
+    { "id": 18, "hanzi": "合同", "pinyin": "hétong", "meaning": "hợp đồng", "type": "danh từ" },
+    { "id": 19, "hanzi": "签", "pinyin": "qiān", "meaning": "ký", "type": "động từ" },
+    { "id": 20, "hanzi": "押金", "pinyin": "yājīn", "meaning": "tiền cọc", "type": "danh từ" }
+  ],
+  "dialogues": [
     {
       "id": 1,
-      "hanzi": "租",
-      "pinyin": "zū",
-      "meaning": "thuê",
-      "type": "động từ"
+      "title": "课文 (一)",
+      "context": "Tiểu Minh đến trung tâm môi giới để tìm thuê nhà",
+      "lines": [
+        { "speaker": "中介", "hanzi": "您好！请问您想租什么样的房子？", "pinyin": "Nín hǎo! Qǐngwèn nín xiǎng zū shénme yàng de fángzi?", "translation": "Chào anh! Xin hỏi anh muốn thuê căn hộ như thế nào?" },
+        { "speaker": "小明", "hanzi": "我想在大学附近租一套房子，最好是环境安静一点儿的。", "pinyin": "Wǒ xiǎng zài dàxué fùjìn zū yí tào fángzi, zuìhǎo shì huánjìng ānjìng yìdiǎnr de.", "translation": "Tôi muốn thuê một căn ở gần trường đại học, tốt nhất là môi trường yên tĩnh một chút." },
+        { "speaker": "中介", "hanzi": "您想要多大的？一室一厅还是两室一厅？", "pinyin": "Nín xiǎng yào duōdà de? Yí shì yì tīng háishì liǎng shì yì tīng?", "translation": "Anh muốn căn rộng bao nhiêu? Một phòng ngủ một phòng khách hay hai phòng ngủ một phòng khách?" },
+        { "speaker": "小明", "hanzi": "我一个人住，一室一厅就够了。里面有家具吗？", "pinyin": "Wǒ yí gè rén zhù, yí shì yì tīng jiù gòu le. Lǐmiàn yǒu jiājù ma?", "translation": "Tôi ở một mình, một phòng ngủ một phòng khách là đủ rồi. Bên trong có nội thất không?" },
+        { "speaker": "中介", "hanzi": "有的。我们这里刚好有一套很不错的房子，带厨房和卫生间，家具齐全，而且交通很方便。", "pinyin": "Yǒu de. Wǒmen zhèlǐ gānghǎo yǒu yí tào hěn búcuò de fángzi, dài chúfáng hé wèishēngjiān, jiājù qíquán, érqiě jiāotōng hěn fāngbiàn.", "translation": "Có ạ. Chỗ chúng tôi vừa hay có một căn rất tốt, có kèm bếp và phòng vệ sinh, nội thất đầy đủ, hơn nữa giao thông rất tiện lợi." },
+        { "speaker": "小明", "hanzi": "听起来不错，房租每个月多少钱？", "pinyin": "Tīng qǐlái búcuò, fángzū měi gè yuè duōshao qián?", "translation": "Nghe có vẻ tốt, tiền thuê nhà mỗi tháng bao nhiêu tiền?" },
+        { "speaker": "中介", "hanzi": "每个月三千块。如果您满意，我们可以现在就去看看。", "pinyin": "Měi gè yuè sān qiān kuài. Rúguǒ nín mǎnyì, wǒmen kěyǐ xiànzài jiù qù kànkan.", "translation": "Mỗi tháng 3000 tệ. Nếu anh thấy hài lòng, chúng ta có thể đi xem ngay bây giờ." },
+        { "speaker": "小明", "hanzi": "好，那麻烦你带我去看看吧。", "pinyin": "Hǎo, nà máfan nǐ dài wǒ qù kànkan ba.", "translation": "Được, vậy phiền anh dẫn tôi đi xem nhé." }
+      ],
+      "questions": [
+        { "q": "Tiểu Minh muốn thuê căn hộ ở đâu?", "a": "Tiểu Minh muốn thuê ở gần trường đại học." },
+        { "q": "Yêu cầu về căn hộ của Tiểu Minh là gì?", "a": "Cần yên tĩnh, một phòng ngủ một phòng khách và có nội thất." },
+        { "q": "Giá thuê nhà mỗi tháng là bao nhiêu?", "a": "Giá thuê là 3000 tệ mỗi tháng." }
+      ]
     },
     {
       "id": 2,
-      "hanzi": "房子",
-      "pinyin": "fángzi",
-      "meaning": "căn hộ, nhà",
-      "type": "danh từ"
+      "title": "课文 (二)",
+      "context": "Sau khi xem nhà, Tiểu Minh quyết định ký hợp đồng",
+      "lines": [
+        { "speaker": "小明", "hanzi": "这套房子确实很安静，附近还有超市和地铁站，我很满意。", "pinyin": "Zhè tào fángzi quèshí hěn ānjìng, fùjìn hái yǒu chāoshì hé dìtiě zhàn, wǒ hěn mǎnyì.", "translation": "Căn hộ này quả thực rất yên tĩnh, lân cận còn có siêu thị và trạm tàu điện ngầm, tôi rất hài lòng." },
+        { "speaker": "中介", "hanzi": "是的，很多学生和上班族都喜欢租这里的房子。您打算什么时候搬进来？", "pinyin": "Shì de, hěn duō xuésheng hé shàngbānzú dōu xǐhuan zū zhèlǐ de fángzi. Nín dǎsuàn shénme shíhou bān jìnlái?", "translation": "Vâng, rất nhiều sinh viên và người đi làm đều thích thuê ở đây. Anh định khi nào chuyển vào?" },
+        { "speaker": "小明", "hanzi": "下个周末。我们可以今天就签合同吗？", "pinyin": "Xià gè zhōumò. Wǒmen kěyǐ jīntiān jiù qiān hétong ma?", "translation": "Cuối tuần sau. Chúng ta có thể ký hợp đồng ngay hôm nay được không?" },
+        { "speaker": "中介", "hanzi": "没问题。这是合同，请您看一下。交房租的方式是押一付三，您需要先交一个月的押金和三个月的房租。", "pinyin": "Méi wèntí. Zhè shì hétong, qǐng nín kàn yíxià. Jiāo fángzū de fāngshì shì yā yī fù sān, nín xūyào xiān jiāo yí gè yuè de yājīn hé sān gè yuè de fángzū.", "translation": "Không vấn đề gì. Đây là hợp đồng, mời anh xem qua. Phương thức đóng tiền là cọc 1 tháng trả 3 tháng, anh cần đóng trước 1 tháng tiền cọc và 3 tháng tiền nhà." },
+        { "speaker": "小明", "hanzi": "好的，我看一下合同条款。如果没有问题，我马上转账给你。", "pinyin": "Hǎo de, wǒ kàn yíxià hétong tiáokuǎn. Rúguǒ méiyǒu wèntí, wǒ mǎshàng zhuǎnzhàng gěi nǐ.", "translation": "Được, để tôi xem qua điều khoản hợp đồng. Nếu không có vấn đề gì, tôi sẽ chuyển khoản cho anh ngay." }
+      ],
+      "questions": [
+        { "q": "Tại sao Tiểu Minh lại hài lòng với căn hộ này?", "a": "Vì căn hộ rất yên tĩnh, lại gần siêu thị và trạm tàu điện ngầm." },
+        { "q": "Phương thức thanh toán tiền thuê nhà là gì?", "a": "Là cọc 1 tháng, trả trước 3 tháng (押一付三)." },
+        { "q": "Khi nào Tiểu Minh định chuyển vào?", "a": "Tiểu Minh định chuyển vào cuối tuần sau." }
+      ]
+    }
+  ],
+  "functional_sentences": [
+    {
+      "category": "Nêu yêu cầu & Hỏi giá cả",
+      "examples": [
+        "我想租一套一室一厅的房子，最好有齐全的家具。(Tôi muốn thuê 1 căn 1 phòng ngủ 1 phòng khách, tốt nhất là có đủ nội thất.)",
+        "这套房子的房租每个月多少钱？(Tiền thuê của căn hộ này mỗi tháng bao nhiêu tiền?)",
+        "这里交通方便吗？附近有没有超市？(Giao thông ở đây có tiện không? Xung quanh có siêu thị không?)"
+      ]
     },
     {
-      "id": 3,
-      "hanzi": "套",
-      "pinyin": "tào",
-      "meaning": "căn, bộ (lượng từ)",
-      "type": "lượng từ"
+      "category": "Bày tỏ sự hài lòng & Đàm phán",
+      "examples": [
+        "这套房子的环境很安静，我很满意。(Môi trường của căn này rất yên tĩnh, tôi rất hài lòng.)",
+        "我们可以今天签合同吗？交房租的方式是什么？(Chúng ta có thể ký hợp đồng hôm nay không? Hình thức đóng tiền là gì?)",
+        "请问押金是多少？什么时候可以搬进来？(Xin hỏi tiền cọc là bao nhiêu? Khi nào có thể chuyển vào?)"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill-in-the-blank",
+      "instruction": "Hoàn thành hội thoại sau bằng từ thích hợp:",
+      "questions": [
+        {
+          "context": "A: 请问这套房子的 __________ 每个月多少钱？\nB: 3000块，而且里面的 __________ 很齐全，你可以直接搬进来。",
+          "hint": "(Gợi ý: tiền thuê nhà / đồ đạc nội thất)",
+          "answer": "房租 / 家具"
+        },
+        {
+          "context": "A: 这里的 __________ 很安静，我很 __________，我们什么时候能签合同？\nB: 今天就可以。",
+          "hint": "(Gợi ý: hoàn cảnh môi trường / hài lòng)",
+          "answer": "环境 / 满意"
+        }
+      ]
     },
     {
-      "id": 4,
-      "hanzi": "卧室",
-      "pinyin": "wòshì",
-      "meaning": "phòng ngủ",
-      "type": "danh từ"
-    },
-    {
-      "id": 5,
-      "hanzi": "客厅",
-      "pinyin": "kètīng",
-      "meaning": "phòng khách",
-      "type": "danh từ"
-    },
-    {
-      "id": 6,
-      "hanzi": "家具",
-      "pinyin": "jiājù",
-      "meaning": "nội thất",
-      "type": "danh từ"
-    },
-    {
-      "id": 7,
-      "hanzi": "安静",
-      "pinyin": "ānjìng",
-      "meaning": "yên tĩnh",
-      "type": "tính từ"
-    },
-    {
-      "id": 8,
-      "hanzi": "房租",
-      "pinyin": "fángzū",
-      "meaning": "tiền thuê nhà",
-      "type": "danh từ"
+      "type": "substitution",
+      "instruction": "Luyện tập thay thế từ trong mẫu câu:",
+      "questions": [
+        {
+          "sentence": "我想在【大学附近】租一套【一室一厅】的房子。",
+          "substitutes": [
+            "地铁站附近 (gần trạm tàu) / 两室一厅 (hai phòng ngủ một phòng khách)",
+            "市中心 (trung tâm thành phố) / 带厨房和卫生间 (kèm bếp và nhà vệ sinh)"
+          ]
+        }
+      ]
     }
   ]
 }

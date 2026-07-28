@@ -1,55 +1,129 @@
 {
   "lesson": 3,
   "title": "好像要下雨了 (Hình như sắp mưa rồi)",
+  "pdfPage": 25,
   "vocabulary": [
+    { "id": 1, "hanzi": "好像", "pinyin": "hǎoxiàng", "meaning": "hình như, có vẻ", "type": "phó từ" },
+    { "id": 2, "hanzi": "下雨", "pinyin": "xiàyǔ", "meaning": "trời mưa", "type": "động từ" },
+    { "id": 3, "hanzi": "伞", "pinyin": "sǎn", "meaning": "cái ô (dù)", "type": "danh từ" },
+    { "id": 4, "hanzi": "刮风", "pinyin": "guāfēng", "meaning": "nổi gió", "type": "động từ" },
+    { "id": 5, "hanzi": "秋天", "pinyin": "qiūtiān", "meaning": "mùa thu", "type": "danh từ" },
+    { "id": 6, "hanzi": "冷", "pinyin": "lěng", "meaning": "lạnh", "type": "tính từ" },
+    { "id": 7, "hanzi": "感冒", "pinyin": "gǎnmào", "meaning": "cảm cúm", "type": "động từ" },
+    { "id": 8, "hanzi": "天气", "pinyin": "tiānqì", "meaning": "thời tiết", "type": "danh từ" },
+    { "id": 9, "hanzi": "预报", "pinyin": "yùbào", "meaning": "dự báo", "type": "danh/động từ" },
+    { "id": 10, "hanzi": "气温", "pinyin": "qìwēn", "meaning": "nhiệt độ", "type": "danh từ" },
+    { "id": 11, "hanzi": "度", "pinyin": "dù", "meaning": "độ", "type": "lượng từ" },
+    { "id": 12, "hanzi": "春天", "pinyin": "chūntiān", "meaning": "mùa xuân", "type": "danh từ" },
+    { "id": 13, "hanzi": "夏天", "pinyin": "xiàtiān", "meaning": "mùa hè", "type": "danh từ" },
+    { "id": 14, "hanzi": "冬天", "pinyin": "dōngtiān", "meaning": "mùa đông", "type": "danh từ" },
+    { "id": 15, "hanzi": "舒服", "pinyin": "shūfu", "meaning": "dễ chịu, thoải mái", "type": "tính từ" },
+    { "id": 16, "hanzi": "穿", "pinyin": "chuān", "meaning": "mặc, đi (giày)", "type": "động từ" },
+    { "id": 17, "hanzi": "衣服", "pinyin": "yīfu", "meaning": "quần áo", "type": "danh từ" },
+    { "id": 18, "hanzi": "带", "pinyin": "dài", "meaning": "mang theo", "type": "động từ" },
+    { "id": 19, "hanzi": "别", "pinyin": "bié", "meaning": "đừng", "type": "phó từ" },
+    { "id": 20, "hanzi": "担心", "pinyin": "dānxīn", "meaning": "lo lắng", "type": "động từ" },
+    { "id": 21, "hanzi": "照顾", "pinyin": "zhàogù", "meaning": "chăm sóc", "type": "động từ" },
+    { "id": 22, "hanzi": "身体", "pinyin": "shēntǐ", "meaning": "cơ thể, sức khỏe", "type": "danh từ" },
+    { "id": 23, "hanzi": "医院", "pinyin": "yīyuàn", "meaning": "bệnh viện", "type": "danh từ" },
+    { "id": 24, "hanzi": "看病", "pinyin": "kànbìng", "meaning": "khám bệnh", "type": "động từ" },
+    { "id": 25, "hanzi": "休息", "pinyin": "xiūxi", "meaning": "nghỉ ngơi", "type": "động từ" }
+  ],
+  "dialogues": [
     {
       "id": 1,
-      "hanzi": "好像",
-      "pinyin": "hǎoxiàng",
-      "meaning": "hình như, có vẻ",
-      "type": "phó từ"
+      "title": "课文 (一)",
+      "context": "大卫和马克在 chuẩn bị đi ra ngoài",
+      "lines": [
+        { "speaker": "大卫", "hanzi": "马克，你看外边，外面黑沉沉的，好像要下雨了。", "pinyin": "Mǎkè, nǐ kàn wàibiān, wàimiàn hēichénchén de, hǎoxiàng yào xiàyǔ le.", "translation": "Mark, cậu nhìn ra ngoài xem, bên ngoài tối sầm lại rồi, hình như sắp mưa rồi." },
+        { "speaker": "马克", "hanzi": "是啊，还刮起风来了。今天的天气预报怎么说？", "pinyin": "Shì a, hái guā qǐ fēng lái le. Jīntiān de tiānqì yùbào zěnme shuō?", "translation": "Ừ nhỉ, lại còn bắt đầu nổi gió nữa. Dự báo thời tiết hôm nay nói thế nào?" },
+        { "speaker": "大卫", "hanzi": "天气预报说 hôm nay có mưa rào, nhiệt độ từ 18 đến 22 độ.", "pinyin": "Tiānqì yùbào shuō jīntiān yǒu zhènyǔ, qìwēn cóng shíbā dào èrshí'èr dù.", "translation": "Dự báo thời tiết nói hôm nay có mưa rào, nhiệt độ từ 18 đến 22 độ." },
+        { "speaker": "马克", "hanzi": "秋天到了，天气越来越冷了。 chúng ta ra ngoài nhớ mang theo ô nhé.", "pinyin": "Qiūtiān dào le, tiānqì yuè lái yuè lěng le. Zánmen chūqù niànzhe dài shàng sǎn ba.", "translation": "Mùa thu đến rồi, thời tiết càng ngày càng lạnh. Chúng ta ra ngoài nhớ mang theo ô nhé." },
+        { "speaker": "大卫", "hanzi": "Tôi mang ô rồi. Cậu cũng mặc thêm áo khoác đi, bên ngoài gió thổi lạnh lắm.", "pinyin": "Wǒ dài sǎn le. Nǐ yě duō chuān jiàn wàitào ba, wàimiàn guāfēng hěn lěng.", "translation": "Tớ mang ô rồi. Cậu cũng mặc thêm áo khoác đi, bên ngoài gió thổi lạnh lắm." },
+        { "speaker": "马克", "hanzi": "Cảm ơn cậu, thời tiết thế này rất dễ bị cảm cúm, phải chú ý sức khỏe.", "pinyin": "Xièxie nǐ, zhèyàng de tiānqì hěn róngyì gǎnmào, děi zhùyì shēntǐ.", "translation": "Cảm ơn cậu, thời tiết thế này rất dễ bị cảm cúm, phải chú ý sức khỏe." },
+        { "speaker": "大卫", "hanzi": "Đúng vậy, đi thôi, đừng để lỡ chuyến xe buýt.", "pinyin": "Shì a, zǒu ba, bié cuòguò gōngjiāochē le.", "translation": "Đúng vậy, đi thôi, đừng để lỡ chuyến xe buýt." }
+      ],
+      "questions": [
+        { "q": "bên ngoài thời tiết thế nào?", "a": "bên ngoài tối sầm, nổi gió và hình như sắp mưa." },
+        { "q": "Dự báo thời tiết hôm nay nói gì?", "a": "Hôm nay có mưa rào, nhiệt độ từ 18 đến 22 độ." },
+        { "q": "Đại Vệ khuyên Mã Khắc làm gì?", "a": "Đại Vệ khuyên Mã Khắc mặc thêm áo khoác và mang theo ô." },
+        { "q": "Tại sao mùa thu lại dễ bị cảm cúm?", "a": "Vì thời tiết ngày càng lạnh và hay có gió mưa." }
+      ]
     },
     {
       "id": 2,
-      "hanzi": "下雨",
-      "pinyin": "xiàyǔ",
-      "meaning": "trời mưa",
-      "type": "động từ"
+      "title": "课文 (二)",
+      "context": "Vương Lan đến thăm Lý Minh đang bị ốm tại nhà",
+      "lines": [
+        { "speaker": "王兰", "hanzi": "Lý Minh, cậu thấy trong người thế nào rồi? Đã đỡ hơn chút nào chưa?", "pinyin": "Lǐ Míng, nǐ juéde shēntǐ zěnmeyàng le? Hǎo yìdiǎnr le ma?", "translation": "Lý Minh, cậu thấy trong người thế nào rồi? Đã đỡ hơn chút nào chưa?" },
+        { "speaker": "李明", "hanzi": "Vẫn còn hơi sốt và ho. Hôm qua dầm mưa nên bị cảm cúm mất rồi.", "pinyin": "Hái yǒu diǎnr fāshāo hé késou. Zuótiān lín yǔ, suǒyǐ gǎnmào le.", "translation": "Vẫn còn hơi sốt và ho. Hôm qua dầm mưa nên bị cảm cúm mất rồi." },
+        { "speaker": "王兰", "hanzi": "Cậu đã đi bệnh viện khám chưa? Có uống thuốc không?", "pinyin": "Nǐ qù yīyuàn kànbìng le ma? Chī yào le méiyǒu?", "translation": "Cậu đã đi bệnh viện khám chưa? Có uống thuốc không?" },
+        { "speaker": "李明", "hanzi": "Sáng nay tớ đi khám rồi, bác sĩ bảo chỉ là cảm cúm thông thường, bảo tớ nghỉ ngơi nhiều và uống nhiều nước ấm.", "pinyin": "Jīntiān zǎoshang qù le, yīshēng shuō zhǐ shì pǔtōng gǎnmào, ràng wǒ duō xiūxi, duō hē wēnshuǐ.", "translation": "Sáng nay tớ đi khám rồi, bác sĩ bảo chỉ là cảm cúm thông thường, bảo tớ nghỉ ngơi nhiều và uống nhiều nước ấm." },
+        { "speaker": "王兰", "hanzi": "Vậy cậu nghỉ ngơi thật tốt nhé, đừng lo lắng việc trên lớp, tớ sẽ giúp cậu chép bài.", "pinyin": "Nà nǐ hǎohāor xiūxi ba, bié dānxīn kètáng shàng de shì, wǒ huì bāng nǐ chāo bǐjì.", "translation": "Vậy cậu nghỉ ngơi thật tốt nhé, đừng lo lắng việc trên lớp, tớ sẽ giúp cậu chép bài." },
+        { "speaker": "李明", "hanzi": "Thật sự cảm ơn cậu rất nhiều, Vương Lan.", "pinyin": "Zhēn de tài xièxie nǐ le, Wáng Lán.", "translation": "Thật sự cảm ơn cậu rất nhiều, Vương Lan." },
+        { "speaker": "王兰", "hanzi": "Không có gì, chúng ta là bạn bè mà. Cậu nhớ ăn cháo rồi uống thuốc đúng giờ nhé.", "pinyin": "Bú kèqi, zánmen shì péngyou ma. Nǐ jìde chī zhōu ránhòu ànshí chī yào.", "translation": "Không có gì, chúng ta là bạn bè mà. Cậu nhớ ăn cháo rồi uống thuốc đúng giờ nhé." }
+      ],
+      "questions": [
+        { "q": "Tại sao Lý Minh lại bị cảm cúm?", "a": "Vì hôm qua Lý Minh bị dầm mưa." },
+        { "q": "Bác sĩ dặn Lý Minh những gì?", "a": "Bác sĩ khuyên Lý Minh nghỉ ngơi nhiều và uống nhiều nước ấm." },
+        { "q": "Vương Lan sẽ giúp Lý Minh việc gì?", "a": "Vương Lan sẽ giúp Lý Minh chép bài trên lớp." }
+      ]
+    }
+  ],
+  "functional_sentences": [
+    {
+      "category": "Dự đoán & Nhận xét thời tiết",
+      "examples": [
+        "好像要下雨了，你带伞了吗？ (Hình như sắp mưa rồi, cậu mang ô chưa?)",
+        "今天风很大，气温越来越低了。 (Hôm nay gió rất to, nhiệt độ ngày càng thấp.)",
+        "天气预报说明天 là ngày nắng đẹp. (Dự báo thời tiết nói ngày mai là ngày nắng đẹp.)"
+      ]
     },
     {
-      "id": 3,
-      "hanzi": "伞",
-      "pinyin": "sǎn",
-      "meaning": "cái ô (dù)",
-      "type": "danh từ"
+      "category": "Hỏi thăm sức khỏe & Khuyên nhủ",
+      "examples": [
+        "你身体怎么样了？好点儿了吗？ (Sức khỏe của cậu thế nào rồi? Đỡ hơn chưa?)",
+        "最近天气冷，你多穿点儿衣服，别感冒了。 (Dạo này trời lạnh, cậu mặc nhiều quần áo vào, đừng để bị cảm.)",
+        "生病了就要去医院看病，好好儿休息。 (Bị ốm thì phải đi bệnh viện khám bệnh, nghỉ ngơi thật tốt.)"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill-in-the-blank",
+      "instruction": "Hoàn thành hội thoại sau bằng từ thích hợp:",
+      "questions": [
+        {
+          "context": "A: 外边黑沉沉的，__________要下雨了。\nB: Đúng vậy, cậu đi ra ngoài nhớ mang theo __________ nhé.",
+          "hint": "(Gợi ý: phó từ phỏng đoán / đồ dùng che mưa)",
+          "answer": "好像 / 伞"
+        },
+        {
+          "context": "A: Mùa thu đến rồi, trời bắt đầu __________, cậu nhớ mặc thêm quần áo.\nB: Cảm ơn cậu, tớ biết rồi, tớ sẽ chú ý giữ gìn __________.",
+          "hint": "(Gợi ý: thời tiết lạnh / sức khỏe)",
+          "answer": "冷 / 身体"
+        }
+      ]
     },
     {
-      "id": 4,
-      "hanzi": "刮风",
-      "pinyin": "guāfēng",
-      "meaning": "nổi gió",
-      "type": "động từ"
-    },
-    {
-      "id": 5,
-      "hanzi": "秋天",
-      "pinyin": "qiūtiān",
-      "meaning": "mùa thu",
-      "type": "danh từ"
-    },
-    {
-      "id": 6,
-      "hanzi": "冷",
-      "pinyin": "lěng",
-      "meaning": "lạnh",
-      "type": "tính từ"
-    },
-    {
-      "id": 7,
-      "hanzi": "感冒",
-      "pinyin": "gǎnmào",
-      "meaning": "cảm cúm",
-      "type": "động từ"
+      "type": "substitution",
+      "instruction": "Luyện tập thay thế từ trong mẫu câu:",
+      "questions": [
+        {
+          "sentence": "天气越来越【冷】了，你要多【穿衣服】。",
+          "substitutes": [
+            "热 / 喝水 (nóng / uống nước)",
+            "凉快 / 去 vận động (mát mẻ / đi vận động)"
+          ]
+        },
+        {
+          "sentence": "tớ bị 【感冒】 rồi, bác sĩ bảo tớ phải 【好好儿休息】。",
+          "substitutes": [
+            "sốt (发烧) / uống nhiều nước ấm (多喝温水)",
+            "ho (咳嗽) / uống thuốc đúng giờ (按时吃药)"
+          ]
+        }
+      ]
     }
   ]
 }
