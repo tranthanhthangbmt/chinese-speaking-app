@@ -27,6 +27,7 @@
   "dialogues": [
     {
       "id": 1,
+      "audioPath": "audio/05.mp3",
       "title": "课文 (一)",
       "context": "Một người nước ngoài hỏi đường cảnh sát giao thông",
       "lines": [

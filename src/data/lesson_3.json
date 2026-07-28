@@ -32,6 +32,7 @@
   "dialogues": [
     {
       "id": 1,
+      "audioPath": "audio/03.mp3",
       "title": "课文 (一)",
       "context": "大卫和马克在 chuẩn bị đi ra ngoài",
       "lines": [

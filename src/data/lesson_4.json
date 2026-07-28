@@ -27,6 +27,7 @@
   "dialogues": [
     {
       "id": 1,
+      "audioPath": "audio/04.mp3",
       "title": "课文 (一)",
       "context": "Tiểu Minh đến trung tâm môi giới để tìm thuê nhà",
       "lines": [

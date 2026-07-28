@@ -36,6 +36,7 @@
   "dialogues": [
     {
       "id": 1,
+      "audioPath": "audio/02.mp3",
       "title": "课文 (一)",
       "context": "杰森和汉娜聊天儿",
       "lines": [

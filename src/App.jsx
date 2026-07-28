@@ -268,6 +268,16 @@ const DialogueViewer = ({ dialogues }) => {
             {dialogue.context && <span className="dialogue-context">({dialogue.context})</span>}
           </div>
           
+          {dialogue.audioPath && (
+            <div className="full-audio-player" style={{ margin: '1rem 0', background: 'var(--card-bg)', padding: '1rem', borderRadius: '0.75rem', border: '1px solid var(--border-color)', display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '0.5rem' }}>
+              <span style={{ fontSize: '0.9rem', color: 'var(--text-muted)' }}>🎧 Nghe toàn bộ bài khóa</span>
+              <audio controls style={{ width: '100%', outline: 'none' }}>
+                <source src={`${import.meta.env.BASE_URL}${dialogue.audioPath}`} type="audio/mpeg" />
+                Trình duyệt của bạn không hỗ trợ thẻ audio.
+              </audio>
+            </div>
+          )}
+          
           <div className="dialogue-body">
             {dialogue.lines.map((line, idx) => {
               const lineKey = `${dIdx}-${idx}`;

@@ -31,6 +31,7 @@
   "dialogues": [
     {
       "id": 1,
+      "audioPath": "audio/01.mp3",
       "title": "课文 (一)",
       "context": "友美在路上遇到好朋友铃木",
       "lines": [
