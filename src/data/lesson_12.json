@@ -1,0 +1,205 @@
+{
+  "lesson": 12,
+  "vocabAudioPath": "audio/23.mp3",
+  "title": "家家都是新房子 (All the houses are new)",
+  "pdfPage": 132,
+  "vocabulary": [
+    { "id": 1, "hanzi": "农村", "pinyin": "nóngcūn", "meaning": "nông thôn", "type": "danh từ" },
+    { "id": 2, "hanzi": "做客", "pinyin": "zuòkè", "meaning": "làm khách", "type": "động từ" },
+    { "id": 3, "hanzi": "完全", "pinyin": "wánquán", "meaning": "hoàn toàn", "type": "phó từ" },
+    { "id": 4, "hanzi": "城市", "pinyin": "chéngshì", "meaning": "thành phố", "type": "danh từ" },
+    { "id": 5, "hanzi": "区别", "pinyin": "qūbié", "meaning": "sự khác biệt", "type": "danh từ" },
+    { "id": 6, "hanzi": "条件", "pinyin": "tiáojiàn", "meaning": "điều kiện", "type": "danh từ" },
+    { "id": 7, "hanzi": "娱乐", "pinyin": "yúlè", "meaning": "giải trí", "type": "động từ" },
+    { "id": 8, "hanzi": "房子", "pinyin": "fángzi", "meaning": "nhà", "type": "danh từ" },
+    { "id": 9, "hanzi": "报纸", "pinyin": "bàozhǐ", "meaning": "báo chí", "type": "danh từ" },
+    { "id": 10, "hanzi": "年轻人", "pinyin": "niánqīng rén", "meaning": "người trẻ tuổi, thanh niên", "type": "danh từ" },
+    { "id": 11, "hanzi": "大多", "pinyin": "dàduō", "meaning": "phần lớn, đa số", "type": "phó từ" },
+    { "id": 12, "hanzi": "老人", "pinyin": "lǎorén", "meaning": "người già", "type": "danh từ" },
+    { "id": 13, "hanzi": "只", "pinyin": "zhǐ", "meaning": "chỉ", "type": "phó từ" },
+    { "id": 14, "hanzi": "羡慕", "pinyin": "xiànmù", "meaning": "ngưỡng mộ, ghen tị", "type": "động từ" },
+    { "id": 15, "hanzi": "环境", "pinyin": "huánjìng", "meaning": "môi trường", "type": "danh từ" },
+    { "id": 16, "hanzi": "污染", "pinyin": "wūrǎn", "meaning": "ô nhiễm", "type": "động từ" },
+    { "id": 17, "hanzi": "健康", "pinyin": "jiànkāng", "meaning": "khỏe mạnh", "type": "tính từ" },
+    { "id": 18, "hanzi": "食品", "pinyin": "shípǐn", "meaning": "thực phẩm", "type": "danh từ" },
+    { "id": 19, "hanzi": "蔬菜", "pinyin": "shūcài", "meaning": "rau xanh", "type": "danh từ" },
+    { "id": 20, "hanzi": "养", "pinyin": "yǎng", "meaning": "nuôi, trồng", "type": "động từ" },
+    { "id": 21, "hanzi": "只 (zhī)", "pinyin": "zhī", "meaning": "con (lượng từ dùng cho một số động vật)", "type": "lượng từ" },
+    { "id": 22, "hanzi": "鸡", "pinyin": "jī", "meaning": "gà", "type": "danh từ" },
+    { "id": 23, "hanzi": "鸡蛋", "pinyin": "jīdàn", "meaning": "trứng gà", "type": "danh từ" }
+  ],
+  "dialogues": [
+    {
+      "id": 1,
+      "audioPath": "audio/24.mp3",
+      "title": "课文 (一)",
+      "context": "马丁告诉汉娜，他周末去了一趟农村",
+      "lines": [
+        { "speaker": "汉娜", "hanzi": "周末你都做什么了？", "pinyin": "Zhōumò nǐ dōu zuò shénme le?", "translation": "Cuối tuần bạn đã làm gì?" },
+        { "speaker": "马丁", "hanzi": "我去了一趟农村，朋友请我去他父母家做客。", "pinyin": "Wǒ qù le yí tàng nóngcūn, péngyou qǐng wǒ qù tā fùmǔ jiā zuòkè.", "translation": "Mình đã đi về nông thôn một chuyến, bạn mình mời mình đến nhà bố mẹ cậu ấy làm khách." },
+        { "speaker": "汉娜", "hanzi": "我还没去过中国的农村呢，怎么样？", "pinyin": "Wǒ hái méi qù guo Zhōngguó de nóngcūn ne, zěnmeyàng?", "translation": "Mình vẫn chưa từng đến nông thôn của Trung Quốc bao giờ, thế nào?" },
+        { "speaker": "马丁", "hanzi": "跟我说的完全不一样，我觉得和城市差不多，没什么区别。", "pinyin": "Gēn wǒ xiǎng de wánquán bù yíyàng, wǒ juéde hé chéngshì chàbuduō, méi shénme qūbié.", "translation": "Hoàn toàn không giống với những gì mình nghĩ, mình cảm thấy cũng gần giống thành phố, không có khác biệt gì mấy." },
+        { "speaker": "汉娜", "hanzi": "我也听说，现在的农村和以前不一样了。", "pinyin": "Wǒ yě tīngshuō, xiànzài de nóngcūn hé yǐqián bù yíyàng le.", "translation": "Mình cũng nghe nói, nông thôn bây giờ và trước đây không giống nhau nữa rồi." },
+        { "speaker": "马丁", "hanzi": "是啊，他们的生活条件很好，购物、娱乐，都很方便，差不多家家都是新房子。", "pinyin": "Shì a, tāmen de shēnghuó tiáojiàn hěn hǎo, gòuwù, yúlè, dōu hěn fāngbiàn, chàbuduō jiājiā dōu shì xīn fángzi.", "translation": "Đúng vậy, điều kiện sống của họ rất tốt, mua sắm, giải trí, đều rất tiện lợi, gần như nhà nhà đều là nhà mới." },
+        { "speaker": "汉娜", "hanzi": "这大概就是报纸上说的新农村吧。", "pinyin": "Zhè dàgài jiùshì bàozhǐ shang shuō de xīn nóngcūn ba.", "translation": "Đó có lẽ chính là \"nông thôn mới\" mà trên báo nhắc đến." },
+        { "speaker": "马丁", "hanzi": "不过那里的人比较少，特别是年轻人少，大多是老人和孩子。", "pinyin": "Búguò nàlǐ de rén bǐjiào shǎo, tèbié shì niánqīng rén shǎo, dàduō shì lǎorén hé háizi.", "translation": "Nhưng mà người ở đó khá ít, đặc biệt là ít thanh niên, phần lớn là người già và trẻ con." },
+        { "speaker": "汉娜", "hanzi": "哦，年轻人差不多都到城市里去工作或者打工了。", "pinyin": "Ò, niánqīng rén chàbuduō dōu dào chéngshì lǐ qù gōngzuò huòzhě dǎgōng le.", "translation": "Ồ, thanh niên gần như đều lên thành phố để làm việc hoặc làm thuê rồi." },
+        { "speaker": "马丁", "hanzi": "对，我这个朋友家里就是这样，他和哥哥两个人都在城市里工作，只有父母还在农村。", "pinyin": "Duì, wǒ zhège péngyou jiālǐ jiùshì zhèyàng, tā hé gēge liǎng ge rén dōu zài chéngshì lǐ gōngzuò, zhǐyǒu fùmǔ hái zài nóngcūn.", "translation": "Đúng, gia đình của người bạn này của mình chính là như vậy, cậu ấy và anh trai hai người đều làm việc ở thành phố, chỉ có bố mẹ vẫn ở nông thôn." }
+      ],
+      "questions": [
+        { "q": "马丁去农村干什么？", "a": "朋友请他去父母家做客。" },
+        { "q": "马丁看到的农村是什么样子？", "a": "生活条件很好，购物、娱乐很方便，差不多家家都是新房子，觉得和城市没什么区别。" },
+        { "q": "那里常住的是什么人？", "a": "大多是老人和孩子。" },
+        { "q": "农村的年轻人大多干什么去了？", "a": "年轻人差不多都到城市里去工作或者打工了。" }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "课文 (二)",
+      "context": "马丁很羡慕农村的环境和绿色生活",
+      "lines": [
+        { "speaker": "马丁", "hanzi": "我真羡慕生活在农村的人。", "pinyin": "Wǒ zhēn xiànmù shēnghuó zài nóngcūn de rén.", "translation": "Mình thực sự rất ngưỡng mộ những người sống ở nông thôn." },
+        { "speaker": "汉娜", "hanzi": "为什么？你这次去农村又有什么新发现？", "pinyin": "Wèishénme? Nǐ zhè cì qù nóngcūn yòu yǒu shénme xīn fāxiàn?", "translation": "Tại sao? Lần này bạn đi nông thôn lại có phát hiện mới gì à?" },
+        { "speaker": "马丁", "hanzi": "我发现他们那儿的环境比我们这儿好得多。", "pinyin": "Wǒ fāxiàn tāmen nàr de huánjìng bǐ wǒmen zhèr hǎo de duō.", "translation": "Mình phát hiện ra môi trường chỗ họ tốt hơn chỗ chúng ta rất nhiều." },
+        { "speaker": "汉娜", "hanzi": "农村的环境当然比城市好了，没有那么多汽车，没有那么多污染。", "pinyin": "Nóngcūn de huánjìng dāngrán bǐ chéngshì hǎo le, méiyǒu nàme duō qìchē, méiyǒu nàme duō wūrǎn.", "translation": "Môi trường nông thôn đương nhiên là tốt hơn thành phố rồi, không có nhiều ô tô như vậy, không có nhiều ô nhiễm như vậy." },
+        { "speaker": "马丁", "hanzi": "要是我们这儿的环境也那么好，该多好啊！", "pinyin": "Yàoshi wǒmen zhèr de huánjìng yě nàme hǎo, gāi duō hǎo a!", "translation": "Nếu như môi trường chỗ chúng ta cũng tốt như vậy thì tốt biết bao!" },
+        { "speaker": "汉娜", "hanzi": "我也希望那样。不过，可能不容易。", "pinyin": "Wǒ yě xīwàng nàyàng. Búguò, kěnéng bù róngyì.", "translation": "Mình cũng hy vọng như vậy. Tuy nhiên, có lẽ không dễ dàng." },
+        { "speaker": "马丁", "hanzi": "他们吃的东西也比我们吃的健康。", "pinyin": "Tāmen chī de dōngxi yě bǐ wǒmen chī de jiànkāng.", "translation": "Đồ ăn họ ăn cũng tốt cho sức khỏe hơn đồ ăn của chúng ta." },
+        { "speaker": "汉娜", "hanzi": "吃的东西有什么不一样？", "pinyin": "Chī de dōngxi yǒu shénme bù yíyàng?", "translation": "Đồ ăn có gì không giống nhau?" },
+        { "speaker": "马丁", "hanzi": "他们吃的都是绿色食品。", "pinyin": "Tāmen chī de dōu shì lǜsè shípǐn.", "translation": "Những thứ họ ăn đều là thực phẩm xanh." },
+        { "speaker": "汉娜", "hanzi": "真是羡慕他们。可是，城市里也能买到绿色食品啊。", "pinyin": "Zhēnshì xiànmù tāmen. Kěshì, chéngshì lǐ yě néng mǎi dào lǜsè shípǐn a.", "translation": "Thật sự ngưỡng mộ họ. Nhưng mà, ở thành phố cũng có thể mua được thực phẩm xanh mà." },
+        { "speaker": "马丁", "hanzi": "他们吃的是最新鲜的，因为他们一般都自己种蔬菜。", "pinyin": "Tāmen chī de shì zuì xīnxiān de, yīnwèi tāmen yìbān dōu zìjǐ zhòng shūcài.", "translation": "Những thứ họ ăn là tươi ngon nhất, bởi vì họ thường tự trồng rau xanh." },
+        { "speaker": "汉娜", "hanzi": "对了，他们还可以养几只鸡，天天吃新鲜鸡蛋。", "pinyin": "Duì le, tāmen hái kěyǐ yǎng jǐ zhī jī, tiāntiān chī xīnxiān jīdàn.", "translation": "Đúng rồi, họ còn có thể nuôi vài con gà, ngày nào cũng được ăn trứng gà tươi." },
+        { "speaker": "马丁", "hanzi": "没错，这种生活多好啊！", "pinyin": "Méi cuò, zhè zhǒng shēnghuó duō hǎo a!", "translation": "Không sai, cuộc sống như vậy thật tốt biết bao!" }
+      ],
+      "questions": [
+        { "q": "马丁羡慕农村什么？", "a": "羡慕农村的环境好，污染少，吃的东西健康。" },
+        { "q": "农村的环境和城里有什么不同？", "a": "农村没有那么多汽车，没有那么多污染，比城市好得多。" },
+        { "q": "农村人吃的和城里有什么不同？", "a": "农村人吃的都是自己种的新鲜绿色蔬菜和自己养的鸡下的新鲜鸡蛋。" }
+      ]
+    }
+  ],
+  "functional_sentences": [
+    {
+      "category": "【羡慕】 To show envy (Thể hiện sự ngưỡng mộ, ghen tị)",
+      "examples": [
+        "我真羡慕生活在农村的人。(Tôi thật sự ngưỡng mộ những người sống ở nông thôn.)",
+        "要是我们这儿的环境也那么好，该多好啊！(Nếu môi trường chỗ chúng ta cũng tốt như vậy thì tốt biết bao!)",
+        "真是羡慕他们。(Thật sự ngưỡng mộ họ.)",
+        "这种生活多好啊！(Cuộc sống như thế này thật tốt biết bao!)"
+      ]
+    },
+    {
+      "category": "【比较】 To make a comparison (So sánh)",
+      "examples": [
+        "A: 我还没去过中国的农村呢，怎么样？ B: 跟我想的完全不一样，……(A: Tôi chưa đi nông thôn Trung Quốc bao giờ, thế nào? / B: Hoàn toàn không giống với những gì tôi nghĩ...)",
+        "我觉得和城市差不多，没什么区别。(Tôi thấy cũng gần giống thành phố, không có khác biệt gì mấy.)",
+        "现在的农村和以前不一样了。(Nông thôn bây giờ và trước đây không giống nhau nữa rồi.)"
+      ]
+    },
+    {
+      "category": "【估计】 To make an estimation (Phỏng đoán, ước tính)",
+      "examples": [
+        "这大概就是报纸上说的新农村吧。(Đây có lẽ chính là nông thôn mới mà trên báo nhắc đến.)",
+        "可能不容易。(Có lẽ không dễ dàng.)"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "substitution",
+      "instruction": "Luyện tập thay thế từ",
+      "questions": [
+        {
+          "sentence": "A: 他们可以养几只鸡，天天吃新鲜鸡蛋。\nB: 这种生活多好啊！",
+          "substitutes": [
+            "自己种菜 / 吃新鲜蔬菜 / 真羡慕他们",
+            "8点起床 / 睡懒觉 / 我们也能这样，该多好啊",
+            "骑着自行车 / 在郊外玩儿 / 那多好啊，真羡慕他们"
+          ]
+        },
+        {
+          "sentence": "A: 中国的农村怎么样？\nB: 我觉得和城市差不多，没什么区别。",
+          "substitutes": [
+            "他的词典 / 我的",
+            "马丁的汉语 / 中国人说的",
+            "友美的汉字写得 / 老师写的"
+          ]
+        },
+        {
+          "sentence": "A: 我还没去过中国的农村呢，怎么样？\nB: 跟我想的完全不一样。",
+          "substitutes": [
+            "上海 / 特别",
+            "他们家 / 一点儿也",
+            "他们那个小区 / 完全"
+          ]
+        },
+        {
+          "sentence": "现在的农村，差不多家家都是新房子。",
+          "substitutes": [
+            "年轻人 / 个个 / 很有特点",
+            "银行 / 家家 / 有网上服务",
+            "马路 / 条条 / 有不少红绿灯"
+          ]
+        },
+        {
+          "sentence": "现在农村年轻人比较少，大多是老人和孩子。",
+          "substitutes": [
+            "春天北京雨天 / 晴天",
+            "留学生用固定电话的 / 用手机",
+            "现在会唱京剧的年轻人 / 老人"
+          ]
+        },
+        {
+          "sentence": "A: 要是我们这儿的环境也那么好，该多好啊！\nB: 可能不容易。",
+          "substitutes": [
+            "我的汉语也能说得那么好 / 可能不难吧",
+            "大家都坐地铁 / 大概不太可能",
+            "我们也养几只鸡 / 大概不可以吧"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "instruction": "Hoàn thành các đoạn hội thoại",
+      "questions": [
+        {
+          "context": "A: 周末我去了一趟农村。\nB: 是_______________吗？\nA: 是啊，我以前_______________中国农村，这是第一次。\nB: 怎么样？\nA: 跟我想的完全不一样，觉得和城市_______________。",
+          "hint": "(Gợi ý: 区别 / 没 / 做客)",
+          "answer": "去朋友家做客\n没去过\n没什么区别"
+        },
+        {
+          "context": "A: 我听说，现在的农村和以前不一样了。\nB: 是啊，和城市差不多，_______________。\nA: _______________怎么样？\nB: 购物、娱乐，都很方便，新房子特别多，差不多家家都是新房子。\nA: _______________。",
+          "hint": "(Gợi ý: 完全 / 区别 / 条件)",
+          "answer": "没什么区别\n生活条件\n完全跟以前不一样了"
+        },
+        {
+          "context": "A: 现在城市里人这么多，农村人一定少吧？\nB: 是啊，_______________年轻人少，农村里_______________。\nA: 哦，年轻人差不多都到城市里_______________。可是他们的孩子怎么不和他们在一起呀？\nB: 听说，工作太忙，有孩子不方便，还有一些是孩子要回去上学。",
+          "hint": "(Gợi ý: 大多是 / 打工 / 特别是)",
+          "answer": "特别是\n大多是老人和孩子\n工作或者打工了"
+        },
+        {
+          "context": "A: 我很_______________生活在农村的人。\nB: 为什么？\nA: 我觉得他们那儿的环境_______________。\nB: 是这样，我这次去农村_______________，那儿没有那么多汽车，污染也少一些。",
+          "hint": "(Gợi ý: 好得多 / 发现 / 羡慕)",
+          "answer": "羡慕\n比我们这儿好得多\n也发现了"
+        },
+        {
+          "context": "A: 我们这儿要是环境好一些，空气好一些，汽车少一些，_______________！\nB: 那当然好了。不过，可能_______________。\nA: 我太羡慕农村了。他们吃的东西_______________。\nB: 吃的东西不一样吗？\nA: 当然不一样了，他们吃的都是绿色食品。",
+          "hint": "(Gợi ý: 不容易 / 健康 / 该多好啊)",
+          "answer": "该多好啊\n不容易\n也比我们吃的健康"
+        },
+        {
+          "context": "A: 在城市，超市里的绿色食品也越来越多了。\nB: 可是在农村，吃的是_______________，因为_______________。\nA: 是，还能_______________，天天吃新鲜鸡蛋。\nB: 这种生活多好啊！",
+          "hint": "(Gợi ý: 种 / 养 / 新鲜)",
+          "answer": "最新鲜的\n他们一般都自己种蔬菜\n养几只鸡"
+        },
+        {
+          "context": "A: 你好像很喜欢猫？\nB: 我_______________，也喜欢狗，还喜欢鸡。\nA: 我看你的电脑里有好多它们的照片。\nB: 对呀，我家_______________，还有_______________猫和两只狗。\nA: 那猫不吃鸡吗？\nB: 不吃啊，在我们家，它们就是朋友。",
+          "hint": "(Gợi ý: 养 / 不仅 / 只)",
+          "answer": "不仅喜欢猫\n不仅养鸡\n两只"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "lesson": 10,
+  "vocabAudioPath": "audio/19.mp3",
+  "title": "地铁比公共汽车快 (The subway is faster than the bus)",
+  "pdfPage": 107,
+  "vocabulary": [
+    { "id": 1, "hanzi": "外语", "pinyin": "wàiyǔ", "meaning": "ngoại ngữ", "type": "danh từ" },
+    { "id": 2, "hanzi": "学院", "pinyin": "xuéyuàn", "meaning": "học viện", "type": "danh từ" },
+    { "id": 3, "hanzi": "博物馆", "pinyin": "bówùguǎn", "meaning": "viện bảo tàng", "type": "danh từ" },
+    { "id": 4, "hanzi": "然后", "pinyin": "ránhòu", "meaning": "sau đó", "type": "liên từ" },
+    { "id": 5, "hanzi": "比", "pinyin": "bǐ", "meaning": "so với (hơn, kém)", "type": "giới từ" },
+    { "id": 6, "hanzi": "麻烦", "pinyin": "máfan", "meaning": "phiền phức, rắc rối", "type": "tính từ" },
+    { "id": 7, "hanzi": "大约", "pinyin": "dàyuē", "meaning": "khoảng chừng", "type": "phó từ" },
+    { "id": 8, "hanzi": "没有", "pinyin": "méiyǒu", "meaning": "không bằng", "type": "động từ" },
+    { "id": 9, "hanzi": "过", "pinyin": "guò", "meaning": "qua, đi qua", "type": "động từ" },
+    { "id": 10, "hanzi": "马路", "pinyin": "mǎlù", "meaning": "đường lớn", "type": "danh từ" },
+    { "id": 11, "hanzi": "外语学院", "pinyin": "Wàiyǔ Xuéyuàn", "meaning": "Học viện Ngoại ngữ", "type": "danh từ riêng" },
+    { "id": 12, "hanzi": "师傅", "pinyin": "shīfu", "meaning": "sư phụ, bác tài, thợ", "type": "danh từ" },
+    { "id": 13, "hanzi": "购物", "pinyin": "gòuwù", "meaning": "mua sắm", "type": "động từ" },
+    { "id": 14, "hanzi": "中心", "pinyin": "zhōngxīn", "meaning": "trung tâm", "type": "danh từ" },
+    { "id": 15, "hanzi": "堵车", "pinyin": "dǔchē", "meaning": "tắc đường", "type": "động từ" },
+    { "id": 16, "hanzi": "约", "pinyin": "yuē", "meaning": "hẹn", "type": "động từ" },
+    { "id": 17, "hanzi": "河边", "pinyin": "hébiān", "meaning": "bờ sông", "type": "danh từ" },
+    { "id": 18, "hanzi": "不仅", "pinyin": "bùjǐn", "meaning": "không những", "type": "liên từ" },
+    { "id": 19, "hanzi": "而且", "pinyin": "érqiě", "meaning": "mà còn", "type": "liên từ" },
+    { "id": 20, "hanzi": "红绿灯", "pinyin": "hónglǜdēng", "meaning": "đèn giao thông", "type": "danh từ" },
+    { "id": 21, "hanzi": "十字路口", "pinyin": "shízì lùkǒu", "meaning": "ngã tư", "type": "từ tổ" },
+    { "id": 22, "hanzi": "路口", "pinyin": "lùkǒu", "meaning": "giao lộ, ngã rẽ", "type": "danh từ" },
+    { "id": 23, "hanzi": "发票", "pinyin": "fāpiào", "meaning": "hóa đơn", "type": "danh từ" }
+  ],
+  "dialogues": [
+    {
+      "id": 1,
+      "audioPath": "audio/20.mp3",
+      "title": "课文 (一)",
+      "context": "马丁在向李雪问路",
+      "lines": [
+        { "speaker": "马丁", "hanzi": "李雪，我下午要去外语学院看朋友，应该怎么坐车啊？", "pinyin": "Lǐ Xuě, wǒ xiàwǔ yào qù Wàiyǔ Xuéyuàn kàn péngyou, yīnggāi zěnme zuòchē a?", "translation": "Lý Tuyết, buổi chiều mình muốn đến Học viện Ngoại ngữ thăm bạn, nên đi xe như thế nào?" },
+        { "speaker": "李雪", "hanzi": "外语学院？你先坐25路，到博物馆下车，然后再坐320路就到了。", "pinyin": "Wàiyǔ Xuéyuàn? Nǐ xiān zuò 25 lù, dào bówùguǎn xiàchē, ránhòu zài zuò 320 lù jiù dào le.", "translation": "Học viện Ngoại ngữ à? Bạn đi chuyến xe số 25 trước, đến viện bảo tàng thì xuống, sau đó lại đi chuyến 320 là tới rồi." },
+        { "speaker": "马丁", "hanzi": "还要换车，是吗？", "pinyin": "Hái yào huàn chē, shì ma?", "translation": "Còn phải đổi xe nữa à?" },
+        { "speaker": "李雪", "hanzi": "对，外语学院挺远的。", "pinyin": "Duì, Wàiyǔ Xuéyuàn tǐng yuǎn de.", "translation": "Đúng, Học viện Ngoại ngữ khá xa." },
+        { "speaker": "马丁", "hanzi": "坐地铁到得了吗？我觉得地铁比公共汽车快。", "pinyin": "Zuò dìtiě dào de liǎo ma? Wǒ juéde dìtiě bǐ gōnggòng qìchē kuài.", "translation": "Đi tàu điện ngầm có tới được không? Mình cảm thấy tàu điện ngầm nhanh hơn xe buýt." },
+        { "speaker": "李雪", "hanzi": "地铁到不了外语学院，下了地铁你也要换车，或者走路。", "pinyin": "Dìtiě dào bù liǎo Wàiyǔ Xuéyuàn, xià le dìtiě nǐ yě yào huàn chē, huòzhě zǒulù.", "translation": "Tàu điện ngầm không tới được Học viện Ngoại ngữ, xuống tàu bạn cũng phải đổi xe, hoặc đi bộ." },
+        { "speaker": "马丁", "hanzi": "换车太麻烦了。走路要走多远？", "pinyin": "Huàn chē tài máfan le. Zǒulù yào zǒu duō yuǎn?", "translation": "Đổi xe rắc rối quá. Đi bộ phải đi bao xa?" },
+        { "speaker": "李雪", "hanzi": "大约走15分钟吧。", "pinyin": "Dàyuē zǒu 15 fēnzhōng ba.", "translation": "Khoảng 15 phút đi bộ." },
+        { "speaker": "马丁", "hanzi": "那么远啊。", "pinyin": "Nàme yuǎn a.", "translation": "Xa vậy sao." },
+        { "speaker": "李雪", "hanzi": "或者打车，不过打车要比坐地铁贵得多。", "pinyin": "Huòzhě dǎchē, búguò dǎchē yào bǐ zuò dìtiě guì de duō.", "translation": "Hoặc là gọi taxi, nhưng gọi taxi đắt hơn tàu điện ngầm nhiều." },
+        { "speaker": "马丁", "hanzi": "骑车呢？骑车怎么样？", "pinyin": "Qíchē ne? Qíchē zěnmeyàng?", "translation": "Đi xe đạp thì sao? Đi xe đạp được không?" },
+        { "speaker": "李雪", "hanzi": "其实，坐什么车都没有骑车方便，可是从我们这儿到外语学院太远了。", "pinyin": "Qíshí, zuò shénme chē dōu méiyǒu qíchē fāngbiàn, kěshì cóng wǒmen zhèr dào Wàiyǔ Xuéyuàn tài yuǎn le.", "translation": "Thực ra, đi xe gì cũng không tiện bằng đi xe đạp, nhưng từ chỗ chúng ta đến Học viện Ngoại ngữ quá xa." },
+        { "speaker": "马丁", "hanzi": "我还是坐地铁吧。学校门口有地铁吗？", "pinyin": "Wǒ háishi zuò dìtiě ba. Xuéxiào ménkǒu yǒu dìtiě ma?", "translation": "Mình vẫn nên đi tàu điện ngầm thôi. Cổng trường có tàu điện ngầm không?" },
+        { "speaker": "李雪", "hanzi": "有，从学校东门出去，过马路就是。", "pinyin": "Yǒu, cóng xuéxiào dōngmén chūqù, guò mǎlù jiù shì.", "translation": "Có, từ cửa Đông trường đi ra, qua đường là tới." }
+      ],
+      "questions": [
+        { "q": "去外语学院怎么坐车？", "a": "先坐25路，到博物馆下车，然后再换坐320路。" },
+        { "q": "坐地铁去外语学院可以吗？", "a": "地铁到不了外语学院，下了地铁也要换车或者走路。" },
+        { "q": "骑车去外语学院怎么样？", "a": "骑车很方便，但是太远了。" }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "课文 (二)",
+      "context": "汉娜在出租车上",
+      "lines": [
+        { "speaker": "汉娜", "hanzi": "师傅，我们到购物中心要多长时间？", "pinyin": "Shīfu, wǒmen dào gòuwù zhōngxīn yào duō cháng shíjiān?", "translation": "Bác tài ơi, chúng ta đến trung tâm mua sắm mất bao lâu?" },
+        { "speaker": "司机", "hanzi": "不堵车的话，大约20分钟；要是堵车，就不知道了。", "pinyin": "Bù dǔchē de huà, dàyuē 20 fēnzhōng; yàoshi dǔchē, jiù bù zhīdào le.", "translation": "Nếu không tắc đường thì khoảng 20 phút; nếu tắc đường thì không biết được." },
+        { "speaker": "汉娜", "hanzi": "我跟朋友约好了5点见面，我不想迟到。有没有快一点儿的路？", "pinyin": "Wǒ gēn péngyou yuē hǎo le 5 diǎn jiànmiàn, wǒ bù xiǎng chídào. Yǒu méiyǒu kuài yìdiǎnr de lù?", "translation": "Tôi đã hẹn với bạn 5 giờ gặp mặt, tôi không muốn đến muộn. Có đường nào nhanh hơn một chút không?" },
+        { "speaker": "司机", "hanzi": "河边有一条路，一般不堵车，不过那条路比这条路远。", "pinyin": "Hébiān yǒu yì tiáo lù, yìbān bù dǔchē, búguò nà tiáo lù bǐ zhè tiáo lù yuǎn.", "translation": "Bờ sông có một con đường, bình thường không tắc đường, nhưng đường đó xa hơn đường này." },
+        { "speaker": "汉娜", "hanzi": "远一点儿没关系，不堵车就可以。", "pinyin": "Yuǎn yìdiǎnr méi guānxi, bù dǔchē jiù kěyǐ.", "translation": "Xa một chút không sao, không tắc đường là được." },
+        { "speaker": "司机", "hanzi": "那我们就不走市中心了，我们走河边那条路吧。", "pinyin": "Nà wǒmen jiù bù zǒu shìzhōngxīn le, wǒmen zǒu hébiān nà tiáo lù ba.", "translation": "Vậy chúng ta không đi trung tâm thành phố nữa, chúng ta đi đường bờ sông nhé." },
+        { "speaker": "汉娜", "hanzi": "好，听您的。", "pinyin": "Hǎo, tīng nín de.", "translation": "Vâng, nghe theo bác." },
+        { "speaker": "司机", "hanzi": "我喜欢走河边那条路，不仅车少，而且红绿灯也少，所以走那边比走这边快得多。", "pinyin": "Wǒ xǐhuan zǒu hébiān nà tiáo lù, bùjǐn chē shǎo, érqiě hónglǜdēng yě shǎo, suǒyǐ zǒu nàbiān bǐ zǒu zhèbiān kuài de duō.", "translation": "Tôi thích đi con đường bờ sông đó, không những xe ít, mà đèn đỏ cũng ít, cho nên đi bên đó nhanh hơn bên này nhiều." },
+        { "speaker": "汉娜", "hanzi": "那我们就走那条路吧，越快越好。", "pinyin": "Nà wǒmen jiù zǒu nà tiáo lù ba, yuè kuài yuè hǎo.", "translation": "Vậy chúng ta đi con đường đó đi, càng nhanh càng tốt." },
+        { "speaker": "司机", "hanzi": "(20分钟后) 前边就是购物中心，给您停哪儿？", "pinyin": "(20 fēnzhōng hòu) Qiánbiān jiùshì gòuwù zhōngxīn, gěi nín tíng nǎr?", "translation": "(20 phút sau) Phía trước chính là trung tâm mua sắm, dừng cho cô ở đâu?" },
+        { "speaker": "汉娜", "hanzi": "停在十字路口这边就可以，谢谢。您走的这条路真好，一点儿也不堵车。", "pinyin": "Tíng zài shízì lùkǒu zhèbiān jiù kěyǐ, xièxie. Nín zǒu de zhè tiáo lù zhēn hǎo, yìdiǎnr yě bù dǔchē.", "translation": "Dừng ở ngã tư bên này là được rồi, cảm ơn. Con đường bác đi thật tốt, một chút cũng không tắc đường." },
+        { "speaker": "司机", "hanzi": "没迟到吧？", "pinyin": "Méi chídào ba?", "translation": "Không đến muộn chứ?" },
+        { "speaker": "汉娜", "hanzi": "没有，谢谢。给您钱。", "pinyin": "Méiyǒu, xièxie. Gěi nín qián.", "translation": "Không, cảm ơn bác. Gửi tiền bác." },
+        { "speaker": "司机", "hanzi": "给您发票，别忘了拿上自己的东西。", "pinyin": "Gěi nín fāpiào, bié wàng le ná shàng zìjǐ de dōngxi.", "translation": "Gửi cô hóa đơn, đừng quên mang theo đồ của mình nhé." }
+      ],
+      "questions": [
+        { "q": "汉娜跟朋友是怎么约的？", "a": "约好了5点见面。" },
+        { "q": "出租车司机为什么要走比较远的路？", "a": "因为那条路不仅车少，而且红绿灯也少，一般不堵车。" },
+        { "q": "司机为什么喜欢走河边的路？", "a": "因为车少，红绿灯少，比走市中心快得多。" },
+        { "q": "汉娜下车时，司机告诉她什么？", "a": "给发票，提醒她别忘了拿自己的东西。" }
+      ]
+    }
+  ],
+  "functional_sentences": [
+    {
+      "category": "【比较】 So sánh",
+      "examples": [
+        "我觉得地铁比公共汽车快。(Tôi thấy tàu điện ngầm nhanh hơn xe buýt.)",
+        "打车要比坐地铁贵得多。(Gọi taxi đắt hơn đi tàu điện ngầm rất nhiều.)",
+        "坐什么车都没有骑车方便。(Đi xe gì cũng không tiện bằng đi xe đạp.)"
+      ]
+    },
+    {
+      "category": "【问路】 Hỏi đường",
+      "examples": [
+        "我下午要去外语学院看朋友，应该怎么坐车啊？(Chiều nay tôi muốn đến Học viện Ngoại ngữ thăm bạn, nên đi xe như thế nào?)",
+        "还要换车，是吗？(Còn phải đổi xe nữa à?)",
+        "坐地铁到得了吗？(Đi tàu điện ngầm có tới được không?)",
+        "换车太麻烦了。走路要走多远？(Đổi xe phiền quá. Đi bộ mất bao xa?)",
+        "骑车怎么样？(Đi xe đạp thì sao?)",
+        "学校门口有地铁吗？(Cổng trường có tàu điện ngầm không?)"
+      ]
+    },
+    {
+      "category": "【提醒】 Nhắc nhở",
+      "examples": [
+        "前边就是购物中心。(Phía trước chính là trung tâm mua sắm.)",
+        "别忘了拿上自己的东西。(Đừng quên lấy đồ của mình nhé.)",
+        "该下车了。(Nên xuống xe rồi.)",
+        "到了。(Đến nơi rồi.)"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "substitution",
+      "instruction": "Luyện tập thay thế từ",
+      "questions": [
+        {
+          "sentence": "我觉得地铁比公共汽车快。",
+          "substitutes": [
+            "这个小区 / 那个小区 / 安静",
+            "那个电影 / 这个电影 / 有意思",
+            "这个学期 / 上个学期 / 紧张"
+          ]
+        },
+        {
+          "sentence": "打车比坐地铁贵得多。",
+          "substitutes": [
+            "他 / 我 / 高",
+            "我的房间 / 他的房间 / 整齐",
+            "郊外 / 公园 / 好玩",
+            "经贸大学 / 外语学院 / 远"
+          ]
+        },
+        {
+          "sentence": "坐什么车都没有骑车方便。",
+          "substitutes": [
+            "买什么礼物 / 送花 / 合适",
+            "什么水果 / 苹果 / 好吃",
+            "什么 / 京剧 / 好看"
+          ]
+        },
+        {
+          "sentence": "先坐25路，然后再换320路。",
+          "substitutes": [
+            "商量商量 / 决定怎么办",
+            "到上海开会 / 去西安参观",
+            "找好房子 / 想搬家的事儿"
+          ]
+        },
+        {
+          "sentence": "A: 你说我们走哪条路？\nB: 这条路不仅车少，而且红绿灯也少。\nA: 听你的，走这条路吧。",
+          "substitutes": [
+            "河边的路 / 不堵车 / 还近一点儿 / 走河边的路吧",
+            "市中心 / 车多 / 自行车也多 / 不走市中心",
+            "新修的路 / 车少 / 人也少 / 走新修的路吧"
+          ]
+        },
+        {
+          "sentence": "A: 我们去外语学院，怎么走好？\nB: 还是坐地铁吧，快，而且人也不多。",
+          "substitutes": [
+            "郊外 / 骑车 / 锻炼身体 / 路上风景也好",
+            "老师家 / 走路 / 不远 / 坐车人太多",
+            "博物馆 / 打车 / 那条路不堵车 / 红绿灯也少"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "instruction": "Hoàn thành các đoạn hội thoại",
+      "questions": [
+        {
+          "context": "A: 我要去外语学院，应该怎么坐车啊？\nB: _______________，到博物馆下车，_______________，就到了。\nA: 还要换车啊？\nB: 是啊，外语学院_______________。",
+          "hint": "(Gợi ý: 先 / 然后 / 挺)",
+          "answer": "先坐25路\n然后再坐320路\n挺远的"
+        },
+        {
+          "context": "A: 坐地铁到得了外语学院吗？\nB: _______________，你下了地铁还要换车。\nA: 地铁和公共汽车，哪个快？\nB: _______________。",
+          "hint": "(Gợi ý: 到不了 / 比)",
+          "answer": "地铁到不了\n地铁比公共汽车快"
+        },
+        {
+          "context": "A: 你不喜欢坐地铁的话，可以打车去。\nB: _______________。\nA: 是，打车比较贵。那你骑车怎么样？\nB: _______________。我就骑车吧。",
+          "hint": "(Gợi ý: ……得多 / 什么 / 没有)",
+          "answer": "打车比坐地铁贵得多\n坐什么车都没有骑车方便"
+        },
+        {
+          "context": "A: 师傅，我们到购物中心要多长时间？\nB: _______________；堵车的话，就不知道了。\nA: 有没有不堵车的路啊？\nB: 新修的一条路不堵车，不过_______________。\nA: 远一点儿没关系。",
+          "hint": "(Gợi ý: ……的话 / 大约 / 比)",
+          "answer": "不堵车的话，大约20分钟\n那条路比这条路远"
+        },
+        {
+          "context": "A: 师傅，我快迟到了，有没有快一点儿的路？\nB: 河边有一条路，_______________，_______________。\nA: 那我们走那条路吧。\nB: 可是那条路有点儿远。\nA: 没关系，_______________。",
+          "hint": "(Gợi ý: 不仅……而且…… / 越……越……)",
+          "answer": "不仅车少\n而且红绿灯也少\n越快越好"
+        },
+        {
+          "context": "A: 马上到了，给您停哪儿？\nB: _______________就可以，谢谢。\nA: 这条路又快又好吧？\nB: 没错，_______________。谢谢，给您钱。\nA: 给您发票，_______________。",
+          "hint": "(Gợi ý: 停 / 堵车 / 别忘了)",
+          "answer": "停在十字路口这边\n一点儿也不堵车\n别忘了拿上自己的东西"
+        }
+      ]
+    }
+  ]
+}

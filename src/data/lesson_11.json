@@ -1,0 +1,212 @@
+{
+  "lesson": 11,
+  "vocabAudioPath": "audio/21.mp3",
+  "title": "去药店不如去医院 (It would be better to go to the hospital than to the drugstore)",
+  "pdfPage": 119,
+  "vocabulary": [
+    { "id": 1, "hanzi": "喂", "pinyin": "wèi", "meaning": "này, a lô", "type": "thán từ" },
+    { "id": 2, "hanzi": "选修", "pinyin": "xuǎnxiū", "meaning": "học tự chọn", "type": "động từ" },
+    { "id": 3, "hanzi": "请假", "pinyin": "qǐngjià", "meaning": "xin nghỉ phép", "type": "động từ" },
+    { "id": 4, "hanzi": "肚子", "pinyin": "dùzi", "meaning": "bụng", "type": "danh từ" },
+    { "id": 5, "hanzi": "发烧", "pinyin": "fāshāo", "meaning": "phát sốt", "type": "động từ" },
+    { "id": 6, "hanzi": "药店", "pinyin": "yàodiàn", "meaning": "hiệu thuốc", "type": "danh từ" },
+    { "id": 7, "hanzi": "药", "pinyin": "yào", "meaning": "thuốc", "type": "danh từ" },
+    { "id": 8, "hanzi": "不如", "pinyin": "bùrú", "meaning": "không bằng", "type": "động từ" },
+    { "id": 9, "hanzi": "检查", "pinyin": "jiǎnchá", "meaning": "kiểm tra, khám", "type": "động từ" },
+    { "id": 10, "hanzi": "社区", "pinyin": "shèqū", "meaning": "cộng đồng, khu dân cư", "type": "danh từ" },
+    { "id": 11, "hanzi": "赶快", "pinyin": "gǎnkuài", "meaning": "mau chóng, khẩn trương", "type": "phó từ" },
+    { "id": 12, "hanzi": "吴", "pinyin": "Wú", "meaning": "Ngô (họ)", "type": "danh từ riêng" },
+    { "id": 13, "hanzi": "感冒", "pinyin": "gǎnmào", "meaning": "cảm mạo, cảm cúm", "type": "động từ" },
+    { "id": 14, "hanzi": "腿", "pinyin": "tuǐ", "meaning": "chân", "type": "danh từ" },
+    { "id": 15, "hanzi": "受伤", "pinyin": "shòushāng", "meaning": "bị thương", "type": "động từ" },
+    { "id": 16, "hanzi": "厉害", "pinyin": "lìhai", "meaning": "dữ dội, lợi hại", "type": "tính từ" },
+    { "id": 17, "hanzi": "严重", "pinyin": "yánzhòng", "meaning": "nghiêm trọng", "type": "tính từ" },
+    { "id": 18, "hanzi": "住院", "pinyin": "zhùyuàn", "meaning": "nhập viện", "type": "động từ" },
+    { "id": 19, "hanzi": "照顾", "pinyin": "zhàogu", "meaning": "chăm sóc", "type": "động từ" },
+    { "id": 20, "hanzi": "撞", "pinyin": "zhuàng", "meaning": "va, đụng", "type": "động từ" },
+    { "id": 21, "hanzi": "倒", "pinyin": "dǎo", "meaning": "ngã, đổ", "type": "động từ" },
+    { "id": 22, "hanzi": "恢复", "pinyin": "huīfù", "meaning": "hồi phục", "type": "động từ" },
+    { "id": 23, "hanzi": "转告", "pinyin": "zhuǎngào", "meaning": "chuyển lời", "type": "động từ" }
+  ],
+  "dialogues": [
+    {
+      "id": 1,
+      "audioPath": "audio/22.mp3",
+      "title": "课文 (一)",
+      "context": "马丁在给老师打电话请假",
+      "lines": [
+        { "speaker": "马丁", "hanzi": "喂，请问是吴老师吗？", "pinyin": "Wèi, qǐngwèn shì Wú lǎoshī ma?", "translation": "A lô, xin hỏi có phải cô giáo Ngô không ạ?" },
+        { "speaker": "老师", "hanzi": "对，是我。", "pinyin": "Duì, shì wǒ.", "translation": "Đúng, là tôi." },
+        { "speaker": "马丁", "hanzi": "老师，您好。我是您的学生马丁，我上您的电影选修课。", "pinyin": "Lǎoshī, nín hǎo. Wǒ shì nín de xuésheng Mǎdīng, wǒ shàng nín de diànyǐng xuǎnxiūkè.", "translation": "Chào cô. Em là học sinh của cô, Martin, em học lớp tự chọn điện ảnh của cô." },
+        { "speaker": "老师", "hanzi": "哦，马丁，有事吗？", "pinyin": "Ò, Mǎdīng, yǒu shì ma?", "translation": "Ồ, Martin, có chuyện gì không?" },
+        { "speaker": "马丁", "hanzi": "今天下午的课，我能请假吗？", "pinyin": "Jīntiān xiàwǔ de kè, wǒ néng qǐngjià ma?", "translation": "Tiết học chiều nay, em có thể xin nghỉ phép không ạ?" },
+        { "speaker": "老师", "hanzi": "你怎么了？", "pinyin": "Nǐ zěnme le?", "translation": "Em làm sao vậy?" },
+        { "speaker": "马丁", "hanzi": "我身体不舒服。今天上午一直肚子疼，现在好像还有点儿发烧。", "pinyin": "Wǒ shēntǐ bù shūfu. Jīntiān shàngwǔ yìzhí dùzi téng, xiànzài hǎoxiàng hái yǒu diǎnr fāshāo.", "translation": "Cơ thể em không khỏe. Sáng nay liên tục đau bụng, bây giờ hình như còn hơi sốt." },
+        { "speaker": "老师", "hanzi": "去医院了吗？", "pinyin": "Qù yīyuàn le ma?", "translation": "Đã đến bệnh viện chưa?" },
+        { "speaker": "马丁", "hanzi": "没有，我想去药店买点儿药。", "pinyin": "Méiyǒu, wǒ xiǎng qù yàodiàn mǎi diǎnr yào.", "translation": "Dạ chưa, em muốn ra hiệu thuốc mua chút thuốc." },
+        { "speaker": "老师", "hanzi": "不行，去药店不如去医院，医院的医生可以好好儿帮你检查一下。", "pinyin": "Bù xíng, qù yàodiàn bùrú qù yīyuàn, yīyuàn de yīshēng kěyǐ hǎohāor bāng nǐ jiǎnchá yíxià.", "translation": "Không được, đi hiệu thuốc không bằng đi bệnh viện, bác sĩ ở bệnh viện có thể kiểm tra kỹ cho em." },
+        { "speaker": "马丁", "hanzi": "老师，学校附近有医院吗？", "pinyin": "Lǎoshī, xuéxiào fùjìn yǒu yīyuàn ma?", "translation": "Cô ơi, gần trường có bệnh viện không ạ?" },
+        { "speaker": "老师", "hanzi": "大医院都离得比较远，学校西门外边有个社区医院，虽然比较小，但是医生都不错。", "pinyin": "Dà yīyuàn dōu lí de bǐjiào yuǎn, xuéxiào xīmén wàibiān yǒu ge shèqū yīyuàn, suīrán bǐjiào xiǎo, dànshì yīshēng dōu búcuò.", "translation": "Bệnh viện lớn đều khá xa, bên ngoài cổng Tây trường học có một bệnh viện cộng đồng, tuy hơi nhỏ nhưng bác sĩ đều tốt." },
+        { "speaker": "马丁", "hanzi": "哦，我好像看见过。谢谢老师。", "pinyin": "Ò, wǒ hǎoxiàng kànjiàn guo. Xièxie lǎoshī.", "translation": "Ồ, hình như em đã từng thấy qua. Cảm ơn cô." },
+        { "speaker": "老师", "hanzi": "你赶快去吧。看完病，回去好好儿休息。", "pinyin": "Nǐ gǎnkuài qù ba. Kàn wán bìng, huíqù hǎohāor xiūxi.", "translation": "Em mau đi đi. Khám bệnh xong, về nhà nghỉ ngơi cho tốt nhé." }
+      ],
+      "questions": [
+        { "q": "马丁为什么要请假？", "a": "因为他身体不舒服，肚子疼，好像有点发烧。" },
+        { "q": "马丁去医院了吗？他想怎么办？", "a": "没有，他想去药店买点药。" },
+        { "q": "老师为什么让他去医院？", "a": "去药店不如去医院，医生可以好好检查一下。" },
+        { "q": "老师告诉他可以去哪里的医院？", "a": "可以去学校西门外边的社区医院。" }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "课文 (二)",
+      "context": "汉娜帮杰森向老师请假",
+      "lines": [
+        { "speaker": "汉娜", "hanzi": "老师，杰森让我帮他请假。", "pinyin": "Lǎoshī, Jiésēn ràng wǒ bāng tā qǐngjià.", "translation": "Cô ơi, Jason nhờ em xin phép nghỉ cho bạn ấy." },
+        { "speaker": "老师", "hanzi": "他怎么了？病了吗？", "pinyin": "Tā zěnme le? Bìng le ma?", "translation": "Em ấy làm sao? Ốm rồi à?" },
+        { "speaker": "汉娜", "hanzi": "他感冒了，而且他的腿也受伤了。", "pinyin": "Tā gǎnmào le, érqiě tā de tuǐ yě shòushāng le.", "translation": "Bạn ấy bị cảm, hơn nữa chân bạn ấy cũng bị thương rồi." },
+        { "speaker": "老师", "hanzi": "啊，厉害吗？", "pinyin": "À, lìhai ma?", "translation": "Hả, có nặng không?" },
+        { "speaker": "汉娜", "hanzi": "他的感冒很厉害，不过，他的腿不太严重。", "pinyin": "Tā de gǎnmào hěn lìhai, búguò, tā de tuǐ bú tài yánzhòng.", "translation": "Cảm cúm của bạn ấy rất nặng, nhưng chân thì không nghiêm trọng lắm." },
+        { "speaker": "老师", "hanzi": "他去医院了吗？", "pinyin": "Tā qù yīyuàn le ma?", "translation": "Em ấy đã đi bệnh viện chưa?" },
+        { "speaker": "汉娜", "hanzi": "去了，医生让他住院，可是他不同意。", "pinyin": "Qù le, yīshēng ràng tā zhùyuàn, kěshì tā bù tóngyì.", "translation": "Đi rồi ạ, bác sĩ bảo nhập viện, nhưng bạn ấy không đồng ý." },
+        { "speaker": "老师", "hanzi": "为什么？", "pinyin": "Wèi shénme?", "translation": "Tại sao?" },
+        { "speaker": "汉娜", "hanzi": "他说，医院不如家里方便，家里有人照顾他。", "pinyin": "Tā shuō, yīyuàn bùrú jiālǐ fāngbiàn, jiālǐ yǒu rén zhàogu tā.", "translation": "Bạn ấy bảo, ở bệnh viện không tiện bằng ở nhà, ở nhà có người chăm sóc." },
+        { "speaker": "老师", "hanzi": "他的腿是怎么受伤的？", "pinyin": "Tā de tuǐ shì zěnme shòushāng de?", "translation": "Chân bạn ấy bị thương như thế nào?" },
+        { "speaker": "汉娜", "hanzi": "前天打球的时候，他和别人撞在一起，摔倒了。", "pinyin": "Qiántiān dǎqiú de shíhou, tā hé biérén zhuàng zài yìqǐ, shuāidǎo le.", "translation": "Hôm kia lúc chơi bóng, bạn ấy va chạm với người khác rồi ngã." },
+        { "speaker": "老师", "hanzi": "现在好点儿了吗？", "pinyin": "Xiànzài hǎo diǎnr le ma?", "translation": "Bây giờ đỡ hơn chưa?" },
+        { "speaker": "汉娜", "hanzi": "今天好多了，他说他下星期就能来上课了。", "pinyin": "Jīntiān hǎo duō le, tā shuō tā xià xīngqī jiù néng lái shàngkè le.", "translation": "Hôm nay đỡ nhiều rồi, bạn ấy nói tuần sau là có thể đến học rồi." },
+        { "speaker": "老师", "hanzi": "你们运动的时候一定要小心。告诉他，让他在家好好儿休息，希望他早点儿恢复。", "pinyin": "Nǐmen yùndòng de shíhou yídìng yào xiǎoxīn. Gàosu tā, ràng tā zài jiā hǎohāor xiūxi, xīwàng tā zǎo diǎnr huīfù.", "translation": "Các em lúc vận động nhất định phải cẩn thận. Báo với em ấy, bảo em ấy ở nhà nghỉ ngơi cho tốt, mong em ấy mau chóng hồi phục." },
+        { "speaker": "汉娜", "hanzi": "好的，老师，我一定转告他。", "pinyin": "Hǎo de, lǎoshī, wǒ yídìng zhuǎngào tā.", "translation": "Vâng ạ, thưa cô, em nhất định sẽ chuyển lời cho bạn ấy." }
+      ],
+      "questions": [
+        { "q": "杰森怎么了？", "a": "他感冒了，腿也受伤了。" },
+        { "q": "医生怎么说？", "a": "医生让他住院。" },
+        { "q": "杰森为什么不住院？", "a": "因为医院不如家里方便，家里有人照顾他。" },
+        { "q": "杰森现在怎么样？什么时候能来上课？", "a": "今天好多了，下星期就能来上课了。" },
+        { "q": "汉娜要转告杰森什么？", "a": "让他在家好好休息，希望他早点恢复。" }
+      ]
+    }
+  ],
+  "functional_sentences": [
+    {
+      "category": "【询问原因或理由】 Hỏi nguyên nhân hoặc lý do",
+      "examples": [
+        "A: 今天下午的课，我能请假吗？ B: 你怎么了？(A: Tiết học chiều nay, em có thể xin nghỉ không? / B: Em làm sao vậy?)",
+        "A: 医生让他住院，可是他不同意。 B: 为什么？(A: Bác sĩ bảo anh ấy nhập viện, nhưng anh ấy không đồng ý. / B: Tại sao?)",
+        "A: 他的腿是怎么受伤的？ B: 前天打球的时候，他和别人撞在一起，摔倒了。(A: Chân anh ấy bị thương như thế nào? / B: Hôm kia lúc chơi bóng, va chạm với người khác nên bị ngã.)"
+      ]
+    },
+    {
+      "category": "【关心】 Thể hiện sự quan tâm, hỏi thăm sức khỏe",
+      "examples": [
+        "他怎么了？病了吗？(Anh ấy làm sao vậy? Ốm rồi à?)",
+        "病得厉害吗？(Bệnh có nặng không?)",
+        "去医院了吗？(Đã đến bệnh viện chưa?)",
+        "现在好点儿了吗？(Bây giờ đỡ hơn chút nào chưa?)",
+        "让他在家好好儿休息。(Bảo anh ấy ở nhà nghỉ ngơi cho tốt nhé.)"
+      ]
+    },
+    {
+      "category": "【比较】 So sánh (kém)",
+      "examples": [
+        "去药店不如去医院，医院的医生可以好好儿帮你检查一下。(Đi hiệu thuốc không bằng đi bệnh viện, bác sĩ có thể kiểm tra kỹ cho bạn.)",
+        "医院不如家里方便，家里有人照顾他。(Bệnh viện không tiện bằng ở nhà, ở nhà có người chăm sóc.)",
+        "今天天气不如昨天好。(Thời tiết hôm nay không tốt bằng hôm qua.)",
+        "公共汽车不如地铁快。(Xe buýt không nhanh bằng tàu điện ngầm.)",
+        "坐什么车都不如骑车方便。(Đi xe gì cũng không tiện bằng đi xe đạp.)"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "substitution",
+      "instruction": "Luyện tập thay thế từ",
+      "questions": [
+        {
+          "sentence": "A: 老师，今天的课我能请假吗？\nB: 为什么？\nA: 我妈妈来中国了，我想陪她玩儿一天。",
+          "substitutes": [
+            "为什么 / 有点儿不舒服 / 去看病",
+            "怎么了 / 同屋病了 / 陪她去医院",
+            "你怎么了 / 还在发烧 / 好好儿休息休息"
+          ]
+        },
+        {
+          "sentence": "A: 你怎么了？\nB: 我有点儿不舒服，感冒，还有点儿咳嗽。\nA: 去医院了吗？\nB: 我想去药店买点儿药。\nA: 去药店不如去医院好，还是去医院吧。",
+          "substitutes": [
+            "身体不太好 / 嗓子疼 / 发烧 / 不如",
+            "受伤了 / 踢球摔了一下 / 感冒 / 没有",
+            "病了 / 头疼、肚子疼 / 咳嗽 / 没有"
+          ]
+        },
+        {
+          "sentence": "A: 学校附近有医院吗？\nB: 学校旁边有个社区医院，虽然比较小，但是医生都不错。",
+          "substitutes": [
+            "超市 / 小超市 / 东西很全",
+            "公园 / 小公园 / 也挺不错",
+            "饭馆 / 小饭馆 / 饭菜很好吃"
+          ]
+        },
+        {
+          "sentence": "A: 他嗓子疼，好像感冒了。\nB: 厉害吗？\nA: 今天比昨天厉害。\nB: 赶快去医院吧。",
+          "substitutes": [
+            "感冒了 / 还发烧 / 越来越严重了",
+            "腿受伤了 / 特别疼 / 好像挺厉害的",
+            "肚子疼 / 还老去卫生间 / 比上午严重得多"
+          ]
+        },
+        {
+          "sentence": "A: 他怎么了？\nB: 摔倒了，腿受伤了。",
+          "substitutes": [
+            "电视 / 坏 / 没有声音",
+            "花瓶 / 碎 / 花儿也死",
+            "手机 / 坏 / 没法用"
+          ]
+        },
+        {
+          "sentence": "A: 告诉杰森，好好儿休息。\nB: 好的，我一定转告。",
+          "substitutes": [
+            "希望他早点儿恢复 / 告诉他",
+            "明天早点儿来 / 告诉他",
+            "我们都欢迎他 / 转告"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "instruction": "Hoàn thành các đoạn hội thoại",
+      "questions": [
+        {
+          "context": "A: 老师，您好！我是您的学生丁丁。\nB: 哦，丁丁，_______________？\nA: 我病了，下午的_______________？\nB: 可以请假，你_______________。",
+          "hint": "(Gợi ý: 事 / 请假 / 好好儿)",
+          "answer": "有事吗\n课我能请假吗\n好好儿休息"
+        },
+        {
+          "context": "A: 你怎么了？\nB: 我身体_______________，一直_______________。\nA: 你去医院了吗？\nB: 我不想去，我想_______________。\nA: 你最好还是去医院。",
+          "hint": "(Gợi ý: 舒服 / 肚子 / 药店)",
+          "answer": "不舒服\n肚子疼\n去药店买点儿药"
+        },
+        {
+          "context": "A: 丁丁，_______________？\nB: 我头疼，好像_______________。\nA: 那你去医院看看吧。\nB: 去药店买点儿药就行吧？\nA: _______________，医生可以_______________。",
+          "hint": "(Gợi ý: 怎么 / 发烧 / 不如 / 检查)",
+          "answer": "你怎么了\n有点儿发烧\n去药店不如去医院\n好好儿帮你检查一下"
+        },
+        {
+          "context": "A: 丁丁来了吗？\nB: 老师，他没来，_______________。\nA: 他怎么了？\nB: 他病了，_______________。\nA: 现在感冒的人很多，你们都要注意。",
+          "hint": "(Gợi ý: 请假 / 感冒 / 厉害)",
+          "answer": "他请假了\n感冒很厉害"
+        },
+        {
+          "context": "A: 喂，是吴老师吗？\nB: 我就是。\nA: 老师，我是丁丁，今天的课_______________。\nB: 你怎么了？\nA: 昨天打球的时候，_______________。\nB: 受伤了吗？\nA: 我的腿受伤了，不过_______________。\nB: 那你别来上课了，好好儿休息，早点儿恢复。",
+          "hint": "(Gợi ý: ……不了 / 撞 / 摔倒了 / 严重)",
+          "answer": "我上不了了\n和别人撞在一起，摔倒了\n不太严重"
+        },
+        {
+          "context": "A: 他病得厉害吗？\nB: 很厉害，医生_______________。\nA: 那就住院吧。\nB: 他不同意，他说_______________，_______________。\nA: 家里有人就好多了。请你_______________，以后一定要小心。",
+          "hint": "(Gợi ý: 住院 / 不如 / 照顾 / 转告)",
+          "answer": "让他住院\n医院不如家里方便\n家里有人照顾他\n转告他好好休息"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "lesson": 13,
+  "vocabAudioPath": "audio/25.mp3",
+  "title": "他们都说我包的饺子好吃 (They all say that the dumplings I make are delicious)",
+  "pdfPage": 144,
+  "vocabulary": [
+    { "id": 1, "hanzi": "食堂", "pinyin": "shítáng", "meaning": "nhà ăn, căn tin", "type": "danh từ" },
+    { "id": 2, "hanzi": "当", "pinyin": "dāng", "meaning": "làm, đảm nhiệm", "type": "động từ" },
+    { "id": 3, "hanzi": "厨师", "pinyin": "chúshī", "meaning": "đầu bếp", "type": "danh từ" },
+    { "id": 4, "hanzi": "开玩笑", "pinyin": "kāi wánxiào", "meaning": "nói đùa", "type": "động từ" },
+    { "id": 5, "hanzi": "吃惊", "pinyin": "chījīng", "meaning": "kinh ngạc, ngạc nhiên", "type": "động từ" },
+    { "id": 6, "hanzi": "简单", "pinyin": "jiǎndān", "meaning": "đơn giản", "type": "tính từ" },
+    { "id": 7, "hanzi": "比如(说)", "pinyin": "bǐrú (shuō)", "meaning": "ví dụ như", "type": "động từ" },
+    { "id": 8, "hanzi": "炒", "pinyin": "chǎo", "meaning": "xào", "type": "động từ" },
+    { "id": 9, "hanzi": "西红柿", "pinyin": "xīhóngshì", "meaning": "cà chua", "type": "danh từ" },
+    { "id": 10, "hanzi": "豆腐", "pinyin": "dòufu", "meaning": "đậu phụ", "type": "danh từ" },
+    { "id": 11, "hanzi": "鱼", "pinyin": "yú", "meaning": "cá", "type": "danh từ" },
+    { "id": 12, "hanzi": "包", "pinyin": "bāo", "meaning": "gói (sủi cảo)", "type": "động từ" },
+    { "id": 13, "hanzi": "尝", "pinyin": "cháng", "meaning": "nếm thử", "type": "động từ" },
+    { "id": 14, "hanzi": "鸡蛋炒西红柿", "pinyin": "Jīdàn Chǎo Xīhóngshì", "meaning": "trứng xào cà chua", "type": "tên món ăn" },
+    { "id": 15, "hanzi": "麻婆豆腐", "pinyin": "Mápó Dòufu", "meaning": "đậu phụ Tứ Xuyên (đậu phụ xốt cay)", "type": "tên món ăn" },
+    { "id": 16, "hanzi": "鱼香肉丝", "pinyin": "Yúxiāng Ròusī", "meaning": "thịt lợn xé sợi hương cá", "type": "tên món ăn" },
+    { "id": 17, "hanzi": "菜单", "pinyin": "càidān", "meaning": "thực đơn", "type": "danh từ" },
+    { "id": 18, "hanzi": "随便", "pinyin": "suíbiàn", "meaning": "tùy ý, thế nào cũng được", "type": "tính từ/động từ" },
+    { "id": 19, "hanzi": "点(菜)", "pinyin": "diǎn (cài)", "meaning": "gọi (món ăn)", "type": "động từ" },
+    { "id": 20, "hanzi": "来", "pinyin": "lái", "meaning": "cho một (thay thế cho động từ khác)", "type": "động từ" },
+    { "id": 21, "hanzi": "米饭", "pinyin": "mǐfàn", "meaning": "cơm", "type": "danh từ" },
+    { "id": 22, "hanzi": "起来", "pinyin": "qǐlai", "meaning": "(bổ ngữ xu hướng) lên", "type": "động từ" },
+    { "id": 23, "hanzi": "以为", "pinyin": "yǐwéi", "meaning": "cho rằng, tưởng rằng", "type": "động từ" },
+    { "id": 24, "hanzi": "历史", "pinyin": "lìshǐ", "meaning": "lịch sử", "type": "danh từ" },
+    { "id": 25, "hanzi": "故事", "pinyin": "gùshi", "meaning": "câu chuyện", "type": "danh từ" },
+    { "id": 26, "hanzi": "图", "pinyin": "tú", "meaning": "hình ảnh, bức tranh", "type": "danh từ" },
+    { "id": 27, "hanzi": "宫保鸡丁", "pinyin": "Gōngbǎo Jīdīng", "meaning": "Gà Cung Bảo", "type": "tên món ăn" },
+    { "id": 28, "hanzi": "东坡肉", "pinyin": "Dōngpō Ròu", "meaning": "Thịt Đông Pha", "type": "tên món ăn" }
+  ],
+  "dialogues": [
+    {
+      "id": 1,
+      "audioPath": "audio/26.mp3",
+      "title": "课文 (一)",
+      "context": "大中和李雪在聊天儿",
+      "lines": [
+        { "speaker": "大中", "hanzi": "你每天在哪儿吃饭？", "pinyin": "Nǐ měitiān zài nǎr chīfàn?", "translation": "Mỗi ngày bạn ăn cơm ở đâu?" },
+        { "speaker": "李雪", "hanzi": "我在学校食堂吃，你呢？", "pinyin": "Wǒ zài xuéxiào shítáng chī, nǐ ne?", "translation": "Mình ăn ở nhà ăn của trường, còn bạn?" },
+        { "speaker": "大中", "hanzi": "学校外边有几家不错的饭馆，我中午常常去那里，晚上我一般自己做。", "pinyin": "Xuéxiào wàibian yǒu jǐ jiā búcuò de fànguǎn, wǒ zhōngwǔ chángcháng qù nàlǐ, wǎnshang wǒ yìbān zìjǐ zuò.", "translation": "Bên ngoài trường có vài quán ăn rất khá, buổi trưa mình thường đến đó, buổi tối mình thường tự nấu." },
+        { "speaker": "李雪", "hanzi": "你会做饭？", "pinyin": "Nǐ huì zuòfàn?", "translation": "Bạn biết nấu ăn sao?" },
+        { "speaker": "大中", "hanzi": "当然，我专门学过，还当过厨师呢。", "pinyin": "Dāngrán, wǒ zhuānmén xué guo, hái dāng guo chúshī ne.", "translation": "Đương nhiên, mình đã học qua chuyên môn, còn từng làm đầu bếp nữa." },
+        { "speaker": "李雪", "hanzi": "当过厨师，你跟我开玩笑吧？", "pinyin": "Dāng guo chúshī, nǐ gēn wǒ kāi wánxiào ba?", "translation": "Từng làm đầu bếp á, bạn nói đùa với mình à?" },
+        { "speaker": "大中", "hanzi": "不开玩笑，这是真的。", "pinyin": "Bù kāi wánxiào, zhè shì zhēn de.", "translation": "Không đùa đâu, đây là thật đấy." },
+        { "speaker": "李雪", "hanzi": "你太让我吃惊了。", "pinyin": "Nǐ tài ràng wǒ chījīng le.", "translation": "Bạn làm mình ngạc nhiên quá." },
+        { "speaker": "大中", "hanzi": "一般的韩国菜我都会做，简单的中餐我也会。", "pinyin": "Yìbān de Hánguócài wǒ dōu huì zuò, jiǎndān de zhōngcān wǒ yě huì.", "translation": "Các món Hàn Quốc bình thường mình đều biết nấu, món Trung Quốc đơn giản mình cũng biết." },
+        { "speaker": "李雪", "hanzi": "真没想到！中餐你会做什么？", "pinyin": "Zhēn méi xiǎngdào! Zhōngcān nǐ huì zuò shénme?", "translation": "Thật không ngờ tới! Món ăn Trung Quốc bạn biết làm món gì?" },
+        { "speaker": "大中", "hanzi": "比如说，鸡蛋炒西红柿、麻婆豆腐、鱼香肉丝。", "pinyin": "Bǐrú shuō, jīdàn chǎo xīhóngshì, mápó dòufu, yúxiāng ròusī.", "translation": "Ví dụ như, trứng xào cà chua, đậu phụ Tứ Xuyên, thịt xé sợi hương cá." },
+        { "speaker": "李雪", "hanzi": "都是我爱吃的菜。哎，你会做饺子吗？", "pinyin": "Dōu shì wǒ ài chī de cài. Āi, nǐ huì zuò jiǎozi ma?", "translation": "Đều là những món mình thích ăn. Ê, bạn biết làm sủi cảo không?" },
+        { "speaker": "大中", "hanzi": "会，朋友们都说我包的饺子好吃。", "pinyin": "Huì, péngyoumen dōu shuō wǒ bāo de jiǎozi hǎochī.", "translation": "Biết, bạn bè đều nói sủi cảo mình làm ăn rất ngon." },
+        { "speaker": "李雪", "hanzi": "真的吗？那你一定得请我到你家吃饭，我也想尝尝你包的饺子。", "pinyin": "Zhēn de ma? Nà nǐ yídìng děi qǐng wǒ dào nǐ jiā chīfàn, wǒ yě xiǎng chángchang nǐ bāo de jiǎozi.", "translation": "Thật không? Vậy bạn nhất định phải mời mình đến nhà bạn ăn cơm nhé, mình cũng muốn nếm thử sủi cảo bạn làm." },
+        { "speaker": "大中", "hanzi": "好，没问题。", "pinyin": "Hǎo, méi wèntí.", "translation": "Được, không thành vấn đề." }
+      ],
+      "questions": [
+        { "q": "李雪每天在哪儿吃饭？大中呢？", "a": "李雪在学校食堂吃。大中中午去饭馆，晚上一般自己做。" },
+        { "q": "李雪为什么吃惊？", "a": "因为大中专门学过做饭，还当过厨师。" },
+        { "q": "李雪爱吃什么菜？", "a": "鸡蛋炒西红柿、麻婆豆腐、鱼香肉丝和饺子。" },
+        { "q": "为什么李雪要吃大中包的饺子？", "a": "因为朋友们都说大中包的饺子好吃。" }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "课文 (二)",
+      "context": "汉娜和杰森去饭馆吃饭",
+      "lines": [
+        { "speaker": "汉娜", "hanzi": "杰森，看看菜单，你想吃什么？", "pinyin": "Jiésēn, kànkan càidān, nǐ xiǎng chī shénme?", "translation": "Jason, xem thực đơn đi, bạn muốn ăn món gì?" },
+        { "speaker": "杰森", "hanzi": "随便，吃什么都行。", "pinyin": "Suíbiàn, chī shénme dōu xíng.", "translation": "Tùy ý, ăn gì cũng được." },
+        { "speaker": "汉娜", "hanzi": "我最怕点菜了，你点吧。", "pinyin": "Wǒ zuì pà diǎn cài le, nǐ diǎn ba.", "translation": "Mình sợ gọi món nhất, bạn gọi đi." },
+        { "speaker": "杰森", "hanzi": "还是你来吧，菜单上的字，我只认识那几个：“鸡蛋”、“西红柿”、“麻婆豆腐”，还有“米饭”。", "pinyin": "Háishì nǐ lái ba, càidān shang de zì, wǒ zhǐ rènshi nà jǐ ge: “jīdàn”, “xīhóngshì”, “mápó dòufu”, háiyǒu “mǐfàn”.", "translation": "Vẫn nên để bạn gọi đi, chữ trên thực đơn, mình chỉ nhận ra mấy chữ đó: \"trứng gà\", \"cà chua\", \"đậu phụ Tứ Xuyên\", và \"cơm\"." },
+        { "speaker": "汉娜", "hanzi": "不对，你上次还点了鱼香肉丝呢。", "pinyin": "Bú duì, nǐ shàng cì hái diǎn le yúxiāng ròusī ne.", "translation": "Không đúng, lần trước bạn còn gọi món thịt lợn xé sợi hương cá nữa cơ mà." },
+        { "speaker": "杰森", "hanzi": "鱼香肉丝？哦，想起来了，那时候我还以为鱼香肉丝是一种鱼做的菜呢。", "pinyin": "Yúxiāng ròusī? Ò, xiǎng qǐlai le, nà shíhou wǒ hái yǐwéi yúxiāng ròusī shì yì zhǒng yú zuò de cài ne.", "translation": "Thịt lợn xé sợi hương cá á? Ồ, nhớ ra rồi, lúc đó mình còn tưởng món thịt xé sợi hương cá đó là một món làm từ cá cơ." },
+        { "speaker": "汉娜", "hanzi": "中文菜单是挺难的，有的看名字真的不知道是什么。", "pinyin": "Zhōngwén càidān shì tǐng nán de, yǒu de kàn míngzi zhēn de bù zhīdào shì shénme.", "translation": "Thực đơn tiếng Trung khá là khó, có cái nhìn tên thật sự không biết là cái gì." },
+        { "speaker": "杰森", "hanzi": "听说，有些菜名都是有历史、有故事的。", "pinyin": "Tīngshuō, yǒuxiē cài míng dōu shì yǒu lìshǐ, yǒu gùshi de.", "translation": "Nghe nói, một số tên món ăn đều có lịch sử, có câu chuyện." },
+        { "speaker": "汉娜", "hanzi": "对，比如你刚才说的麻婆豆腐，还有宫保鸡丁、东坡肉。不过，现在不少餐馆的菜单都有图了。", "pinyin": "Duì, bǐrú nǐ gāngcái shuō de mápó dòufu, háiyǒu gōngbǎo jīdīng, dōngpō ròu. Búguò, xiànzài bù shǎo cānguǎn de càidān dōu yǒu tú le.", "translation": "Đúng, ví dụ như món đậu phụ Tứ Xuyên bạn vừa nói, còn có gà Cung Bảo, thịt Đông Pha. Nhưng mà, bây giờ rất nhiều thực đơn của nhà hàng đều có hình ảnh rồi." },
+        { "speaker": "杰森", "hanzi": "没有图的时候，我一般看别人吃什么，看起来不错的，我就告诉服务员，“来一个那个。”", "pinyin": "Méiyǒu tú de shíhou, wǒ yìbān kàn biérén chī shénme, kàn qǐlai búcuò de, wǒ jiù gàosu fúwùyuán, “lái yí ge nàge.”", "translation": "Lúc không có hình ảnh, mình thường xem người khác ăn món gì, trông có vẻ ngon, mình liền bảo phục vụ: \"Cho một món đó.\"" },
+        { "speaker": "汉娜", "hanzi": "这个办法也不错。", "pinyin": "Zhège bànfǎ yě búcuò.", "translation": "Cách này cũng không tồi." }
+      ],
+      "questions": [
+        { "q": "为什么汉娜、杰森都不想点菜？", "a": "汉娜最怕点菜，杰森不认识菜单上的字。" },
+        { "q": "杰森原来以为鱼香肉丝是什么菜？", "a": "他以为鱼香肉丝是一种鱼做的菜。" },
+        { "q": "哪些菜是有历史、有故事的？", "a": "麻婆豆腐、宫保鸡丁、东坡肉等都有历史和故事。" },
+        { "q": "杰森现在点菜的方法是什么？", "a": "看别人吃什么不错的，就告诉服务员来一个那个。" }
+      ]
+    }
+  ],
+  "functional_sentences": [
+    {
+      "category": "【说明、解释】 Giải thích",
+      "examples": [
+        "A: 中餐你会做什么？ B: 比如说，鸡蛋炒西红柿、麻婆豆腐、鱼香肉丝。(Ví dụ như trứng xào cà chua...)",
+        "那时候我还以为鱼香肉丝是一种鱼做的菜呢。(Lúc đó tôi còn tưởng đó là món làm từ cá cơ.)",
+        "A: 听说，有些菜名都是有历史、有故事的。 B: 对，比如你刚才说的麻婆豆腐...(Đúng, ví dụ như bạn vừa nói...)"
+      ]
+    },
+    {
+      "category": "【吃惊、意外】 Thể hiện sự ngạc nhiên",
+      "examples": [
+        "你太让我吃惊了。(Bạn làm tôi ngạc nhiên quá.)",
+        "真没想到！(Thật không ngờ tới!)"
+      ]
+    },
+    {
+      "category": "【怀疑】 Thể hiện sự hoài nghi",
+      "examples": [
+        "你跟我开玩笑吧？(Bạn đang nói đùa với tôi à?)",
+        "A: 朋友们都说我包的饺子好吃。 B: 真的吗？(Thật không?)",
+        "A: 他说今天他不来了。 B: 不会吧？(Chắc không phải đâu nhỉ?)"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "substitution",
+      "instruction": "Luyện tập thay thế từ",
+      "questions": [
+        {
+          "sentence": "这儿还有几家饭馆。",
+          "substitutes": [
+            "我 / 块 / 钱",
+            "他 / 件 / 衣服",
+            "教室里 / 把 / 椅子"
+          ]
+        },
+        {
+          "sentence": "A: 我还当过厨师呢。\nB: 当过厨师，你跟我开玩笑吧？",
+          "substitutes": [
+            "老师 / 真的吗",
+            "运动员 / 你和我们开玩笑吧",
+            "演员 / 不会吧"
+          ]
+        },
+        {
+          "sentence": "A: 你真会唱京剧吗？\nB: 不开玩笑，是真的。\nA: 你太让我吃惊了。",
+          "substitutes": [
+            "会包饺子 / 真没想到",
+            "能修电脑 / 太让我吃惊了",
+            "能给我们当导游 / 真没想到，太好了"
+          ]
+        },
+        {
+          "sentence": "A: 简单的中国菜我会做。\nB: 真的？你会什么？\nA: 比如（说），鸡蛋炒西红柿、麻婆豆腐、鱼香肉丝。",
+          "substitutes": [
+            "韩语 / 会说 / 你好、谢谢、再见",
+            "汉字 / 会写 / 大、小、日、月",
+            "中国画儿 / 能画 / 花、草、树"
+          ]
+        },
+        {
+          "sentence": "A: 你想吃什么？\nB: 随便，什么都行。\nA: 那听我的，我们吃饺子。",
+          "substitutes": [
+            "喝 / 喝咖啡",
+            "看 / 看足球比赛",
+            "吃 / 吃汉堡和薯条"
+          ]
+        },
+        {
+          "sentence": "A: 我还以为鱼香肉丝是一种鱼做的菜呢。\nB: 不是的。\nA: 还是我来吧，我比你会点菜。",
+          "substitutes": [
+            "你做饭了 / 我刚回来 / 我比你快",
+            "你把房间收拾干净了 / 我没时间 / 你比我忙",
+            "你写完通知了 / 没有呢 / 你先写作业"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "instruction": "Hoàn thành các đoạn hội thoại",
+      "questions": [
+        {
+          "context": "A: 你吃饭了吗？\nB: _______________。\nA: 在哪儿吃的？\nB: 学校食堂，中午我_______________都在那儿吃，_______________。",
+          "hint": "(Gợi ý: 吃 / 方便 / 差不多)",
+          "answer": "吃了\n差不多\n很方便"
+        },
+        {
+          "context": "A: 咱们去外边吃饭吧，学校旁边有几家饭馆不错。\nB: 别去外边了，我给你们做吧。\nA: 没_______________吧？你会做饭？\nB: 当然，我专门学过，还_______________呢。\nA: 那好吧，_______________。",
+          "hint": "(Gợi ý: 当 / 开玩笑 / 尝)",
+          "answer": "开玩笑\n当过厨师\n我们尝尝"
+        },
+        {
+          "context": "A: 今天_______________。\nB: 我_______________，这是真的？\nA: 当然了。\nB: 你给我们做什么？\nA: 你们想吃什么？_______________。",
+          "hint": "(Gợi ý: 请 / 吃惊 / 简单)",
+          "answer": "我请客\n真吃惊\n简单的菜我都会做"
+        },
+        {
+          "context": "A: 真没想到，中餐你也会做？\nB: 简单点儿的，_______________。\nA: _______________？\nB: 比如说，鸡蛋炒西红柿、麻婆豆腐、鱼香肉丝，包饺子也行。\nA: 太棒了，咱们_______________。",
+          "hint": "(Gợi ý: 包 / 比如说 / 没问题)",
+          "answer": "没问题\n比如说呢\n包饺子吃吧"
+        },
+        {
+          "context": "A: 我_______________，你点吧。\nB: 看看菜单，你想吃什么？\nA: _______________，吃什么都行。\nB: 那我点啦？\nA: 你放心点吧，你点什么_______________。",
+          "hint": "(Gợi ý: 随便 / 都 / 最怕)",
+          "answer": "最怕点菜\n随便\n我都喜欢吃"
+        },
+        {
+          "context": "A: 今天_______________，怎么样？\nB: 好啊，我想吃鱼，咱们要个鱼香肉丝吧。\nA: 鱼香肉丝不是鱼。\nB: 不是鱼？中文菜单真难，_______________。\nA: 这儿有图，咱们可以_______________。",
+          "hint": "(Gợi ý: 看 / 还是 / 点)",
+          "answer": "在饭馆点菜\n还是你点吧\n看图点菜"
+        },
+        {
+          "context": "A: 你看，_______________要的那个菜挺好的。\nB: 是啊，好像有豆腐。\nA: 那咱们告诉服务员，_______________。\nB: 我得问问服务员，那菜叫什么名字，下次咱们就能要了。\nA: 对，_______________。",
+          "hint": "(Gợi ý: 办法 / 来 / 桌)",
+          "answer": "旁边那桌\n来一个那个\n好办法"
+        }
+      ]
+    }
+  ]
+}

@@ -663,9 +663,9 @@ function App() {
             </div>
           ))}
           {/* Mock empty lessons for UI demonstration */}
-          {Array.from({ length: 18 }).map((_, i) => (
-            <div key={i + 6} className="lesson-item" style={{ opacity: 0.5 }} title="Dữ liệu chưa cào">
-              Bài {i + 6}: (Chưa có dữ liệu)
+          {Array.from({ length: 11 }).map((_, i) => (
+            <div key={i + 13} className="lesson-item" style={{ opacity: 0.5 }} title="Dữ liệu chưa cào">
+              Bài {i + 13}: (Chưa có dữ liệu)
             </div>
           ))}
         </div>

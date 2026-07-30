@@ -1,0 +1,212 @@
+{
+  "lesson": 7,
+  "vocabAudioPath": "audio/13.mp3",
+  "title": "越快越好 (The sooner, the better)",
+  "pdfPage": 72,
+  "vocabulary": [
+    { "id": 1, "hanzi": "发", "pinyin": "fā", "meaning": "gửi đi, phát", "type": "động từ" },
+    { "id": 2, "hanzi": "取", "pinyin": "qǔ", "meaning": "lấy, nhận", "type": "động từ" },
+    { "id": 3, "hanzi": "地址", "pinyin": "dìzhǐ", "meaning": "địa chỉ", "type": "danh từ" },
+    { "id": 4, "hanzi": "方式", "pinyin": "fāngshì", "meaning": "cách thức, phương thức", "type": "danh từ" },
+    { "id": 5, "hanzi": "大概", "pinyin": "dàgài", "meaning": "khoảng chừng, đại khái", "type": "phó từ" },
+    { "id": 6, "hanzi": "以内", "pinyin": "yǐnèi", "meaning": "trong vòng", "type": "danh từ" },
+    { "id": 7, "hanzi": "越……越……", "pinyin": "yuè... yuè...", "meaning": "càng... càng...", "type": "phó từ" },
+    { "id": 8, "hanzi": "本", "pinyin": "běn", "meaning": "này, hiện tại", "type": "đại từ" },
+    { "id": 9, "hanzi": "市", "pinyin": "shì", "meaning": "thành phố", "type": "danh từ" },
+    { "id": 10, "hanzi": "外地", "pinyin": "wàidì", "meaning": "ngoại thành, nơi khác", "type": "danh từ" },
+    { "id": 11, "hanzi": "经贸大学", "pinyin": "Jīngmào Dàxué", "meaning": "Đại học Kinh tế và Thương mại", "type": "danh từ riêng" },
+    { "id": 12, "hanzi": "收", "pinyin": "shōu", "meaning": "nhận", "type": "động từ" },
+    { "id": 13, "hanzi": "寄", "pinyin": "jì", "meaning": "gửi (thư, bưu kiện)", "type": "động từ" },
+    { "id": 14, "hanzi": "路上", "pinyin": "lùshang", "meaning": "trên đường đi", "type": "" },
+    { "id": 15, "hanzi": "瓶子", "pinyin": "píngzi", "meaning": "cái chai, lọ", "type": "danh từ" },
+    { "id": 16, "hanzi": "摔", "pinyin": "shuāi", "meaning": "rơi vỡ, ngã", "type": "động từ" },
+    { "id": 17, "hanzi": "小心", "pinyin": "xiǎoxīn", "meaning": "cẩn thận", "type": "tính từ" },
+    { "id": 18, "hanzi": "肯定", "pinyin": "kěndìng", "meaning": "chắc chắn", "type": "phó từ" },
+    { "id": 19, "hanzi": "包装", "pinyin": "bāozhuāng", "meaning": "đóng gói, bao bì", "type": "danh từ" },
+    { "id": 20, "hanzi": "碎", "pinyin": "suì", "meaning": "vỡ, nát", "type": "động từ" },
+    { "id": 21, "hanzi": "价格", "pinyin": "jiàgé", "meaning": "giá cả", "type": "danh từ" },
+    { "id": 22, "hanzi": "距离", "pinyin": "jùlí", "meaning": "khoảng cách", "type": "danh từ" },
+    { "id": 23, "hanzi": "裤子", "pinyin": "kùzi", "meaning": "cái quần", "type": "danh từ" },
+    { "id": 24, "hanzi": "样子", "pinyin": "yàngzi", "meaning": "hình dáng, kiểu dáng", "type": "danh từ" },
+    { "id": 25, "hanzi": "订", "pinyin": "dìng", "meaning": "đặt (chỗ, hàng)", "type": "động từ" }
+  ],
+  "dialogues": [
+    {
+      "id": 1,
+      "audioPath": "audio/14.mp3",
+      "title": "课文 (一)",
+      "context": "汉娜和快递公司通电话",
+      "lines": [
+        { "speaker": "快递", "hanzi": "你好！天天快递公司。", "pinyin": "Nǐ hǎo! Tiāntiān kuàidì gōngsī.", "translation": "Xin chào! Công ty chuyển phát nhanh Thiên Thiên." },
+        { "speaker": "汉娜", "hanzi": "你好！我有几本书想发快递，能派人来取一下吗？", "pinyin": "Nǐ hǎo! Wǒ yǒu jǐ běn shū xiǎng fā kuàidì, néng pài rén lái qǔ yíxià ma?", "translation": "Xin chào! Tôi có vài cuốn sách muốn gửi chuyển phát, có thể cử người đến lấy một chút không?" },
+        { "speaker": "快递", "hanzi": "好，请说一下您的地址。", "pinyin": "Hǎo, qǐng shuō yíxià nín de dìzhǐ.", "translation": "Được, xin hãy nói địa chỉ của ngài." },
+        { "speaker": "汉娜", "hanzi": "我这里是花园小区，15号楼，806号。", "pinyin": "Wǒ zhèlǐ shì Huāyuán xiǎoqū, shíwǔ hào lóu, bā líng liù hào.", "translation": "Chỗ tôi là khu dân cư Hoa Viên, tòa nhà số 15, phòng 806." },
+        { "speaker": "快递", "hanzi": "您的联系方式？", "pinyin": "Nín de liánxì fāngshì?", "translation": "Phương thức liên lạc của ngài?" },
+        { "speaker": "汉娜", "hanzi": "我的手机是18607235497。", "pinyin": "Wǒ de shǒujī shì yāo bā liù líng qī èr sān wǔ sì jiǔ qī.", "translation": "Di động của tôi là 18607235497." },
+        { "speaker": "快递", "hanzi": "好，我们马上派人过去。", "pinyin": "Hǎo, wǒmen mǎshàng pài rén guòqù.", "translation": "Được, chúng tôi sẽ lập tức cử người qua đó." },
+        { "speaker": "汉娜", "hanzi": "大概多长时间能过来？", "pinyin": "Dàgài duō cháng shíjiān néng guòlái?", "translation": "Khoảng bao lâu thì có thể qua tới?" },
+        { "speaker": "快递", "hanzi": "一个小时以内，家里有人吧？", "pinyin": "Yí ge xiǎoshí yǐnèi, jiālǐ yǒu rén ba?", "translation": "Trong vòng một tiếng đồng hồ, trong nhà có người chứ?" },
+        { "speaker": "汉娜", "hanzi": "我等你，越快越好啊。对了，多少钱？", "pinyin": "Wǒ děng nǐ, yuè kuài yuè hǎo a. Duì le, duōshao qián?", "translation": "Tôi đợi bạn, càng nhanh càng tốt nhé. À đúng rồi, bao nhiêu tiền?" },
+        { "speaker": "快递", "hanzi": "您送到哪里？本市还是外地？", "pinyin": "Nín sòng dào nǎlǐ? Běn shì háishì wàidì?", "translation": "Ngài gửi đến đâu? Trong thành phố hay nơi khác?" },
+        { "speaker": "汉娜", "hanzi": "本市，就送到经贸大学。", "pinyin": "Běn shì, jiù sòng dào Jīngmào Dàxué.", "translation": "Trong thành phố, gửi đến Đại học Kinh tế và Thương mại." },
+        { "speaker": "快递", "hanzi": "本市10块。", "pinyin": "Běn shì shí kuài.", "translation": "Trong thành phố 10 tệ." },
+        { "speaker": "汉娜", "hanzi": "多长时间送到？", "pinyin": "Duō cháng shíjiān sòng dào?", "translation": "Bao lâu thì gửi tới?" },
+        { "speaker": "快递", "hanzi": "快的话今天，最晚明天上午。", "pinyin": "Kuài de huà jīntiān, zuì wǎn míngtiān shàngwǔ.", "translation": "Nếu nhanh thì hôm nay, muộn nhất sáng ngày mai." }
+      ],
+      "questions": [
+        { "q": "汉娜找的是哪家快递公司？", "a": "天天快递公司。" },
+        { "q": "汉娜的书要送到哪里？", "a": "经贸大学。" },
+        { "q": "快递公司多长时间来取书？", "a": "一个小时以内。" },
+        { "q": "书什么时候能送到？", "a": "快的话今天，最晚明天上午。" }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "课文 (二)",
+      "context": "杰森收到快递后给汉娜打电话",
+      "lines": [
+        { "speaker": "杰森", "hanzi": "汉娜，你快递给我的书收到了。", "pinyin": "Hànnà, nǐ kuàidì gěi wǒ de shū shōudào le.", "translation": "Hannah, sách bạn gửi chuyển phát cho mình đã nhận được rồi." },
+        { "speaker": "汉娜", "hanzi": "已经收到了？这么快？", "pinyin": "Yǐjīng shōudào le? Zhème kuài?", "translation": "Đã nhận được rồi sao? Nhanh thế?" },
+        { "speaker": "杰森", "hanzi": "对，谢谢你。", "pinyin": "Duì, xièxie nǐ.", "translation": "Đúng vậy, cảm ơn bạn." },
+        { "speaker": "汉娜", "hanzi": "快递真不错，又方便又快，还不贵。", "pinyin": "Kuàidì zhēn búcuò, yòu fāngbiàn yòu kuài, hái bú guì.", "translation": "Chuyển phát nhanh thật không tồi, vừa tiện lợi vừa nhanh, lại còn không đắt." },
+        { "speaker": "杰森", "hanzi": "是啊，我寄东西也常常用快递，打个电话就行了。", "pinyin": "Shì a, wǒ jì dōngxi yě chángcháng yòng kuàidì, dǎ ge diànhuà jiù xíng le.", "translation": "Đúng vậy, mình gửi đồ cũng thường dùng chuyển phát nhanh, gọi một cuộc điện thoại là được rồi." },
+        { "speaker": "汉娜", "hanzi": "对了，我有两瓶酒想给上海的朋友，也能快递吗？", "pinyin": "Duì le, wǒ yǒu liǎng píng jiǔ xiǎng gěi Shànghǎi de péngyou, yě néng kuàidì ma?", "translation": "À đúng rồi, mình có hai chai rượu muốn gửi cho bạn ở Thượng Hải, cũng có thể gửi chuyển phát không?" },
+        { "speaker": "杰森", "hanzi": "当然可以。", "pinyin": "Dāngrán kěyǐ.", "translation": "Đương nhiên có thể." },
+        { "speaker": "汉娜", "hanzi": "会不会路上瓶子摔坏了呢？", "pinyin": "Huì bu huì lùshang píngzi shuāi huài le ne?", "translation": "Liệu trên đường chai có bị rơi vỡ không nhỉ?" },
+        { "speaker": "杰森", "hanzi": "不会，快递公司会很小心，肯定也有特别的包装。", "pinyin": "Bú huì, kuàidì gōngsī huì hěn xiǎoxīn, kěndìng yě yǒu tèbié de bāozhuāng.", "translation": "Sẽ không đâu, công ty chuyển phát sẽ rất cẩn thận, chắc chắn cũng có bao bì đặc biệt." },
+        { "speaker": "汉娜", "hanzi": "那太好了。", "pinyin": "Nà tài hǎo le.", "translation": "Thế thì tốt quá." },
+        { "speaker": "杰森", "hanzi": "不过，这种容易碎的东西，价格好像贵一点儿。", "pinyin": "Búguò, zhè zhǒng róngyì suì de dōngxi, jiàgé hǎoxiàng guì yìdiǎnr.", "translation": "Nhưng mà, loại đồ vật dễ vỡ này, giá cả hình như đắt hơn một chút." },
+        { "speaker": "汉娜", "hanzi": "没关系。那，快递到上海大概要几天？", "pinyin": "Méi guānxi. Nà, kuàidì dào Shànghǎi dàgài yào jǐ tiān?", "translation": "Không sao. Vậy, gửi chuyển phát đến Thượng Hải khoảng bao nhiêu ngày?" },
+        { "speaker": "杰森", "hanzi": "一两天吧。肯定是距离越远时间越长。你可以打电话问问。", "pinyin": "Yī liǎng tiān ba. Kěndìng shì jùlí yuè yuǎn shíjiān yuè cháng. Nǐ kěyǐ dǎ diànhuà wènwen.", "translation": "Một hai ngày thôi. Chắc chắn là khoảng cách càng xa thời gian càng dài. Bạn có thể gọi điện thoại hỏi thử." },
+        { "speaker": "汉娜", "hanzi": "好的，谢谢你。", "pinyin": "Hǎo de, xièxie nǐ.", "translation": "Được, cảm ơn bạn." }
+      ],
+      "questions": [
+        { "q": "汉娜觉得快递有什么好处？", "a": "又方便又快，还不贵。" },
+        { "q": "酒也能快递吗？", "a": "当然可以。" },
+        { "q": "路上酒瓶会不会摔坏？", "a": "不会，快递公司会很小心，肯定也有特别的包装。" },
+        { "q": "快递酒和书，价格一样吗？", "a": "不一样，容易碎的东西价格贵一点儿。" }
+      ]
+    }
+  ],
+  "functional_sentences": [
+    {
+      "category": "【自我介绍】 Giới thiệu bản thân",
+      "examples": [
+        "你好！天天快递公司。(Xin chào! Công ty chuyển phát nhanh Thiên Thiên.)",
+        "您好！这里是友谊宾馆。(Xin chào ngài! Đây là khách sạn Hữu Nghị.)",
+        "您好！114 查号台为您服务。(Xin chào ngài! Tổng đài 114 phục vụ ngài.)"
+      ]
+    },
+    {
+      "category": "【询问联系方式、询问时间】 Hỏi cách liên lạc, hỏi thời gian",
+      "examples": [
+        "您的联系方式？(Phương thức liên lạc của ngài?)",
+        "大概多长时间能过来？(Khoảng bao lâu thì có thể qua tới?)",
+        "多长时间送到？(Bao lâu thì gửi tới?)",
+        "快递到上海大概要几天？(Chuyển phát đến Thượng Hải khoảng mất mấy ngày?)"
+      ]
+    },
+    {
+      "category": "【请求】 Đưa ra yêu cầu/nhờ vả",
+      "examples": [
+        "我有几本书想发快递，能派人来取一下吗？(Tôi có vài cuốn sách muốn gửi chuyển phát, có thể cử người đến lấy một chút không?)",
+        "请说一下您的地址。(Xin hãy nói địa chỉ của ngài.)",
+        "A: 我们马上派人过去。\nB: 您可以快一点儿吗？",
+        "A: 我们马上派人过去。\nB: 您快一点儿行吗？"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "substitution",
+      "instruction": "Luyện tập thay thế từ",
+      "questions": [
+        {
+          "sentence": "A: 你好！天天快递公司。\nB: 我想发快递，请问……",
+          "substitutes": [
+            "好吃来饭店 — 订餐，请问……",
+            "风景旅馆 — 订房间，请问……",
+            "培训部 — 参加培训，请问……"
+          ]
+        },
+        {
+          "sentence": "A: 你好！我想发快递，可以派人来取一下吗？\nB: 可以，请说一下您的地址。\nA: ……\nB: 您的联系方式？\nA: 我的手机是……",
+          "substitutes": [
+            "订餐 — 送到家",
+            "修洗衣机 — 派人来修",
+            "搬家 — 派车帮我搬"
+          ]
+        },
+        {
+          "sentence": "他开车越开越快。",
+          "substitutes": [
+            "说汉语 — 说 — 好",
+            "唱歌 — 唱 — 好听",
+            "买书 — 买 — 多"
+          ]
+        },
+        {
+          "sentence": "天气越热，我睡得越晚。",
+          "substitutes": [
+            "天气 — 冷 — 他穿得 — 多",
+            "学得 — 多 — 我觉得 — 容易",
+            "东西 — 漂亮 — 价格 — 贵",
+            "山 — 高 — 风景 — 优美"
+          ]
+        },
+        {
+          "sentence": "A: 快递什么时候到？\nB: 快的话今天，最晚明天上午。",
+          "substitutes": [
+            "快餐 — 十分钟以内 — 12点半",
+            "搬家公司 — 半个小时 — 10点",
+            "马丁 — 两个小时以后 — 吃晚饭的时候"
+          ]
+        },
+        {
+          "sentence": "A: 这酒的包装很特别。\nB: 是法国的。",
+          "substitutes": [
+            "裤子 — 样子 — 自己做",
+            "衣服 — 颜色 — 从上海买",
+            "词 — 发音 — 刚跟朋友学"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "instruction": "Hoàn thành các đoạn hội thoại",
+      "questions": [
+        {
+          "context": "A: 你好！快递公司。\nB: 我有东西想发快递，_______________？\nA: 好，请_______________。\nB: 花园小区15号楼806。\nA: 您的_______________呢？\nB: 我的手机是……",
+          "hint": "(Gợi ý: 取, 地址, 方式)",
+          "answer": "能派人来取一下吗\n说一下您的地址\n联系方式"
+        },
+        {
+          "context": "A: 我想发快递，请派人来取一下。\nB: 好的，_______________。\nA: 大概要多长时间？\nB: _______________。\nA: 好，我在家等。",
+          "hint": "(Gợi ý: 马上, 以内)",
+          "answer": "马上派人过去\n一个小时以内"
+        },
+        {
+          "context": "A: 请问，发本市快递，多长时间能送到？\nB: 快的话，_______________，最晚明天。\nA: 好的，希望_______________。",
+          "hint": "(Gợi ý: 大概, 越……越……)",
+          "answer": "大概两三个小时\n越快越好"
+        },
+        {
+          "context": "A: 你经常用快递吗？\nB: 是啊，_______________。\nA: 酒也能快递吗？\nB: 当然可以。\nA: 会不会路上瓶子摔坏了呢？\nB: 一般不会，_______________。",
+          "hint": "(Gợi ý: ……又……, 小心, 包装)",
+          "answer": "又方便又快\n快递公司很小心，肯定也有特别的包装"
+        },
+        {
+          "context": "A: 请问，本市快递要多长时间？\nB: _______________。\nA: 发到上海呢？\nB: _______________，大概两三天吧。\nA: 好的，知道了。",
+          "hint": "(Gợi ý: ……的话, 越……越……)",
+          "answer": "快的话今天\n肯定是距离越远时间越长"
+        },
+        {
+          "context": "A: 你快递给我的酒_______________，谢谢。\nB: 已经收到了？这么快。\nA: 对，今天早上收到的。\nB: 酒很容易_______________，我还担心呢。\nA: 没问题，快递公司_______________。",
+          "hint": "(Gợi ý: 收到, 碎, 特别)",
+          "answer": "收到了\n碎\n有特别的包装"
+        }
+      ]
+    }
+  ]
+}

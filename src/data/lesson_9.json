@@ -1,0 +1,198 @@
+{
+  "lesson": 9,
+  "vocabAudioPath": "audio/17.mp3",
+  "title": "我怎么也睡不着 (I couldn't fall asleep no matter how)",
+  "pdfPage": 95,
+  "vocabulary": [
+    { "id": 1, "hanzi": "脸色", "pinyin": "liǎnsè", "meaning": "sắc mặt", "type": "danh từ" },
+    { "id": 2, "hanzi": "夜里", "pinyin": "yèlǐ", "meaning": "ban đêm", "type": "danh từ" },
+    { "id": 3, "hanzi": "楼上", "pinyin": "lóushang", "meaning": "tầng trên", "type": "danh từ" },
+    { "id": 4, "hanzi": "邻居", "pinyin": "línjū", "meaning": "hàng xóm", "type": "danh từ" },
+    { "id": 5, "hanzi": "唱", "pinyin": "chàng", "meaning": "hát", "type": "động từ" },
+    { "id": 6, "hanzi": "跳", "pinyin": "tiào", "meaning": "nhảy", "type": "động từ" },
+    { "id": 7, "hanzi": "怎么", "pinyin": "zěnme", "meaning": "thế nào cũng...", "type": "đại từ" },
+    { "id": 8, "hanzi": "着", "pinyin": "zháo", "meaning": "(bổ ngữ kết quả chỉ sự đạt được)", "type": "động từ" },
+    { "id": 9, "hanzi": "一", "pinyin": "yì", "meaning": "cả, toàn", "type": "số từ" },
+    { "id": 10, "hanzi": "天哪", "pinyin": "tiān na", "meaning": "trời ơi", "type": "" },
+    { "id": 11, "hanzi": "睡懒觉", "pinyin": "shuì lǎnjiào", "meaning": "ngủ nướng", "type": "động từ" },
+    { "id": 12, "hanzi": "提", "pinyin": "tí", "meaning": "nhắc đến", "type": "động từ" },
+    { "id": 13, "hanzi": "弹", "pinyin": "tán", "meaning": "đánh (đàn), gảy", "type": "động từ" },
+    { "id": 14, "hanzi": "钢琴", "pinyin": "gāngqín", "meaning": "đàn piano", "type": "danh từ" },
+    { "id": 15, "hanzi": "同意", "pinyin": "tóngyì", "meaning": "đồng ý", "type": "động từ" },
+    { "id": 16, "hanzi": "孩子", "pinyin": "háizi", "meaning": "trẻ em, con cái", "type": "danh từ" },
+    { "id": 17, "hanzi": "楼下", "pinyin": "lóuxia", "meaning": "tầng dưới", "type": "danh từ" },
+    { "id": 18, "hanzi": "困", "pinyin": "kùn", "meaning": "buồn ngủ", "type": "tính từ" },
+    { "id": 19, "hanzi": "只好", "pinyin": "zhǐhǎo", "meaning": "đành phải", "type": "phó từ" },
+    { "id": 20, "hanzi": "了", "pinyin": "liǎo", "meaning": "(dùng trong câu chỉ khả năng)", "type": "động từ" },
+    { "id": 21, "hanzi": "礼貌", "pinyin": "lǐmào", "meaning": "lễ phép, lịch sự", "type": "tính từ" },
+    { "id": 22, "hanzi": "杯", "pinyin": "bēi", "meaning": "cốc, ly", "type": "lượng từ" }
+  ],
+  "dialogues": [
+    {
+      "id": 1,
+      "audioPath": "audio/18.mp3",
+      "title": "课文 (一)",
+      "context": "星期五，大中在路上遇见汉娜",
+      "lines": [
+        { "speaker": "大中", "hanzi": "汉娜，你的脸色好像不太好。", "pinyin": "Hànnà, nǐ de liǎnsè hǎoxiàng bú tài hǎo.", "translation": "Hannah, sắc mặt của bạn trông có vẻ không tốt lắm." },
+        { "speaker": "汉娜", "hanzi": "哦，可能是因为昨天夜里没睡好。", "pinyin": "Ò, kěnéng shì yīnwèi zuótiān yèlǐ méi shuì hǎo.", "translation": "Ồ, có lẽ là do đêm qua không ngủ ngon." },
+        { "speaker": "大中", "hanzi": "身体不舒服吗？", "pinyin": "Shēntǐ bù shūfu ma?", "translation": "Cơ thể không thoải mái sao?" },
+        { "speaker": "汉娜", "hanzi": "不是。都是因为我楼上的邻居。", "pinyin": "Bú shì. Dōu shì yīnwèi wǒ lóushang de línjū.", "translation": "Không phải. Đều là do người hàng xóm tầng trên của mình." },
+        { "speaker": "大中", "hanzi": "你的邻居怎么了？", "pinyin": "Nǐ de línjū zěnme le?", "translation": "Hàng xóm của bạn làm sao?" },
+        { "speaker": "汉娜", "hanzi": "他家昨天开晚会，又唱又跳，声音特别大，我怎么也睡不着，所以看了一晚上电视。", "pinyin": "Tā jiā zuótiān kāi wǎnhuì, yòu chàng yòu tiào, shēngyīn tèbié dà, wǒ zěnme yě shuì bù zháo, suǒyǐ kàn le yì wǎnshang diànshì.", "translation": "Nhà họ hôm qua mở tiệc tối, vừa hát vừa nhảy, âm thanh cực kỳ lớn, mình làm thế nào cũng không ngủ được, cho nên đã xem tivi cả buổi tối." },
+        { "speaker": "大中", "hanzi": "他们的晚会是几点结束的？", "pinyin": "Tāmen de wǎnhuì shì jǐ diǎn jiéshù de?", "translation": "Tiệc tối của họ mấy giờ thì kết thúc?" },
+        { "speaker": "汉娜", "hanzi": "好像3点多，我快4点了才睡。", "pinyin": "Hǎoxiàng sān diǎn duō, wǒ kuài sì diǎn le cái shuì.", "translation": "Hình như hơn 3 giờ, mình gần 4 giờ mới ngủ." },
+        { "speaker": "大中", "hanzi": "天哪，那么晚！今天回去好好儿休息。明天星期六，没有课，你可以好好儿睡，不用起床。", "pinyin": "Tiān na, nàme wǎn! Jīntiān huíqù hǎohāor xiūxi. Míngtiān xīngqīliù, méi yǒu kè, nǐ kěyǐ hǎohāor shuì, bú yòng qǐchuáng.", "translation": "Trời ơi, muộn thế! Hôm nay về nghỉ ngơi cho tốt nhé. Ngày mai thứ Bảy, không có tiết, bạn có thể ngủ một giấc thật ngon, không cần thức dậy." },
+        { "speaker": "汉娜", "hanzi": "对，可以睡个懒觉。", "pinyin": "Duì, kěyǐ shuì ge lǎnjiào.", "translation": "Đúng vậy, có thể ngủ nướng một giấc." }
+      ],
+      "questions": [
+        { "q": "汉娜怎么了？", "a": "脸色好像不太好，昨天夜里没睡好。" },
+        { "q": "汉娜昨天几点睡的？", "a": "好像3点多结束，快4点了才睡。" },
+        { "q": "昨天汉娜的邻居干什么了？", "a": "楼上的邻居开晚会，又唱又跳，声音特别大。" },
+        { "q": "什么叫“睡懒觉”？", "a": "睡懒觉就是早上起得很晚。" }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "课文 (二)",
+      "context": "星期一，大中又遇见汉娜",
+      "lines": [
+        { "speaker": "大中", "hanzi": "汉娜，昨天休息得怎么样？", "pinyin": "Hànnà, zuótiān xiūxi de zěnmeyàng?", "translation": "Hannah, hôm qua nghỉ ngơi thế nào?" },
+        { "speaker": "汉娜", "hanzi": "别提了，我原来打算早上睡个懒觉，可是刚7点，旁边的邻居就开始弹钢琴。", "pinyin": "Bié tí le, wǒ yuánlái dǎsuàn zǎoshang shuì ge lǎnjiào, kěshì gāng qī diǎn, pángbiān de línjū jiù kāishǐ tán gāngqín.", "translation": "Đừng nhắc nữa, mình vốn định buổi sáng ngủ nướng, nhưng mới 7 giờ, hàng xóm kế bên đã bắt đầu đánh piano." },
+        { "speaker": "大中", "hanzi": "啊？这么早弹钢琴？", "pinyin": "À? Zhème zǎo tán gāngqín?", "translation": "Hả? Đánh piano sớm vậy sao?" },
+        { "speaker": "汉娜", "hanzi": "是啊，所以我去找他们，请他们晚一点儿再弹。", "pinyin": "Shì a, suǒyǐ wǒ qù zhǎo tāmen, qǐng tāmen wǎn yìdiǎnr zài tán.", "translation": "Đúng vậy, cho nên mình đi tìm họ, xin họ muộn một chút hẵng đánh." },
+        { "speaker": "大中", "hanzi": "他们同意了？", "pinyin": "Tāmen tóngyì le?", "translation": "Họ đồng ý rồi à?" },
+        { "speaker": "汉娜", "hanzi": "邻居说，他的孩子星期天有钢琴考试，得好好儿准备，对不起了。", "pinyin": "Línjū shuō, tā de háizi xīngqītiān yǒu gāngqín kǎoshì, děi hǎohāor zhǔnbèi, duìbuqǐ le.", "translation": "Hàng xóm bảo, con của anh ấy Chủ nhật có thi piano, phải chuẩn bị thật tốt, xin lỗi nhé." },
+        { "speaker": "大中", "hanzi": "真没办法。那你就晚上再睡吧。", "pinyin": "Zhēn méi bànfǎ. Nà nǐ jiù wǎnshang zài shuì ba.", "translation": "Thật hết cách. Vậy bạn buổi tối hẵng ngủ vậy." },
+        { "speaker": "汉娜", "hanzi": "我也这么想。没想到，晚上，楼下的邻居又开晚会。虽然我特别困，但是还是睡不着，只好又看了一晚上的电视。", "pinyin": "Wǒ yě zhème xiǎng. Méi xiǎngdào, wǎnshang, lóuxia de línjū yòu kāi wǎnhuì. Suīrán wǒ tèbié kùn, dànshì háishì shuì bù zháo, zhǐhǎo yòu kàn le yì wǎnshang de diànshì.", "translation": "Mình cũng nghĩ vậy. Không ngờ, buổi tối, hàng xóm tầng dưới lại mở tiệc. Mặc dù mình đặc biệt buồn ngủ, nhưng vẫn không ngủ được, đành phải lại xem tivi cả đêm." },
+        { "speaker": "大中", "hanzi": "啊？那你今天还上得了课吗？肯定一会儿就睡着了。", "pinyin": "À? Nà nǐ jīntiān hái shàng de liǎo kè ma? Kěndìng yíhuìr jiù shuìzháo le.", "translation": "Hả? Vậy hôm nay bạn còn đi học được không? Chắc chắn một lát là ngủ gật thôi." },
+        { "speaker": "汉娜", "hanzi": "没错。可是，上课睡觉，多不礼貌啊。", "pinyin": "Méi cuò. Kěshì, shàngkè shuìjiào, duō bù lǐmào a.", "translation": "Không sai. Nhưng mà, đi học ngủ gật, thật là bất lịch sự." },
+        { "speaker": "大中", "hanzi": "那你怎么办？", "pinyin": "Nà nǐ zěnme bàn?", "translation": "Vậy bạn tính sao?" },
+        { "speaker": "汉娜", "hanzi": "我刚才喝了两杯咖啡，应该没问题。", "pinyin": "Wǒ gāngcái hē le liǎng bēi kāfēi, yīnggāi méi wèntí.", "translation": "Mình vừa mới uống hai ly cà phê, chắc là không có vấn đề gì." }
+      ],
+      "questions": [
+        { "q": "汉娜为什么没能睡懒觉？", "a": "刚7点，旁边的邻居就开始弹钢琴。" },
+        { "q": "邻居的孩子为什么那么早就弹钢琴？", "a": "因为星期天有钢琴考试，得好好儿准备。" },
+        { "q": "晚上汉娜楼下的邻居干什么了？", "a": "楼下的邻居又开晚会了。" },
+        { "q": "汉娜觉得上课能睡觉吗？为什么？", "a": "不能，因为上课睡觉，多不礼貌啊。" }
+      ]
+    }
+  ],
+  "functional_sentences": [
+    {
+      "category": "【吃惊】 Thể hiện sự kinh ngạc, sốc",
+      "examples": [
+        "天哪，那么晚！(Trời ơi, muộn thế!)",
+        "啊？这么早弹钢琴？(Hả? Đánh piano sớm vậy sao?)"
+      ]
+    },
+    {
+      "category": "【关心】 Thể hiện sự quan tâm, hỏi han",
+      "examples": [
+        "你的脸色好像不太好。(Sắc mặt của bạn trông có vẻ không tốt lắm.)",
+        "身体不舒服吗？(Cơ thể không khỏe sao?)",
+        "昨天休息得怎么样？(Hôm qua nghỉ ngơi thế nào?)",
+        "那你怎么办？(Vậy bạn tính sao?)",
+        "你怎么了？(Bạn làm sao vậy?)",
+        "最近忙吗？(Dạo này bận không?)"
+      ]
+    },
+    {
+      "category": "【无奈】 Thể hiện sự bất lực, không còn cách nào",
+      "examples": [
+        "真没办法。那你就晚上再睡吧。(Thật không còn cách nào. Vậy bạn tối ngủ vậy.)",
+        "虽然我特别困，但是还是睡不着，只好又看了一晚上的电视。(Dù mình đặc biệt buồn ngủ, nhưng vẫn không ngủ được, đành phải xem tivi cả đêm.)",
+        "没办法，只好这样了。(Hết cách rồi, đành vậy thôi.)"
+      ]
+    },
+    {
+      "category": "【同意】 Thể hiện sự đồng tình",
+      "examples": [
+        "A: 啊？这么早弹钢琴？\nB: 是啊，所以我去找他们，请他们晚一点儿再弹。(Hả? Sớm vậy đã đánh piano? / Đúng vậy, cho nên mình đi tìm họ, xin họ muộn một chút hẵng đánh.)",
+        "A: 那你就晚上再睡吧。\nB: 我也这么想。(Vậy buổi tối bạn hẵng ngủ. / Mình cũng nghĩ vậy.)",
+        "A: 那你今天还上得了课吗？肯定一会儿就睡着了。\nB: 没错。(Vậy hôm nay bạn có đi học được không? Chắc lát nữa là ngủ thôi. / Không sai.)"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "substitution",
+      "instruction": "Luyện tập thay thế từ",
+      "questions": [
+        {
+          "sentence": "A: 他快4点才睡。\nB: 天哪，那么晚！",
+          "substitutes": [
+            "6点就来了 / 那么早",
+            "这条裤子1000多块 / 太贵了",
+            "把我们刚买的书都卖了 / 太不像话了"
+          ]
+        },
+        {
+          "sentence": "A: 你的脸色好像不太好，不舒服吗？\nB: 没有。昨天没睡觉，看了一晚上电视。",
+          "substitutes": [
+            "病了吧 / 看 / 电影",
+            "是不是病了 / 聊 / 天儿",
+            "身体不舒服吗 / 看 / 小说"
+          ]
+        },
+        {
+          "sentence": "A: 周末过得怎么样？\nB: 别提了，原来打算睡个懒觉，可是刚7点，邻居就开始弹钢琴。\nA: 啊？太不像话了！",
+          "substitutes": [
+            "早点儿睡 / 都12点了 / 朋友还给我打电话",
+            "看看小说、听听音乐 / 一晚上 / 宿舍都停电",
+            "打电话聊聊天儿 / 一起床 / 同屋就把我的手机拿走了"
+          ]
+        },
+        {
+          "sentence": "昨天晚上我怎么也睡不着。",
+          "substitutes": [
+            "他的话 / 听不明白",
+            "这本小说 / 看不懂",
+            "这个手机 / 修不好",
+            "那个字幕 / 看不清楚"
+          ]
+        },
+        {
+          "sentence": "A: 这么早睡觉，你睡得着吗？\nB: 可能睡不着，但是可以试试。",
+          "substitutes": [
+            "这么多酒 / 喝得了 / 喝不了",
+            "这么难的小说 / 翻译得了 / 翻译不了",
+            "那么远的东西 / 看得清楚 / 看不清楚",
+            "睡得那么少 / 上得了课 / 上不了"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "instruction": "Hoàn thành các đoạn hội thoại",
+      "questions": [
+        {
+          "context": "A: 你的脸色好像不太好。\nB: 哦，可能是_______________。\nA: 身体不舒服吗？\nB: 不是，都是因为_______________。",
+          "hint": "(Gợi ý: 夜里 / 楼上)",
+          "answer": "昨天夜里没睡好\n楼上的邻居"
+        },
+        {
+          "context": "A: 你的邻居怎么了？\nB: 他家开晚会，声音特别大，我_______________。\nA: 那你怎么办？\nB: _______________。",
+          "hint": "(Gợi ý: 怎么也 / 一晚上)",
+          "answer": "怎么也睡不着\n看了一晚上电视"
+        },
+        {
+          "context": "A: 我昨天快4点才睡。\nB: _______________。今天回去好好儿休息。\nA: 明天没有课，可以好好儿睡，_______________。\nB: 对，可以_______________。",
+          "hint": "(Gợi ý: 天哪 / 不用 / 睡懒觉)",
+          "answer": "天哪，那么晚\n不用起床\n睡懒觉"
+        },
+        {
+          "context": "A: 你为什么起那么早？\nB: 因为早上刚7点，_______________。\nA: 啊？这么早弹钢琴？太不像话了。\nB: 是啊，所以我去找他们，_______________。",
+          "hint": "(Gợi ý: 弹钢琴 / 晚一点儿 / 好好儿)",
+          "answer": "邻居就开始弹钢琴\n请他们晚一点儿再弹，他们得好好儿准备考试"
+        },
+        {
+          "context": "A: 你昨天睡那么晚，今天_______________？\nB: 不知道，可能_______________。\nA: 那可不行，上课睡觉，_______________。\nB: 我刚才喝了_______________，应该没问题。\nA: 好，那我们现在就去吧。",
+          "hint": "(Gợi ý: 上得了 / 睡着了 / 礼貌 / 杯)",
+          "answer": "上得了课吗\n一会儿就睡着了\n多不礼貌啊\n两杯咖啡"
+        }
+      ]
+    }
+  ]
+}

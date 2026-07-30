@@ -1,0 +1,214 @@
+{
+  "lesson": 8,
+  "vocabAudioPath": "audio/15.mp3",
+  "title": "虽然听不懂，但是我喜欢 (I can't understand it, but I like it)",
+  "pdfPage": 83,
+  "vocabulary": [
+    { "id": 1, "hanzi": "京剧", "pinyin": "jīngjù", "meaning": "Kinh kịch (Bắc Kinh)", "type": "danh từ" },
+    { "id": 2, "hanzi": "明白", "pinyin": "míngbai", "meaning": "hiểu, rõ ràng", "type": "động từ" },
+    { "id": 3, "hanzi": "演员", "pinyin": "yǎnyuán", "meaning": "diễn viên", "type": "danh từ" },
+    { "id": 4, "hanzi": "表演", "pinyin": "biǎoyǎn", "meaning": "biểu diễn, tiết mục", "type": "động từ" },
+    { "id": 5, "hanzi": "特点", "pinyin": "tèdiǎn", "meaning": "đặc điểm", "type": "danh từ" },
+    { "id": 6, "hanzi": "虽然", "pinyin": "suīrán", "meaning": "mặc dù", "type": "liên từ" },
+    { "id": 7, "hanzi": "但（是）", "pinyin": "dàn(shì)", "meaning": "nhưng", "type": "liên từ" },
+    { "id": 8, "hanzi": "化妆", "pinyin": "huàzhuāng", "meaning": "trang điểm, hóa trang", "type": "động từ" },
+    { "id": 9, "hanzi": "脸", "pinyin": "liǎn", "meaning": "khuôn mặt", "type": "danh từ" },
+    { "id": 10, "hanzi": "绿", "pinyin": "lǜ", "meaning": "màu xanh lá", "type": "tính từ" },
+    { "id": 11, "hanzi": "白", "pinyin": "bái", "meaning": "màu trắng", "type": "tính từ" },
+    { "id": 12, "hanzi": "黑", "pinyin": "hēi", "meaning": "màu đen", "type": "tính từ" },
+    { "id": 13, "hanzi": "脸谱", "pinyin": "liǎnpǔ", "meaning": "kiểu vẽ mặt (Kinh kịch)", "type": "danh từ" },
+    { "id": 14, "hanzi": "讲座", "pinyin": "jiǎngzuò", "meaning": "bài giảng, buổi tọa đàm", "type": "danh từ" },
+    { "id": 15, "hanzi": "站", "pinyin": "zhàn", "meaning": "đứng", "type": "động từ" },
+    { "id": 16, "hanzi": "着", "pinyin": "zhe", "meaning": "(trợ từ chỉ trạng thái tiếp diễn)", "type": "trợ từ" },
+    { "id": 17, "hanzi": "保安", "pinyin": "bǎo'ān", "meaning": "bảo vệ, an ninh", "type": "danh từ" },
+    { "id": 18, "hanzi": "安全", "pinyin": "ānquán", "meaning": "an toàn", "type": "tính từ" },
+    { "id": 19, "hanzi": "可惜", "pinyin": "kěxī", "meaning": "đáng tiếc, tiếc nuối", "type": "tính từ" },
+    { "id": 20, "hanzi": "教授", "pinyin": "jiàoshòu", "meaning": "giáo sư", "type": "danh từ" },
+    { "id": 21, "hanzi": "专门", "pinyin": "zhuānmén", "meaning": "đặc biệt, chuyên môn", "type": "phó từ" },
+    { "id": 22, "hanzi": "国外", "pinyin": "guówài", "meaning": "nước ngoài", "type": "danh từ" },
+    { "id": 23, "hanzi": "讲", "pinyin": "jiǎng", "meaning": "giảng, nói", "type": "động từ" },
+    { "id": 24, "hanzi": "精彩", "pinyin": "jīngcǎi", "meaning": "xuất sắc, đặc sắc", "type": "tính từ" },
+    { "id": 25, "hanzi": "场", "pinyin": "chǎng", "meaning": "(lượng từ cho sự kiện, trận, suất)", "type": "lượng từ" },
+    { "id": 26, "hanzi": "出发", "pinyin": "chūfā", "meaning": "xuất phát, khởi hành", "type": "động từ" }
+  ],
+  "dialogues": [
+    {
+      "id": 1,
+      "audioPath": "audio/16.mp3",
+      "title": "课文 (一)",
+      "context": "马丁和汉娜在谈论京剧",
+      "lines": [
+        { "speaker": "马丁", "hanzi": "汉娜，昨天给你打电话，你不在。", "pinyin": "Hànnà, zuótiān gěi nǐ dǎ diànhuà, nǐ bú zài.", "translation": "Hannah, hôm qua gọi điện cho bạn, bạn không có nhà." },
+        { "speaker": "汉娜", "hanzi": "哦，昨天我和朋友看京剧去了。", "pinyin": "Ò, zuótiān wǒ hé péngyou kàn jīngjù qù le.", "translation": "Ồ, hôm qua mình và bạn đi xem Kinh kịch rồi." },
+        { "speaker": "马丁", "hanzi": "京剧？你听得懂吗？", "pinyin": "Jīngjù? Nǐ tīng de dǒng ma?", "translation": "Kinh kịch á? Bạn nghe có hiểu không?" },
+        { "speaker": "汉娜", "hanzi": "一点儿都听不懂，他们说的话跟我们学的汉语不一样。", "pinyin": "Yìdiǎnr dōu tīng bù dǒng, tāmen shuō de huà gēn wǒmen xué de Hànyǔ bù yíyàng.", "translation": "Một chút cũng nghe không hiểu, lời họ nói không giống với tiếng Hán chúng ta học." },
+        { "speaker": "马丁", "hanzi": "我朋友也这么说。不过，没关系，听说有的中国人也听不懂。", "pinyin": "Wǒ péngyou yě zhème shuō. Búguò, méi guānxi, tīngshuō yǒu de Zhōngguórén yě tīng bù dǒng.", "translation": "Bạn mình cũng nói vậy. Nhưng mà, không sao, nghe nói có người Trung Quốc cũng nghe không hiểu." },
+        { "speaker": "汉娜", "hanzi": "对，中国朋友告诉我，他们也要看旁边的字幕才明白。", "pinyin": "Duì, Zhōngguó péngyou gàosu wǒ, tāmen yě yào kàn pángbiān de zìmù cái míngbai.", "translation": "Đúng vậy, bạn người Trung Quốc bảo mình, họ cũng phải xem phụ đề bên cạnh mới hiểu được." },
+        { "speaker": "马丁", "hanzi": "一边看字幕一边听，这样不错。", "pinyin": "Yìbiān kàn zìmù yìbiān tīng, zhèyàng búcuò.", "translation": "Vừa xem phụ đề vừa nghe, như vậy không tồi." },
+        { "speaker": "汉娜", "hanzi": "我也不看字幕，我一直在看那些演员表演。", "pinyin": "Wǒ yě bú kàn zìmù, wǒ yìzhí zài kàn nàxiē yǎnyuán biǎoyǎn.", "translation": "Mình cũng không xem phụ đề, mình luôn xem các diễn viên đó biểu diễn." },
+        { "speaker": "马丁", "hanzi": "他们的表演怎么样？", "pinyin": "Tāmen de biǎoyǎn zěnmeyàng?", "translation": "Sự biểu diễn của họ thế nào?" },
+        { "speaker": "汉娜", "hanzi": "很有特点。虽然我听不懂，但是我喜欢京剧。", "pinyin": "Hěn yǒu tèdiǎn. Suīrán wǒ tīng bù dǒng, dànshì wǒ xǐhuan jīngjù.", "translation": "Rất có đặc điểm. Mặc dù mình nghe không hiểu, nhưng mình thích Kinh kịch." },
+        { "speaker": "马丁", "hanzi": "听不懂还喜欢，为什么？", "pinyin": "Tīng bù dǒng hái xǐhuan, wèi shénme?", "translation": "Nghe không hiểu còn thích, tại sao?" },
+        { "speaker": "汉娜", "hanzi": "我喜欢他们的衣服，也喜欢他们的化妆。", "pinyin": "Wǒ xǐhuan tāmen de yīfu, yě xǐhuan tāmen de huàzhuāng.", "translation": "Mình thích quần áo của họ, cũng thích cách trang điểm của họ." },
+        { "speaker": "马丁", "hanzi": "听朋友说，他们的化妆很有特点。", "pinyin": "Tīng péngyou shuō, tāmen de huàzhuāng hěn yǒu tèdiǎn.", "translation": "Nghe bạn nói, cách trang điểm của họ rất có đặc điểm." },
+        { "speaker": "汉娜", "hanzi": "对，很特别，脸上的红的、绿的、白的、黑的，什么颜色都有。我朋友告诉我，那叫“脸谱”。我对他们的脸谱特别有兴趣。", "pinyin": "Duì, hěn tèbié, liǎnshang de hóng de, lǜ de, bái de, hēi de, shénme yánsè dōu yǒu. Wǒ péngyou gàosu wǒ, nà jiào “liǎnpǔ”. Wǒ duì tāmen de liǎnpǔ tèbié yǒu xìngqù.", "translation": "Đúng vậy, rất đặc biệt, trên mặt đỏ, xanh, trắng, đen, màu gì cũng có. Bạn mình bảo mình, đó gọi là \"liǎnpǔ\" (kiểu vẽ mặt). Mình đặc biệt có hứng thú với kiểu vẽ mặt của họ." }
+      ],
+      "questions": [
+        { "q": "汉娜为什么听不懂京剧？", "a": "因为他们说的话跟我们学的汉语不一样。" },
+        { "q": "汉娜的中国朋友听得懂京剧吗？", "a": "中国朋友也要看旁边的字幕才明白。" },
+        { "q": "汉娜觉得京剧的表演怎么样？", "a": "很有特点。" },
+        { "q": "汉娜喜欢京剧的什么？", "a": "她喜欢他们的衣服，也喜欢他们的化妆（脸谱）。" }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "课文 (二)",
+      "context": "听讲座的人太多，友美和汉娜进不去了。友美在门口遇见了马丁",
+      "lines": [
+        { "speaker": "马丁", "hanzi": "友美，你也来听讲座？", "pinyin": "Yǒuměi, nǐ yě lái tīng jiǎngzuò?", "translation": "Hữu Mỹ, bạn cũng đến nghe tọa đàm à?" },
+        { "speaker": "友美", "hanzi": "马丁，你也来了。我们已经进不去了。", "pinyin": "Mǎdīng, nǐ yě lái le. Wǒmen yǐjīng jìn bu qù le.", "translation": "Martin, bạn cũng đến rồi. Chúng mình đã không vào được nữa rồi." },
+        { "speaker": "马丁", "hanzi": "为什么？", "pinyin": "Wèi shénme?", "translation": "Tại sao?" },
+        { "speaker": "友美", "hanzi": "里面人太多了。", "pinyin": "Lǐmiàn rén tài duō le.", "translation": "Bên trong người đông quá rồi." },
+        { "speaker": "马丁", "hanzi": "我们可以站着听。", "pinyin": "Wǒmen kěyǐ zhàn zhe tīng.", "translation": "Chúng ta có thể đứng nghe." },
+        { "speaker": "友美", "hanzi": "不行，已经有很多人站着了。门口的保安说，为了安全，不能再进人了。", "pinyin": "Bù xíng, yǐjīng yǒu hěn duō rén zhàn zhe le. Ménkǒu de bǎo'ān shuō, wèi le ānquán, bù néng zài jìn rén le.", "translation": "Không được, đã có rất nhiều người đứng rồi. Bảo vệ ở cửa nói, vì sự an toàn, không thể cho thêm người vào nữa." },
+        { "speaker": "马丁", "hanzi": "真可惜，要是早一点儿来就好了。", "pinyin": "Zhēn kěxī, yàoshi zǎo yìdiǎnr lái jiù hǎo le.", "translation": "Thật đáng tiếc, nếu đến sớm một chút thì tốt rồi." },
+        { "speaker": "友美", "hanzi": "是啊，我听说这位教授是专门从国外请来的，都说他讲得特别精彩。", "pinyin": "Shì a, wǒ tīngshuō zhè wèi jiàoshòu shì zhuānmén cóng guówài qǐng lái de, dōu shuō tā jiǎng de tèbié jīngcǎi.", "translation": "Đúng vậy, mình nghe nói vị giáo sư này được đặc biệt mời từ nước ngoài đến, đều nói ông ấy giảng vô cùng xuất sắc." },
+        { "speaker": "马丁", "hanzi": "没关系，周六早上他在市图书馆还有一场讲座，我们一起去？", "pinyin": "Méi guānxi, zhōuliù zǎoshang tā zài shì túshūguǎn hái yǒu yì chǎng jiǎngzuò, wǒmen yìqǐ qù?", "translation": "Không sao, sáng thứ Bảy ông ấy còn có một buổi tọa đàm ở thư viện thành phố, chúng ta cùng đi nhé?" },
+        { "speaker": "友美", "hanzi": "早上几点？你起得来吗？", "pinyin": "Zǎoshang jǐ diǎn? Nǐ qǐ de lái ma?", "translation": "Sáng mấy giờ? Bạn có thức dậy được không?" },
+        { "speaker": "马丁", "hanzi": "没问题，9点的讲座，我7点起床，我们7点半就出发。", "pinyin": "Méi wèntí, jiǔ diǎn de jiǎngzuò, wǒ qī diǎn qǐchuáng, wǒmen qī diǎn bàn jiù chūfā.", "translation": "Không vấn đề, buổi tọa đàm lúc 9 giờ, mình 7 giờ thức dậy, 7 rưỡi chúng ta xuất phát." },
+        { "speaker": "友美", "hanzi": "好，我们早一点儿去，要是再进不去就没机会听了。", "pinyin": "Hǎo, wǒmen zǎo yìdiǎnr qù, yàoshi zài jìn bu qù jiù méi jīhuì tīng le.", "translation": "Được, chúng ta đi sớm một chút, nếu lại không vào được thì không còn cơ hội nghe đâu." }
+      ],
+      "questions": [
+        { "q": "保安为什么不让他们进去？", "a": "因为里面人太多了，为了安全，不能再进人了。" },
+        { "q": "这位教授讲得怎么样？", "a": "都说他讲得特别精彩。" },
+        { "q": "教授下次讲座是什么时候？在哪里？", "a": "周六早上在市图书馆。" },
+        { "q": "马丁打算几点起床？几点出发？", "a": "他打算7点起床，7点半出发。" }
+      ]
+    }
+  ],
+  "functional_sentences": [
+    {
+      "category": "【转述】 Thuật lại lời người khác",
+      "examples": [
+        "中国朋友告诉我，他们也要看旁边的字幕才明白。(Bạn người Trung Quốc nói với tôi, họ cũng phải xem phụ đề bên cạnh mới hiểu được.)",
+        "（我）听朋友说，他们的化妆很有特点。(Tôi nghe bạn bảo, cách hóa trang của họ rất có đặc điểm.)",
+        "我朋友告诉我，那叫“脸谱”。(Bạn tôi bảo tôi, cái đó gọi là 'liǎnpǔ'.)",
+        "门口的保安说，为了安全，不能再进人了。(Bảo vệ ở cửa nói, vì an toàn, không thể cho người vào thêm nữa.)"
+      ]
+    },
+    {
+      "category": "【喜欢、爱 / 不喜欢】 Thể hiện sự yêu thích / không thích",
+      "examples": [
+        "我喜欢他们的衣服，也喜欢他们的化妆。(Tôi thích quần áo của họ, cũng thích cách trang điểm của họ.)",
+        "我不太喜欢看电视。(Tôi không thích xem tivi lắm.)",
+        "他爱唱歌，也喜欢跳舞。(Anh ấy yêu ca hát, cũng thích nhảy múa.)",
+        "我就不爱逛商店。(Tôi thì không yêu thích đi dạo cửa hàng.)",
+        "我对他们的脸谱特别有兴趣。(Tôi đặc biệt có hứng thú với kiểu vẽ mặt của họ.)"
+      ]
+    },
+    {
+      "category": "【后悔】 Thể hiện sự hối tiếc",
+      "examples": [
+        "真可惜。(Thật đáng tiếc.)",
+        "要是早一点儿来就好了。(Giá như đến sớm một chút thì tốt rồi.)"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "substitution",
+      "instruction": "Luyện tập thay thế từ",
+      "questions": [
+        {
+          "sentence": "A: 你听得懂京剧吗？\nB: 听不懂。",
+          "substitutes": [
+            "看得懂 / 中文书 / 看得懂",
+            "听得明白 / 他说的话 / 听不明白",
+            "看得见 / 前边的字 / 看得见"
+          ]
+        },
+        {
+          "sentence": "A: 中国朋友告诉我，那个地方特好玩儿。\nB: 那咱们也去。",
+          "substitutes": [
+            "那个小区很安静 / 我 / 想住那儿",
+            "这个搬家公司不错 / 我们 / 找他们",
+            "那家饭馆的菜很好吃 / 咱们 / 去那儿"
+          ]
+        },
+        {
+          "sentence": "A: 他们的表演怎么样？\nB: 虽然我听不懂，但（是）我喜欢。",
+          "substitutes": [
+            "明天天气 / 是阴天 / 不冷",
+            "这件衣服 / 样子不错 / 颜色太浅",
+            "我的发音 / 进步很大 / 还要努力"
+          ]
+        },
+        {
+          "sentence": "A: 听朋友说，他们的化妆很有特点。\nB: 对，很特别。",
+          "substitutes": [
+            "表演 / 精彩极了",
+            "脸谱 / 跟别人都不一样",
+            "讲座 / 很吸引人"
+          ]
+        },
+        {
+          "sentence": "A: 咱们进不去了。\nB: 为什么？\nA: 听保安说，里面已经满了。\nB: 太可惜了。",
+          "substitutes": [
+            "已经没有座位了",
+            "今天人太多了",
+            "票已经卖完了"
+          ]
+        },
+        {
+          "sentence": "A: 今天进不去了。\nB: 真可惜，要是早一点儿来就好了。",
+          "substitutes": [
+            "苹果没有了 / 昨天多买几个",
+            "展览昨天就完了 / 早几天来",
+            "他们已经出发了 / 我早点儿到"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "instruction": "Hoàn thành các đoạn hội thoại",
+      "questions": [
+        {
+          "context": "A: 昨天给你打电话，你不在。\nB: 哦，_______________。\nA: 怎么样？听得懂吗？\nB: _______________。",
+          "hint": "(Gợi ý: 京剧 / 懂)",
+          "answer": "昨天我和朋友看京剧去了\n一点儿都听不懂"
+        },
+        {
+          "context": "A: 你_______________？\nB: 京剧？一点儿都_______________，他们说的话很特别。\nA: 我的中国朋友也这么说。\nB: 对，他们也要看_______________。",
+          "hint": "(Gợi ý: 听 / 字幕 / 明白)",
+          "answer": "听得懂京剧吗\n听不懂\n旁边的字幕才明白"
+        },
+        {
+          "context": "A: 你昨天看京剧，他们的_______________？\nB: 他们的表演很有特点。\nA: 你喜欢吗？\nB: _______________。",
+          "hint": "(Gợi ý: 表演 / 虽然……但是……)",
+          "answer": "表演怎么样\n虽然我听不懂，但是我喜欢"
+        },
+        {
+          "context": "A: 你听不懂京剧，为什么还那么喜欢啊？\nB: 我喜欢他们的_______________，也喜欢_______________。\nA: 听朋友说，他们的脸上红的、绿的、白的、黑的，什么颜色都有。\nB: 对，他们的化妆_______________，这就是京剧的_______________。",
+          "hint": "(Gợi ý: 衣服 / 化妆 / 特点 / 脸谱)",
+          "answer": "衣服\n他们的化妆\n很有特点\n脸谱"
+        },
+        {
+          "context": "A: 你来听讲座，为什么不进去啊？\nB: _______________，里面人太多了。\nA: 没有座位了吗？\nB: 对，已经有很多人_______________。\nA: _______________，要是_______________就好了。",
+          "hint": "(Gợi ý: 进 / 站着 / 可惜 / 早)",
+          "answer": "进不去了\n站着了\n真可惜\n早一点儿来"
+        },
+        {
+          "context": "A: 今天的讲座你听了吗？怎么样？\nB: 我听了下午那一场，他_______________。\nA: 他是我们学校的老师吗？\nB: 不是，听说_______________。",
+          "hint": "(Gợi ý: 讲 / 精彩 / 专门)",
+          "answer": "讲得特别精彩\n是专门从国外请来的"
+        },
+        {
+          "context": "A: 明天几点起床？7点，行吗？\nB: 7点？_______________？\nA: 我起得来，你呢？\nB: _______________，7点半吧。\nA: 好，7点半一定要起床，我们_______________。",
+          "hint": "(Gợi ý: 起得来 / 起不来 / 出发)",
+          "answer": "起得来吗\n我起不来\n7点半出发"
+        }
+      ]
+    }
+  ]
+}
