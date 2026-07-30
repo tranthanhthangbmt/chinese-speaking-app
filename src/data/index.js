@@ -10,6 +10,7 @@ import lesson9 from './lesson_9.json';
 import lesson10 from './lesson_10.json';
 import lesson11 from './lesson_11.json';
 import lesson12 from './lesson_12.json';
+import lesson13 from './lesson_13.json';
 
 export const lessons = [
   lesson1,
@@ -23,6 +24,7 @@ export const lessons = [
   lesson9,
   lesson10,
   lesson11,
-  lesson12
+  lesson12,
+  lesson13
 ];
 
