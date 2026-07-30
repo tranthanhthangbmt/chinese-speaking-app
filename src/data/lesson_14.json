@@ -1,0 +1,223 @@
+{
+  "lesson": 14,
+  "vocabAudioPath": "audio/27.mp3",
+  "title": "每天除了上课，还做什么 (Besides going to classes, what else do you do every day)",
+  "pdfPage": 157,
+  "vocabulary": [
+    { "id": 1, "hanzi": "死(了)", "pinyin": "sǐ (le)", "meaning": "chết (đi được), vô cùng", "type": "tính từ" },
+    { "id": 2, "hanzi": "够", "pinyin": "gòu", "meaning": "đủ", "type": "động từ" },
+    { "id": 3, "hanzi": "除了", "pinyin": "chúle", "meaning": "ngoài ra, trừ ra", "type": "giới từ" },
+    { "id": 4, "hanzi": "各", "pinyin": "gè", "meaning": "các, mỗi", "type": "đại từ" },
+    { "id": 5, "hanzi": "活动", "pinyin": "huódòng", "meaning": "hoạt động", "type": "danh từ" },
+    { "id": 6, "hanzi": "事情", "pinyin": "shìqing", "meaning": "sự tình, sự việc", "type": "danh từ" },
+    { "id": 7, "hanzi": "安排", "pinyin": "ānpái", "meaning": "sắp xếp, bố trí", "type": "động từ" },
+    { "id": 8, "hanzi": "洗澡", "pinyin": "xǐzǎo", "meaning": "tắm", "type": "động từ" },
+    { "id": 9, "hanzi": "闹钟", "pinyin": "nàozhōng", "meaning": "đồng hồ báo thức", "type": "danh từ" },
+    { "id": 10, "hanzi": "适应", "pinyin": "shìyìng", "meaning": "thích nghi, phù hợp", "type": "động từ" },
+    { "id": 11, "hanzi": "对……来说", "pinyin": "duì......lái shuō", "meaning": "đối với... mà nói", "type": "" },
+    { "id": 12, "hanzi": "确实", "pinyin": "quèshí", "meaning": "thực sự, đích thực", "type": "phó từ" },
+    { "id": 13, "hanzi": "其他", "pinyin": "qítā", "meaning": "khác", "type": "đại từ" },
+    { "id": 14, "hanzi": "看来", "pinyin": "kànlái", "meaning": "xem ra, có vẻ", "type": "động từ" },
+    { "id": 15, "hanzi": "丰富", "pinyin": "fēngfù", "meaning": "phong phú", "type": "tính từ" },
+    { "id": 16, "hanzi": "锻炼", "pinyin": "duànliàn", "meaning": "rèn luyện", "type": "động từ" },
+    { "id": 17, "hanzi": "健身房", "pinyin": "jiànshēnfáng", "meaning": "phòng tập gym", "type": "danh từ" },
+    { "id": 18, "hanzi": "健身", "pinyin": "jiànshēn", "meaning": "tập gym, rèn luyện thân thể", "type": "động từ" },
+    { "id": 19, "hanzi": "演出", "pinyin": "yǎnchū", "meaning": "biểu diễn, tiết mục biểu diễn", "type": "động từ" },
+    { "id": 20, "hanzi": "根本", "pinyin": "gēnběn", "meaning": "căn bản, hoàn toàn (không)", "type": "phó từ" },
+    { "id": 21, "hanzi": "留", "pinyin": "liú", "meaning": "giao (bài tập), giữ lại", "type": "động từ" },
+    { "id": 22, "hanzi": "算", "pinyin": "suàn", "meaning": "tính, coi như", "type": "động từ" },
+    { "id": 23, "hanzi": "哎呀", "pinyin": "āiyā", "meaning": "ái chà (biểu thị kinh ngạc hoặc không bằng lòng)", "type": "thán từ" },
+    { "id": 24, "hanzi": "不是……而是……", "pinyin": "bú shì......ér shì......", "meaning": "không phải là... mà là...", "type": "" },
+    { "id": 25, "hanzi": "再", "pinyin": "zài", "meaning": "rồi hẵng (chỉ hành động xảy ra sau)", "type": "phó từ" }
+  ],
+  "dialogues": [
+    {
+      "id": 1,
+      "audioPath": "audio/28.mp3",
+      "title": "课文 (一)",
+      "context": "友美在路上碰见杰森",
+      "lines": [
+        { "speaker": "友美", "hanzi": "杰森，最近怎么样？", "pinyin": "Jiésēn, zuìjìn zěnmeyàng?", "translation": "Jason, dạo này thế nào?" },
+        { "speaker": "杰森", "hanzi": "哎呀，忙死了。", "pinyin": "Āiyā, máng sǐ le.", "translation": "Ái chà, bận chết đi được." },
+        { "speaker": "友美", "hanzi": "你都在忙什么？", "pinyin": "Nǐ dōu zài máng shénme?", "translation": "Bạn bận rộn việc gì vậy?" },
+        { "speaker": "杰森", "hanzi": "我也不知道自己在忙什么，老觉得时间不够用。", "pinyin": "Wǒ yě bù zhīdào zìjǐ zài máng shénme, lǎo juéde shíjiān bú gòu yòng.", "translation": "Mình cũng không biết bản thân đang bận gì, luôn cảm thấy thời gian không đủ dùng." },
+        { "speaker": "友美", "hanzi": "你每天除了上课，还做什么？", "pinyin": "Nǐ měitiān chúle shàngkè, hái zuò shénme?", "translation": "Bạn mỗi ngày ngoài đi học ra, còn làm gì nữa?" },
+        { "speaker": "杰森", "hanzi": "每天除了上课，还要写作业，还要参加各种活动，事情太多了。", "pinyin": "Měitiān chúle shàngkè, hái yào xiě zuòyè, hái yào cānjiā gè zhǒng huódòng, shìqing tài duō le.", "translation": "Mỗi ngày ngoài đi học, còn phải làm bài tập, còn phải tham gia các loại hoạt động, nhiều việc quá rồi." },
+        { "speaker": "友美", "hanzi": "你每天时间是怎么安排的？", "pinyin": "Nǐ měitiān shíjiān shì zěnme ānpái de?", "translation": "Thời gian mỗi ngày của bạn được sắp xếp như thế nào?" },
+        { "speaker": "杰森", "hanzi": "早上一般来说是最紧张的，我差不多7点半起床，洗澡、吃早饭，然后就去上课。", "pinyin": "Zǎoshang yìbān lái shuō shì zuì jǐnzhāng de, wǒ chàbuduō qī diǎn bàn qǐchuáng, xǐzǎo, chī zǎofàn, ránhòu jiù qù shàngkè.", "translation": "Buổi sáng nói chung là bận rộn nhất, mình khoảng 7 rưỡi thức dậy, tắm, ăn sáng, sau đó thì đi học." },
+        { "speaker": "友美", "hanzi": "7点半才起床，除了洗澡，还要吃早饭，当然紧张了。你再早半个小时起床，不行吗？", "pinyin": "Qī diǎn bàn cái qǐchuáng, chúle xǐzǎo, hái yào chī zǎofàn, dāngrán jǐnzhāng le. Nǐ zài zǎo bàn ge xiǎoshí qǐchuáng, bù xíng ma?", "translation": "7 rưỡi mới dậy, ngoài tắm ra còn phải ăn sáng, đương nhiên là gấp gáp rồi. Bạn dậy sớm thêm nửa tiếng nữa không được sao?" },
+        { "speaker": "杰森", "hanzi": "不行，7点半起床已经很不容易了。为了能起来，我买了两个闹钟呢。", "pinyin": "Bù xíng, qī diǎn bàn qǐchuáng yǐjīng hěn bù róngyì le. Wèile néng qǐlai, wǒ mǎi le liǎng ge nàozhōng ne.", "translation": "Không được, 7 rưỡi dậy đã rất không dễ dàng rồi. Để có thể dậy được, mình đã mua hai cái đồng hồ báo thức đấy." },
+        { "speaker": "友美", "hanzi": "我看，你还没有适应这里的学校生活。", "pinyin": "Wǒ kàn, nǐ hái méiyǒu shìyìng zhèlǐ de xuéxiào shēnghuó.", "translation": "Mình thấy, bạn vẫn chưa thích nghi được với cuộc sống học đường ở đây." },
+        { "speaker": "杰森", "hanzi": "对我来说，早起床确实太难了。不过，我比以前好多了，以前上课老迟到，现在已经不迟到了。", "pinyin": "Duì wǒ lái shuō, zǎo qǐchuáng quèshí tài nán le. Búguò, wǒ bǐ yǐqián hǎo duō le, yǐqián shàngkè lǎo chídào, xiànzài yǐjīng bù chídào le.", "translation": "Đối với mình mà nói, dậy sớm thực sự quá khó. Nhưng mà, mình đã tốt hơn trước đây nhiều rồi, trước kia đi học hay đến muộn, bây giờ đã không đến muộn nữa." }
+      ],
+      "questions": [
+        { "q": "杰森每天过得怎么样？", "a": "他忙死了，老觉得时间不够用。" },
+        { "q": "杰森每天在忙什么？", "a": "除了上课，还要写作业，参加各种活动。" },
+        { "q": "杰森每天的生活是怎么安排的？", "a": "早上最紧张，7点半才起床，洗澡、吃早饭，然后去上课。" },
+        { "q": "杰森比以前有进步吗？", "a": "有进步，以前上课老迟到，现在已经不迟到了。" }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "课文 (二)",
+      "context": "友美和杰森在聊每天的时间安排",
+      "lines": [
+        { "speaker": "友美", "hanzi": "你们除了上午有课，下午和晚上也有课吗？", "pinyin": "Nǐmen chúle shàngwǔ yǒu kè, xiàwǔ hé wǎnshang yě yǒu kè ma?", "translation": "Các bạn ngoài buổi sáng có tiết, buổi chiều và buổi tối cũng có tiết sao?" },
+        { "speaker": "杰森", "hanzi": "除了星期二下午有选修课，其他时间都没有。", "pinyin": "Chúle xīngqī'èr xiàwǔ yǒu xuǎnxiūkè, qítā shíjiān dōu méiyǒu.", "translation": "Ngoài chiều thứ Ba có môn tự chọn, thời gian khác đều không có." },
+        { "speaker": "友美", "hanzi": "那你为什么会这么忙？", "pinyin": "Nà nǐ wèi shénme huì zhème máng?", "translation": "Vậy tại sao bạn lại bận thế?" },
+        { "speaker": "杰森", "hanzi": "除了上课，我还要运动，还要参加娱乐活动。", "pinyin": "Chúle shàngkè, wǒ hái yào yùndòng, hái yào cānjiā yúlè huódòng.", "translation": "Ngoài đi học, mình còn phải vận động, còn phải tham gia các hoạt động giải trí." },
+        { "speaker": "友美", "hanzi": "看来，你的课外生活很丰富啊。", "pinyin": "Kànlái, nǐ de kèwài shēnghuó hěn fēngfù a.", "translation": "Xem ra, cuộc sống ngoại khóa của bạn rất phong phú nha." },
+        { "speaker": "杰森", "hanzi": "当然了。锻炼身体对我来说更重要，所以我每天下午都去健身房。", "pinyin": "Dāngrán le. Duànliàn shēntǐ duì wǒ lái shuō gèng zhòngyào, suǒyǐ wǒ měitiān xiàwǔ dōu qù jiànshēnfáng.", "translation": "Đương nhiên rồi. Rèn luyện thân thể đối với mình mà nói quan trọng hơn, cho nên mỗi chiều mình đều đến phòng gym." },
+        { "speaker": "友美", "hanzi": "那晚上呢？", "pinyin": "Nà wǎnshang ne?", "translation": "Vậy buổi tối thì sao?" },
+        { "speaker": "杰森", "hanzi": "我的娱乐活动一般安排在晚上，比如看电影、看演出。", "pinyin": "Wǒ de yúlè huódòng yìbān ānpái zài wǎnshang, bǐrú kàn diànyǐng, kàn yǎnchū.", "translation": "Các hoạt động giải trí của mình thường sắp xếp vào buổi tối, ví dụ như xem phim, xem biểu diễn." },
+        { "speaker": "友美", "hanzi": "每天晚上都看吗？", "pinyin": "Měitiān wǎnshang dōu kàn ma?", "translation": "Mỗi tối đều xem sao?" },
+        { "speaker": "杰森", "hanzi": "如果不看电影、不看演出，就看电视，或者上网和朋友聊天儿。", "pinyin": "Rúguǒ bú kàn diànyǐng, bú kàn yǎnchū, jiù kàn diànshì, huòzhě shàngwǎng hé péngyou liáotiānr.", "translation": "Nếu không xem phim, không xem biểu diễn thì xem tivi, hoặc là lên mạng nói chuyện với bạn bè." },
+        { "speaker": "友美", "hanzi": "那你什么时候写作业，什么时候复习呢？", "pinyin": "Nà nǐ shénme shíhou xiě zuòyè, shénme shíhou fùxí ne?", "translation": "Vậy bạn lúc nào thì làm bài tập, lúc nào ôn tập?" },
+        { "speaker": "杰森", "hanzi": "我这么忙，根本没有时间写作业。", "pinyin": "Wǒ zhème máng, gēnběn méiyǒu shíjiān xiě zuòyè.", "translation": "Mình bận như vậy, căn bản không có thời gian làm bài tập." },
+        { "speaker": "友美", "hanzi": "你们老师留的作业多吗？", "pinyin": "Nǐmen lǎoshī liú de zuòyè duō ma?", "translation": "Bài tập thầy cô giao cho các bạn có nhiều không?" },
+        { "speaker": "杰森", "hanzi": "不算多，可是我太忙了。哎呀，一天的时间怎么这么短啊？", "pinyin": "Bú suàn duō, kěshì wǒ tài máng le. Āiyā, yì tiān de shíjiān zěnme zhème duǎn a?", "translation": "Coi như không nhiều, nhưng mình quá bận. Ái chà, thời gian một ngày sao mà ngắn vậy chứ?" },
+        { "speaker": "友美", "hanzi": "我看，根本不是一天的时间太短，而是你不会安排时间。你应该先写完作业，再去运动；晚上先复习，再去娱乐。", "pinyin": "Wǒ kàn, gēnběn bú shì yì tiān de shíjiān tài duǎn, ér shì nǐ bú huì ānpái shíjiān. Nǐ yīnggāi xiān xiě wán zuòyè, zài qù yùndòng; wǎnshang xiān fùxí, zài qù yúlè.", "translation": "Mình thấy, căn bản không phải là thời gian một ngày quá ngắn, mà là bạn không biết cách sắp xếp thời gian. Bạn nên làm xong bài tập trước, rồi hẵng đi vận động; buổi tối ôn tập trước, rồi hẵng đi giải trí." },
+        { "speaker": "杰森", "hanzi": "看来，我要好好儿安排一下我的时间了。", "pinyin": "Kànlái, wǒ yào hǎohāor ānpái yíxià wǒ de shíjiān le.", "translation": "Xem ra, mình phải sắp xếp lại thời gian của mình cho tốt rồi." }
+      ],
+      "questions": [
+        { "q": "杰森什么时候有课？", "a": "除了上午有课，星期二下午还有选修课。" },
+        { "q": "杰森每天除了上课还要做什么？", "a": "还要去健身房运动，晚上还要参加看电影、看演出等娱乐活动。" },
+        { "q": "杰森每天晚上干什么？", "a": "看电影、看演出，或者看电视、上网聊天。" },
+        { "q": "杰森的问题是什么？", "a": "他不会安排时间，每天很忙却没时间写作业和复习。" }
+      ]
+    }
+  ],
+  "functional_sentences": [
+    {
+      "category": "【估计】 Ước tính, phỏng đoán",
+      "examples": [
+        "我看，你还没有适应这里的学校生活。(Mình thấy, bạn vẫn chưa thích nghi với cuộc sống học đường ở đây.)",
+        "看来，我要好好儿安排一下我的时间了。(Xem ra, mình phải sắp xếp lại thời gian của mình cho tốt rồi.)",
+        "我想，他会来吧。(Mình nghĩ, anh ấy sẽ đến thôi.)"
+      ]
+    },
+    {
+      "category": "【排除】 Loại trừ",
+      "examples": [
+        "你每天除了上课，还做什么？(Mỗi ngày bạn ngoài đi học ra, còn làm gì nữa?)",
+        "每天除了上课，还要写作业，还要参加各种活动，事情太多了。(Mỗi ngày ngoài việc đi học, còn phải làm bài tập, tham gia đủ loại hoạt động, việc quá nhiều.)",
+        "除了星期二下午有选修课，其他时间都没有。(Ngoại trừ chiều thứ Ba có lớp tự chọn, các thời gian khác đều không có.)"
+      ]
+    },
+    {
+      "category": "【表达某种程度】 Thể hiện mức độ (cao)",
+      "examples": [
+        "你的课外生活很丰富啊。(Cuộc sống ngoại khóa của bạn rất phong phú nha.)",
+        "那次，他特别生气。(Lần đó, anh ấy đặc biệt tức giận.)",
+        "昨天的天气最好了，特别适合出去玩儿。(Thời tiết hôm qua là đẹp nhất, cực kỳ thích hợp đi chơi.)",
+        "我累极了。(Mình mệt cực kỳ.)",
+        "我忙死了。(Mình bận chết đi được.)"
+      ]
+    },
+    {
+      "category": "【补充说明】 Giải thích bổ sung, thêm ý",
+      "examples": [
+        "早上一般来说是最紧张的。(Buổi sáng nói chung là khẩn trương nhất.)",
+        "对我来说，早起床确实太难了。(Đối với mình mà nói, việc dậy sớm thật sự quá khó.)",
+        "锻炼身体对我来说更重要，所以我每天下午都去健身房。(Rèn luyện cơ thể với mình mà nói quan trọng hơn, cho nên mỗi chiều mình đều đi gym.)"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "substitution",
+      "instruction": "Luyện tập thay thế từ",
+      "questions": [
+        {
+          "sentence": "A: 最近怎么样？\nB: 生活很丰富。\nA: 还有呢？\nB: 哎呀，忙死了。",
+          "substitutes": [
+            "学习 / 紧张 / 非常非常累",
+            "比赛 / 多 / 困极了",
+            "考试 / 紧张 / 我讨厌死考试了"
+          ]
+        },
+        {
+          "sentence": "A: 你除了友美，还认识谁？\nB: 除了友美，还认识马丁和汉娜。",
+          "substitutes": [
+            "学汉语 / 学 / 什么 / 学京剧",
+            "会包饺子 / 会 / 什么 / 会做各种炒菜",
+            "上海 / 去过 / 哪里 / 去过天津"
+          ]
+        },
+        {
+          "sentence": "A: 对我来说，每天锻炼身体确实太难了。\nB: 还是努力试试吧。",
+          "substitutes": [
+            "年轻人 / 一个月只花2000块钱",
+            "他们 / 每天记20个生词",
+            "留学生 / 半个月就适应这里的生活"
+          ]
+        },
+        {
+          "sentence": "A: 今天老师留的作业多吗？\nB: 不算多，可是有点儿难。",
+          "substitutes": [
+            "苹果贵 / 贵 / 不太好吃",
+            "包饺子容易学 / 难 / 我包的饺子不如老师包的好看",
+            "历史故事好懂 / 难 / 不容易记住"
+          ]
+        },
+        {
+          "sentence": "A: 看来，你要好好儿安排一下你的时间了。\nB: 是啊，你说得对。",
+          "substitutes": [
+            "我想 / 考虑 / 学习计划",
+            "我看 / 准备 / HSK考试",
+            "我看 / 收拾 / 房间"
+          ]
+        },
+        {
+          "sentence": "A: 根本不是一天的时间太短，而是你不会安排时间。\nB: 不会吧。",
+          "substitutes": [
+            "电脑坏了 / 不会用 / 我确实不会",
+            "钱太少 / 乱花钱 / 我没有啊",
+            "衣服瘦 / 长胖了 / 不对吧"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "instruction": "Hoàn thành các đoạn hội thoại",
+      "questions": [
+        {
+          "context": "A: 好久没见，你最近好吗？\nB: 哎呀，我_______________。\nA: 忙什么呢？\nB: 我也不知道，不过老有_______________的事，老觉得时间_______________。",
+          "hint": "(Gợi ý: 干不完 / 够 / 死)",
+          "answer": "忙死了\n干不完\n不够用"
+        },
+        {
+          "context": "A: 我最近忙极了，一直没给你打电话，你怎么样，还好吗？\nB: 我挺好的，你每天_______________上课，还忙什么呀？\nA: 我每天_______________，还要写作业，还要参加各种活动。\nB: _______________我也要做，没觉得那么忙呀。\nA: 肯定你的事情_______________我多。",
+          "hint": "(Gợi ý: 这些事 / 除了 / 不如)",
+          "answer": "除了\n除了上课\n这些事\n不如"
+        },
+        {
+          "context": "A: 你怎么会这么忙啊？\nB: 我从早上开始就特别紧张，_______________，我7点半起床，_______________，去上课。\nA: 7点半_______________是不是太晚了？7点起床不行吗？\nB: 对我来说，7点半起床已经很不容易了，为了能起来，我买了两个闹钟呢。",
+          "hint": "(Gợi ý: 然后 / 一般来说 / 才)",
+          "answer": "一般来说\n然后吃早饭\n才起床"
+        },
+        {
+          "context": "A: 到了中国就要_______________，我觉得你还_______________。\nB: 是啊，_______________，早起床确实太难了。不过，我已经比以前好多了。\nA: 以前天天上课迟到吧？\nB: _______________，不过，现在已经不经常迟到了。",
+          "hint": "(Gợi ý: 对……来说 / 差不多 / 适应)",
+          "answer": "适应这里的生活\n没适应\n对我来说\n差不多每天迟到"
+        },
+        {
+          "context": "A: 可以告诉我吗，你每天都做些什么事？\nB: 除了上课，我_______________，_______________。\nA: _______________，你的课外生活很丰富啊。\nB: _______________，锻炼身体对我来说更重要，所以，我每天下午还要去健身房。",
+          "hint": "(Gợi ý: 看来 / 还要 / 还有呢)",
+          "answer": "还要运动\n还要去娱乐\n看来\n还有呢"
+        },
+        {
+          "context": "A: 你每天晚上的时间_______________？\nB: 我的娱乐活动_______________，比如看电影、看演出。\nA: 如果没有电影和演出呢？\nB: 那就看电视，_______________。",
+          "hint": "(Gợi ý: 安排 / 一般 / 或者)",
+          "answer": "怎么安排的\n一般安排在晚上\n或者上网聊天"
+        },
+        {
+          "context": "A: 你每天什么时候写作业，什么时候复习呢？\nB: 我都快忙死了，_______________。\nA: 你们老师留的作业多吗？\nB: _______________，可是我太忙了，哎呀，一天的时间也太短了。\nA: _______________，而是你自己有问题。你什么都想干，就是不想学习。",
+          "hint": "(Gợi ý: 我看 / 不算 / 根本)",
+          "answer": "根本没时间做\n不算多\n我看根本不是时间短"
+        }
+      ]
+    }
+  ]
+}

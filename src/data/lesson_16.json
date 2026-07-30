@@ -1,0 +1,210 @@
+{
+  "lesson": 16,
+  "vocabAudioPath": "audio/31.mp3",
+  "title": "你赶快打电话预订吧 (Call to make a reservation immediately)",
+  "pdfPage": 184,
+  "vocabulary": [
+    { "id": 1, "hanzi": "头疼", "pinyin": "tóuténg", "meaning": "đau đầu", "type": "tính từ" },
+    { "id": 2, "hanzi": "预订", "pinyin": "yùdìng", "meaning": "đặt trước", "type": "động từ" },
+    { "id": 3, "hanzi": "酒店", "pinyin": "jiǔdiàn", "meaning": "khách sạn", "type": "danh từ" },
+    { "id": 4, "hanzi": "着急", "pinyin": "zháojí", "meaning": "lo lắng, sốt ruột", "type": "tính từ" },
+    { "id": 5, "hanzi": "宾馆", "pinyin": "bīnguǎn", "meaning": "nhà khách, khách sạn", "type": "danh từ" },
+    { "id": 6, "hanzi": "五星级", "pinyin": "wǔ xīngjí", "meaning": "tiêu chuẩn năm sao", "type": "" },
+    { "id": 7, "hanzi": "初", "pinyin": "chū", "meaning": "đầu (tháng, năm...)", "type": "danh từ" },
+    { "id": 8, "hanzi": "营业", "pinyin": "yíngyè", "meaning": "kinh doanh, mở cửa hàng", "type": "động từ" },
+    { "id": 9, "hanzi": "正好", "pinyin": "zhènghǎo", "meaning": "vừa vặn, đúng lúc", "type": "tính từ" },
+    { "id": 10, "hanzi": "抓紧", "pinyin": "zhuājǐn", "meaning": "nắm chắc, tranh thủ (thời gian)", "type": "động từ" },
+    { "id": 11, "hanzi": "标准间", "pinyin": "biāozhǔnjiān", "meaning": "phòng tiêu chuẩn (phòng giường đôi)", "type": "danh từ" },
+    { "id": 12, "hanzi": "打折", "pinyin": "dǎzhé", "meaning": "giảm giá", "type": "động từ" },
+    { "id": 13, "hanzi": "早餐", "pinyin": "zǎocān", "meaning": "bữa sáng", "type": "danh từ" },
+    { "id": 14, "hanzi": "免费", "pinyin": "miǎnfèi", "meaning": "miễn phí", "type": "động từ" },
+    { "id": 15, "hanzi": "结账", "pinyin": "jiézhàng", "meaning": "thanh toán", "type": "động từ" },
+    { "id": 16, "hanzi": "现金", "pinyin": "xiànjīn", "meaning": "tiền mặt", "type": "danh từ" },
+    { "id": 17, "hanzi": "信用卡", "pinyin": "xìnyòngkǎ", "meaning": "thẻ tín dụng", "type": "danh từ" },
+    { "id": 18, "hanzi": "卡", "pinyin": "kǎ", "meaning": "thẻ", "type": "danh từ" },
+    { "id": 19, "hanzi": "满意", "pinyin": "mǎnyì", "meaning": "hài lòng", "type": "động từ" },
+    { "id": 20, "hanzi": "接送", "pinyin": "jiē sòng", "meaning": "đưa đón", "type": "" },
+    { "id": 21, "hanzi": "接", "pinyin": "jiē", "meaning": "đón", "type": "động từ" },
+    { "id": 22, "hanzi": "送", "pinyin": "sòng", "meaning": "tiễn, đưa", "type": "động từ" },
+    { "id": 23, "hanzi": "提供", "pinyin": "tígōng", "meaning": "cung cấp", "type": "động từ" },
+    { "id": 24, "hanzi": "收费", "pinyin": "shōufèi", "meaning": "thu phí", "type": "động từ" }
+  ],
+  "dialogues": [
+    {
+      "id": 1,
+      "audioPath": "audio/32.mp3",
+      "title": "课文 (一)",
+      "context": "汉娜的父母要来，汉娜还没有给他们订好酒店",
+      "lines": [
+        { "speaker": "杰森", "hanzi": "汉娜，听说你父母要来看你，你肯定特别高兴。", "pinyin": "Hànnà, tīngshuō nǐ fùmǔ yào lái kàn nǐ, nǐ kěndìng tèbié gāoxìng.", "translation": "Hannah, nghe nói bố mẹ bạn sắp đến thăm bạn, bạn chắc chắn đặc biệt vui mừng." },
+        { "speaker": "汉娜", "hanzi": "高兴是高兴，可是也很头疼。", "pinyin": "Gāoxìng shì gāoxìng, kěshì yě hěn tóuténg.", "translation": "Vui thì có vui, nhưng cũng rất đau đầu." },
+        { "speaker": "杰森", "hanzi": "为什么？", "pinyin": "Wèishénme?", "translation": "Tại sao?" },
+        { "speaker": "汉娜", "hanzi": "妈妈让我帮他们预订酒店，我还没找到呢。", "pinyin": "Māma ràng wǒ bāng tāmen yùdìng jiǔdiàn, wǒ hái méi zhǎodào ne.", "translation": "Mẹ bảo mình giúp bố mẹ đặt phòng khách sạn, mình vẫn chưa tìm được." },
+        { "speaker": "杰森", "hanzi": "别着急，宾馆和酒店不是挺多的吗？", "pinyin": "Bié zháojí, bīnguǎn hé jiǔdiàn bú shì tǐng duō de ma?", "translation": "Đừng lo, nhà khách và khách sạn không phải rất nhiều sao?" },
+        { "speaker": "汉娜", "hanzi": "多是多，可是我知道的酒店都很远。我父母想住得离我近一点儿，这样比较方便。", "pinyin": "Duō shì duō, kěshì wǒ zhīdào de jiǔdiàn dōu hěn yuǎn. Wǒ fùmǔ xiǎng zhù de lí wǒ jìn yìdiǎnr, zhèyàng bǐjiào fāngbiàn.", "translation": "Nhiều thì nhiều thật, nhưng những khách sạn mình biết đều rất xa. Bố mẹ mình muốn ở gần mình một chút, như vậy sẽ khá thuận tiện." },
+        { "speaker": "杰森", "hanzi": "购物中心那边不是有个酒店吗？", "pinyin": "Gòuwù zhōngxīn nàbian bú shì yǒu ge jiǔdiàn ma?", "translation": "Bên trung tâm mua sắm không phải có một cái khách sạn sao?" },
+        { "speaker": "汉娜", "hanzi": "哦，那是一个五星级酒店，太贵了，一个晚上要2000多块呢。", "pinyin": "Ò, nà shì yí ge wǔ xīngjí jiǔdiàn, tài guì le, yí ge wǎnshang yào liǎng qiān duō kuài ne.", "translation": "Ồ, đó là một khách sạn năm sao, quá đắt, một đêm mất hơn 2000 tệ đấy." },
+        { "speaker": "杰森", "hanzi": "对了，我们小区旁边有一个新的宾馆，不过好像12月初才开始营业。", "pinyin": "Duì le, wǒmen xiǎoqū pángbiān yǒu yí ge xīn de bīnguǎn, búguò hǎoxiàng shí'èryuè chū cái kāishǐ yíngyè.", "translation": "Đúng rồi, bên cạnh khu nhà chúng ta có một nhà khách mới, nhưng hình như đầu tháng 12 mới bắt đầu kinh doanh." },
+        { "speaker": "汉娜", "hanzi": "那正好啊，我父母是下个月6号来。", "pinyin": "Nà zhènghǎo a, wǒ fùmǔ shì xià ge yuè liù hào lái.", "translation": "Vậy vừa vặn quá, bố mẹ mình mùng 6 tháng sau mới đến." },
+        { "speaker": "杰森", "hanzi": "太好了，你赶快打电话预订吧。", "pinyin": "Tài hǎo le, nǐ gǎnkuài dǎ diànhuà yùdìng ba.", "translation": "Tốt quá rồi, bạn mau chóng gọi điện thoại đặt trước đi." },
+        { "speaker": "汉娜", "hanzi": "好，我抓紧。", "pinyin": "Hǎo, wǒ zhuājǐn.", "translation": "Được, mình sẽ tranh thủ." }
+      ],
+      "questions": [
+        { "q": "汉娜为什么头疼？", "a": "因为妈妈让她帮忙预订酒店，但她还没找到。" },
+        { "q": "汉娜想找什么样的酒店？", "a": "她想找一个离她近一点儿的酒店，这样比较方便。" },
+        { "q": "购物中心附近的那家酒店怎么样？", "a": "那是一家五星级酒店，太贵了，一个晚上要2000多块。" },
+        { "q": "杰森介绍的那家宾馆怎么样？", "a": "那是他们小区旁边的一家新宾馆，12月初才开始营业，离汉娜很近。" }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "课文 (二)",
+      "context": "汉娜已经订好了酒店",
+      "lines": [
+        { "speaker": "杰森", "hanzi": "你父母的酒店订好了吗？", "pinyin": "Nǐ fùmǔ de jiǔdiàn dìng hǎo le ma?", "translation": "Khách sạn của bố mẹ bạn đặt xong chưa?" },
+        { "speaker": "汉娜", "hanzi": "订好了，谢谢你帮忙。", "pinyin": "Dìng hǎo le, xièxie nǐ bāngmáng.", "translation": "Đặt xong rồi, cảm ơn bạn đã giúp đỡ." },
+        { "speaker": "杰森", "hanzi": "不客气。你去宾馆看了吗？房间怎么样？", "pinyin": "Bú kèqi. Nǐ qù bīnguǎn kàn le ma? Fángjiān zěnmeyàng?", "translation": "Không có gì. Bạn đã đến nhà khách xem chưa? Phòng ốc thế nào?" },
+        { "speaker": "汉娜", "hanzi": "我没去，我是在网上订的。网上有宾馆的介绍，也有房间的照片，看起来挺好的。哎，你说，我是不是应该到宾馆去看看啊？", "pinyin": "Wǒ méi qù, wǒ shì zài wǎngshàng dìng de. Wǎngshàng yǒu bīnguǎn de jièshào, yě yǒu fángjiān de zhàopiàn, kàn qǐlai tǐng hǎo de. Āi, nǐ shuō, wǒ shì bú shì yīnggāi dào bīnguǎn qù kànkan a?", "translation": "Mình chưa đến, mình đặt trên mạng. Trên mạng có giới thiệu về nhà khách, cũng có ảnh của phòng, trông khá tốt. Ê, bạn nói xem, mình có phải là nên đến nhà khách xem thử không?" },
+        { "speaker": "杰森", "hanzi": "别担心，有照片，我想没问题。价格贵吗？", "pinyin": "Bié dānxīn, yǒu zhàopiàn, wǒ xiǎng méi wèntí. Jiàgé guì ma?", "translation": "Đừng lo, có ảnh rồi, mình nghĩ không có vấn đề gì. Giá cả có đắt không?" },
+        { "speaker": "汉娜", "hanzi": "标准间一天890，但是网上预订能打6折，所以是500多一天，早餐免费。", "pinyin": "Biāozhǔnjiān yì tiān bābǎi jiǔ, dànshì wǎngshàng yùdìng néng dǎ liù zhé, suǒyǐ shì wǔbǎi duō yì tiān, zǎocān miǎnfèi.", "translation": "Phòng tiêu chuẩn một ngày 890 tệ, nhưng đặt trên mạng có thể giảm giá 40%, cho nên là hơn 500 tệ một ngày, bữa sáng miễn phí." },
+        { "speaker": "杰森", "hanzi": "还能打折，真不错。", "pinyin": "Hái néng dǎzhé, zhēn búcuò.", "translation": "Còn có thể giảm giá, thật không tồi." },
+        { "speaker": "汉娜", "hanzi": "对了，我那天要是不抓紧时间订，房间就没有了。", "pinyin": "Duì le, wǒ nà tiān yàoshi bù zhuājǐn shíjiān dìng, fángjiān jiù méiyǒu le.", "translation": "Đúng rồi, hôm đó mình mà không tranh thủ thời gian đặt, phòng sẽ hết mất." },
+        { "speaker": "杰森", "hanzi": "结账方便吗？", "pinyin": "Jiézhàng fāngbiàn ma?", "translation": "Thanh toán có tiện không?" },
+        { "speaker": "汉娜", "hanzi": "结账也方便，现金或者信用卡都可以。", "pinyin": "Jiézhàng yě fāngbiàn, xiànjīn huòzhě xìnyòngkǎ dōu kěyǐ.", "translation": "Thanh toán cũng tiện, tiền mặt hoặc thẻ tín dụng đều được." },
+        { "speaker": "杰森", "hanzi": "看来，下次我父母来，也可以给他们订这个宾馆。", "pinyin": "Kànlái, xià cì wǒ fùmǔ lái, yě kěyǐ gěi tāmen dìng zhège bīnguǎn.", "translation": "Xem ra, lần sau bố mẹ mình đến, cũng có thể đặt nhà khách này cho họ." },
+        { "speaker": "汉娜", "hanzi": "是啊，他们一定会满意。最重要的是，离我们很近。", "pinyin": "Shì a, tāmen yídìng huì mǎnyì. Zuì zhòngyào de shì, lí wǒmen hěn jìn.", "translation": "Đúng vậy, họ nhất định sẽ hài lòng. Quan trọng nhất là, cách chúng ta rất gần." },
+        { "speaker": "杰森", "hanzi": "对了，宾馆有机场接送服务吗？", "pinyin": "Duì le, bīnguǎn yǒu jīchǎng jiē sòng fúwù ma?", "translation": "Đúng rồi, nhà khách có dịch vụ đưa đón sân bay không?" },
+        { "speaker": "汉娜", "hanzi": "他们可以提供接送服务，但是要收费。", "pinyin": "Tāmen kěyǐ tígōng jiē sòng fúwù, dànshì yào shōufèi.", "translation": "Họ có thể cung cấp dịch vụ đưa đón, nhưng phải thu phí." }
+      ],
+      "questions": [
+        { "q": "汉娜是怎么订宾馆的？", "a": "她是在网上订的。" },
+        { "q": "这家宾馆是什么价格？", "a": "标准间一天890，网上预订打6折，是500多一天，早餐免费。" },
+        { "q": "宾馆怎么结账？", "a": "现金或者信用卡都可以。" },
+        { "q": "宾馆还有什么服务？", "a": "宾馆提供机场接送服务，但是要收费。" }
+      ]
+    }
+  ],
+  "functional_sentences": [
+    {
+      "category": "【判断】 Phán đoán",
+      "examples": [
+        "听说你父母要来看你，你肯定特别高兴。(Nghe nói bố mẹ bạn sắp đến thăm bạn, bạn chắc chắn đặc biệt vui.)",
+        "A: 下次我父母来，也可以给他们订这个宾馆。 B: 是啊，他们一定会满意。(Họ nhất định sẽ hài lòng.)",
+        "不用问，他肯定愿意跟咱们一起去。(Không cần hỏi, cậu ấy chắc chắn sẵn lòng đi cùng chúng ta.)"
+      ]
+    },
+    {
+      "category": "【说明】 Thuyết minh, giải thích rõ",
+      "examples": [
+        "高兴是高兴，可是也很头疼。(Vui thì vui thật, nhưng cũng rất đau đầu.)",
+        "说真的，我也很头疼。(Nói thật thì tôi cũng rất đau đầu.)",
+        "标准间一天890，但是网上预订能打6折，所以是500多一天。(Phòng tiêu chuẩn 1 ngày 890, nhưng đặt trên mạng được giảm 40%, nên là hơn 500 một ngày.)",
+        "结账也方便，现金或者信用卡都可以。(Thanh toán cũng tiện, tiền mặt hay thẻ tín dụng đều được.)"
+      ]
+    },
+    {
+      "category": "【安慰】 An ủi",
+      "examples": [
+        "别着急，宾馆和酒店不是挺多的吗？(Đừng lo, nhà khách và khách sạn không phải rất nhiều sao?)",
+        "别担心，有照片，我想没问题。(Đừng lo, có ảnh rồi, mình nghĩ không có vấn đề gì.)",
+        "好了，放心吧。(Được rồi, yên tâm đi.)"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "substitution",
+      "instruction": "Luyện tập thay thế từ",
+      "questions": [
+        {
+          "sentence": "A: 听说咱们的选修课不考试了。\nB: 真的？大家肯定特别高兴。",
+          "substitutes": [
+            "下星期去郊外 / 一定愿意去",
+            "下学期开太极拳课 / 一定都想学",
+            "以后各种讲座会多一些 / 肯定会满意"
+          ]
+        },
+        {
+          "sentence": "A: 我父母就要来了，高兴是高兴，可是也很头疼。\nB: 为什么？\nA: 我没有时间陪他们。",
+          "substitutes": [
+            "明天又考试 / 着急 / 也不太紧张 / 因为我复习了",
+            "又得听讲座 / 没意思 / 很有用 / 能多了解一些东西",
+            "马上就放假了 / 好 / 也很难过 / 我要回国了"
+          ]
+        },
+        {
+          "sentence": "A: 他怎么还不回来啊？真让人着急。\nB: 别着急，给他打个电话看看。",
+          "substitutes": [
+            "怎么不打电话 / 别担心 / 他很安全",
+            "怎么样了 / 放心吧 / 我去看看",
+            "病好了没有 / 别着急 / 我去医院看看他"
+          ]
+        },
+        {
+          "sentence": "A: 忙什么呢？\nB: 忙着找酒店，我父母马上就要来了。\nA: 购物中心那边不是有一个吗？\nB: 我怎么不知道？\nA: 刚开始营业不久。",
+          "substitutes": [
+            "宾馆 / 朋友要来玩儿几天 / 学校旁边 / 一家好点儿的饭馆 / 要请朋友吃饭 / 博物馆附近 / 药店 / 感冒了 / 银行旁边"
+          ]
+        },
+        {
+          "sentence": "A: 我特别想看那个电影。\nB: 正好，我晚上有两张票。\nA: 那我就不客气了。",
+          "substitutes": [
+            "来晚了 / 会还没开始呢 / 那太好了",
+            "明天要去机场接人 / 下午口语老师在 / 那我正好可以请假",
+            "给你买的鞋合适吗？ / 不大也不小 / 那我就放心了"
+          ]
+        },
+        {
+          "sentence": "A: 标准间一天多少钱？\nB: 网上预订能打6折，所以一天500多。\nA: 挺不错的。",
+          "substitutes": [
+            "套房一个晚上 / 现在预订能打5折 / 比标准间还便宜",
+            "这件外衣 / 这两天正在打折 / 差不多100多",
+            "电影票 / 每周二半价 / 30一张",
+            "这辆自行车 / 这星期都打3折 / 不到200块钱"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "instruction": "Hoàn thành các đoạn hội thoại",
+      "questions": [
+        {
+          "context": "A: 这几天忙什么呢？都看不见你。\nB: 我父母要来看我，我还没帮他们订到酒店呢，_______________。\nA: 父母来多高兴啊，_______________，我看酒店挺多的呀。\nB: _______________，可是找合适的不容易。",
+          "hint": "(Gợi ý: ……是…… / 别 / 头疼)",
+          "answer": "真让人头疼\n别着急\n多是多"
+        },
+        {
+          "context": "A: 酒店很多，怎么会_______________呢？你想找什么样的酒店呀？\nB: 我父母想_______________。\nA: 对，住得近会_______________。\nB: 可是我知道的酒店都挺远的。",
+          "hint": "(Gợi ý: 订 / 近 / 比较)",
+          "answer": "订不到\n住得离我近一点儿\n比较方便"
+        },
+        {
+          "context": "A: _______________不是有个酒店吗？离咱们这儿挺近的。\nB: 我去问过了，那个酒店太贵了，五星级的，_______________。\nA: 哦，真是太贵了。\nB: 对了，我们小区旁边有一个宾馆，上个月刚_______________，我帮你去问问。\nA: 那我自己去问吧。",
+          "hint": "(Gợi ý: 晚上 / 营业 / 那儿)",
+          "answer": "那儿\n一个晚上要2000多块呢\n营业"
+        },
+        {
+          "context": "A: 我父母的酒店订好了，谢谢你帮忙。\nB: 不客气。你去宾馆看了吗？房间_______________吧？\nA: 我没去，我是_______________的。\nB: 你没去看看？\nA: 网上有宾馆的介绍，还有房间的照片，_______________。",
+          "hint": "(Gợi ý: 网上 / 还 / 看起来)",
+          "answer": "还不错\n在网上订\n看起来挺好的"
+        },
+        {
+          "context": "A: 你订的宾馆价格怎么样？\nB: 标准间一天890。\nA: _______________。\nB: _______________能打6折，所以一天是500多，而且_______________。\nA: 那还不错。",
+          "hint": "(Gợi ý: 预订 / 免费 / 挺……的)",
+          "answer": "挺贵的\n网上预订\n早餐免费"
+        },
+        {
+          "context": "A: 宾馆_______________方便吗？\nB: 挺方便的，_______________都可以。\nA: 看来，以后有朋友来就可以订这个宾馆了。\nB: 是啊，_______________。\nA: _______________，离我们近，方便。",
+          "hint": "(Gợi ý: 结账 / 或者 / 满意 / 最……的是)",
+          "answer": "结账\n现金或者信用卡\n他们一定会满意\n最重要的是"
+        },
+        {
+          "context": "A: 你朋友住的那家宾馆怎么样啊？\nB: 挺好的，_______________，而且网上预订还打折。\nA: 他们有机场接送服务吗？\nB: 我问过，他们说，可以_______________，但是_______________。",
+          "hint": "(Gợi ý: 提供 / 收费 / 不仅)",
+          "answer": "不仅提供早餐\n提供接送服务\n要收费"
+        }
+      ]
+    }
+  ]
+}

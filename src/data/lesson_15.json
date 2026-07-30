@@ -1,0 +1,204 @@
+{
+  "lesson": 15,
+  "vocabAudioPath": "audio/29.mp3",
+  "title": "我不在办公室，就在会议室 (I will be either in the office or in the conference room)",
+  "pdfPage": 170,
+  "vocabulary": [
+    { "id": 1, "hanzi": "经理", "pinyin": "jīnglǐ", "meaning": "giám đốc", "type": "danh từ" },
+    { "id": 2, "hanzi": "实习", "pinyin": "shíxí", "meaning": "thực tập", "type": "động từ" },
+    { "id": 3, "hanzi": "出差", "pinyin": "chūchāi", "meaning": "đi công tác", "type": "động từ" },
+    { "id": 4, "hanzi": "由", "pinyin": "yóu", "meaning": "do (ai đó phụ trách)", "type": "giới từ" },
+    { "id": 5, "hanzi": "负责", "pinyin": "fùzé", "meaning": "phụ trách", "type": "động từ" },
+    { "id": 6, "hanzi": "秘书", "pinyin": "mìshū", "meaning": "thư ký", "type": "danh từ" },
+    { "id": 7, "hanzi": "小姐", "pinyin": "xiǎojie", "meaning": "tiểu thư, cô", "type": "danh từ" },
+    { "id": 8, "hanzi": "另", "pinyin": "lìng", "meaning": "khác, ngoài ra", "type": "đại từ" },
+    { "id": 9, "hanzi": "突然", "pinyin": "tūrán", "meaning": "đột nhiên", "type": "tính từ" },
+    { "id": 10, "hanzi": "按时", "pinyin": "ànshí", "meaning": "đúng giờ", "type": "phó từ" },
+    { "id": 11, "hanzi": "尽快", "pinyin": "jǐnkuài", "meaning": "càng sớm càng tốt", "type": "phó từ" },
+    { "id": 12, "hanzi": "好", "pinyin": "hǎo", "meaning": "để, nhằm (mục đích)", "type": "động từ" },
+    { "id": 13, "hanzi": "办公室", "pinyin": "bàngōngshì", "meaning": "văn phòng", "type": "danh từ" },
+    { "id": 14, "hanzi": "会议室", "pinyin": "huìyìshì", "meaning": "phòng họp", "type": "danh từ" },
+    { "id": 15, "hanzi": "网络", "pinyin": "wǎngluò", "meaning": "mạng, internet", "type": "danh từ" },
+    { "id": 16, "hanzi": "根据", "pinyin": "gēnjù", "meaning": "căn cứ vào", "type": "giới từ" },
+    { "id": 17, "hanzi": "选择", "pinyin": "xuǎnzé", "meaning": "lựa chọn", "type": "động từ" },
+    { "id": 18, "hanzi": "具体", "pinyin": "jùtǐ", "meaning": "cụ thể", "type": "tính từ" },
+    { "id": 19, "hanzi": "客户", "pinyin": "kèhù", "meaning": "khách hàng", "type": "danh từ" },
+    { "id": 20, "hanzi": "打交道", "pinyin": "dǎ jiāodao", "meaning": "giao thiệp, tiếp xúc", "type": "từ tổ" },
+    { "id": 21, "hanzi": "向", "pinyin": "xiàng", "meaning": "hướng về, tới", "type": "giới từ" },
+    { "id": 22, "hanzi": "产品", "pinyin": "chǎnpǐn", "meaning": "sản phẩm", "type": "danh từ" },
+    { "id": 23, "hanzi": "资料", "pinyin": "zīliào", "meaning": "tài liệu", "type": "danh từ" },
+    { "id": 24, "hanzi": "回答", "pinyin": "huídá", "meaning": "trả lời", "type": "động từ" }
+  ],
+  "dialogues": [
+    {
+      "id": 1,
+      "audioPath": "audio/30.mp3",
+      "title": "课文 (一)",
+      "context": "卡尔去实习，在办公室见到了李秘书",
+      "lines": [
+        { "speaker": "卡尔", "hanzi": "请问，张经理在吗？我是来实习的学生，我叫卡尔。", "pinyin": "Qǐngwèn, Zhāng jīnglǐ zài ma? Wǒ shì lái shíxí de xuésheng, wǒ jiào Kǎ'ěr.", "translation": "Xin hỏi, giám đốc Trương có đó không ạ? Tôi là sinh viên đến thực tập, tôi tên là Carl." },
+        { "speaker": "李秘书", "hanzi": "哦，张经理出差了，实习的事情现在由我负责。我是张经理的秘书，我姓李。", "pinyin": "Ò, Zhāng jīnglǐ chūchāi le, shíxí de shìqing xiànzài yóu wǒ fùzé. Wǒ shì Zhāng jīnglǐ de mìshū, wǒ xìng Lǐ.", "translation": "Ồ, giám đốc Trương đi công tác rồi, việc thực tập hiện giờ do tôi phụ trách. Tôi là thư ký của giám đốc Trương, tôi họ Lý." },
+        { "speaker": "卡尔", "hanzi": "李小姐，您好。", "pinyin": "Lǐ xiǎojie, nín hǎo.", "translation": "Chào cô Lý." },
+        { "speaker": "李秘书", "hanzi": "你们不是有两个实习的学生吗？", "pinyin": "Nǐmen bú shì yǒu liǎng ge shíxí de xuésheng ma?", "translation": "Các cậu không phải có hai sinh viên thực tập sao?" },
+        { "speaker": "卡尔", "hanzi": "对，我们一共两个人。另一个同学突然病了，今天来不了。", "pinyin": "Duì, wǒmen yígòng liǎng ge rén. Lìng yí ge tóngxué tūrán bìng le, jīntiān lái bù liǎo.", "translation": "Vâng, chúng tôi tổng cộng có hai người. Bạn sinh viên kia đột nhiên bị ốm, hôm nay không đến được." },
+        { "speaker": "李秘书", "hanzi": "那他还能按时开始实习吗？", "pinyin": "Nà tā hái néng ànshí kāishǐ shíxí ma?", "translation": "Vậy cậu ấy còn có thể bắt đầu thực tập đúng giờ được không?" },
+        { "speaker": "卡尔", "hanzi": "听老师说，他可能要过几天再来实习。", "pinyin": "Tīng lǎoshī shuō, tā kěnéng yào guò jǐ tiān zài lái shíxí.", "translation": "Nghe thầy giáo nói, cậu ấy có thể phải qua vài ngày nữa mới đến thực tập được." },
+        { "speaker": "李秘书", "hanzi": "哦。请你转告他，尽快跟我们联系一下，好给他安排新的实习时间。", "pinyin": "Ò. Qǐng nǐ zhuǎngào tā, jǐnkuài gēn wǒmen liánxì yíxià, hǎo gěi tā ānpái xīn de shíxí shíjiān.", "translation": "Ồ. Nhờ cậu chuyển lời cho cậu ấy, cố gắng liên hệ với chúng tôi càng sớm càng tốt, để sắp xếp thời gian thực tập mới cho cậu ấy." },
+        { "speaker": "卡尔", "hanzi": "明白了，就让他跟您联系吗？", "pinyin": "Míngbai le, jiù ràng tā gēn nín liánxì ma?", "translation": "Rõ rồi ạ, để cậu ấy liên hệ trực tiếp với cô phải không ạ?" },
+        { "speaker": "李秘书", "hanzi": "对，这是公司的电话。上班时间，我不在办公室，就在会议室。打这个电话就能找到我。", "pinyin": "Duì, zhè shì gōngsī de diànhuà. Shàngbān shíjiān, wǒ bú zài bàngōngshì, jiù zài huìyìshì. Dǎ zhège diànhuà jiù néng zhǎo dào wǒ.", "translation": "Đúng vậy, đây là số điện thoại của công ty. Trong giờ làm việc, tôi không ở văn phòng thì ở phòng họp. Gọi số điện thoại này là có thể tìm được tôi." },
+        { "speaker": "卡尔", "hanzi": "好的，我一定告诉他。", "pinyin": "Hǎo de, wǒ yídìng gàosu tā.", "translation": "Vâng ạ, tôi nhất định sẽ nói với cậu ấy." }
+      ],
+      "questions": [
+        { "q": "公司让谁负责实习的事？", "a": "张经理出差了，由李秘书负责实习的事。" },
+        { "q": "有几个学生要来实习？为什么只来了卡尔一个人？", "a": "有两个学生，因为另一个同学突然病了，所以只来了卡尔一个人。" },
+        { "q": "李秘书让卡尔做什么？", "a": "请卡尔转告同学尽快跟李秘书联系，好安排新的实习时间。" }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "课文 (二)",
+      "context": "李秘书在跟卡尔说他的实习安排",
+      "lines": [
+        { "speaker": "卡尔", "hanzi": "李小姐，我在公司实习，都应该做些什么？", "pinyin": "Lǐ xiǎojie, wǒ zài gōngsī shíxí, dōu yīnggāi zuò xiē shénme?", "translation": "Cô Lý, tôi thực tập ở công ty thì đều nên làm những gì ạ?" },
+        { "speaker": "李秘书", "hanzi": "哦，一般来说，实习的学生，不是在市场部，就是在网络部。你可以根据自己的兴趣选择。", "pinyin": "Ò, yìbān lái shuō, shíxí de xuésheng, bú shì zài shìchǎngbù, jiù shì zài wǎngluòbù. Nǐ kěyǐ gēnjù zìjǐ de xìngqù xuǎnzé.", "translation": "Ồ, nói chung sinh viên thực tập, không ở bộ phận thị trường thì ở bộ phận mạng. Cậu có thể lựa chọn dựa trên sở thích của mình." },
+        { "speaker": "卡尔", "hanzi": "在市场部，具体做些什么呢？", "pinyin": "Zài shìchǎngbù, jùtǐ zuò xiē shénme ne?", "translation": "Ở bộ phận thị trường thì cụ thể làm những gì ạ?" },
+        { "speaker": "李秘书", "hanzi": "如果在市场部，你需要跟客户打交道，向他们介绍我们的产品。", "pinyin": "Rúguǒ zài shìchǎngbù, nǐ xūyào gēn kèhù dǎ jiāodao, xiàng tāmen jièshào wǒmen de chǎnpǐn.", "translation": "Nếu ở bộ phận thị trường, cậu cần giao tiếp với khách hàng, giới thiệu sản phẩm của chúng ta cho họ." },
+        { "speaker": "卡尔", "hanzi": "我懂了，在网络部呢？", "pinyin": "Wǒ dǒng le, zài wǎngluòbù ne?", "translation": "Tôi hiểu rồi, ở bộ phận mạng thì sao ạ?" },
+        { "speaker": "李秘书", "hanzi": "如果在网络部，你除了要翻译一些资料，还要回答网上客户的一些问题。", "pinyin": "Rúguǒ zài wǎngluòbù, nǐ chúle yào fānyì yìxiē zīliào, hái yào huídá wǎngshàng kèhù de yìxiē wèntí.", "translation": "Nếu ở bộ phận mạng, ngoài việc cậu phải dịch một số tài liệu ra, còn phải trả lời một số câu hỏi của khách hàng trên mạng." },
+        { "speaker": "卡尔", "hanzi": "哦，就是负责翻译和回答网络上的问题。", "pinyin": "Ò, jiùshì fùzé fānyì hé huídá wǎngluò shang de wèntí.", "translation": "Ồ, tức là phụ trách dịch thuật và trả lời câu hỏi trên mạng." },
+        { "speaker": "李秘书", "hanzi": "是的，怎么样，或者是市场部，或者是网络部，你对哪个更感兴趣？", "pinyin": "Shì de, zěnmeyàng, huòzhě shì shìchǎngbù, huòzhě shì wǎngluòbù, nǐ duì nǎge gèng gǎn xìngqù?", "translation": "Đúng thế, sao nào, hoặc là bộ phận thị trường, hoặc là bộ phận mạng, cậu hứng thú với cái nào hơn?" },
+        { "speaker": "卡尔", "hanzi": "两个都很有意思，我还是听您的安排吧。", "pinyin": "Liǎng ge dōu hěn yǒu yìsi, wǒ háishì tīng nín de ānpái ba.", "translation": "Cả hai đều rất thú vị, tôi vẫn nên theo sự sắp xếp của cô vậy." }
+      ],
+      "questions": [
+        { "q": "公司怎么安排实习学生的工作？", "a": "学生可以根据自己的兴趣选择在市场部或者网络部。" },
+        { "q": "实习学生在市场部做什么？", "a": "需要跟客户打交道，向他们介绍公司的产品。" },
+        { "q": "实习学生在网络部做什么？", "a": "要翻译一些资料，还要回答网上客户的问题。" },
+        { "q": "卡尔怎么选择的？", "a": "他觉得两个都很有意思，决定听李秘书的安排。" }
+      ]
+    }
+  ],
+  "functional_sentences": [
+    {
+      "category": "【选择】 Lựa chọn",
+      "examples": [
+        "上班时间，我不在办公室，就在会议室。(Giờ làm việc, tôi không ở văn phòng thì ở phòng họp.)",
+        "一般来说，实习的学生，不是在市场部，就是在网络部。(Nói chung sinh viên thực tập, không ở bộ phận thị trường thì ở bộ phận mạng.)",
+        "或者是市场部，或者是网络部，你对哪个更感兴趣？(Hoặc là bộ phận thị trường, hoặc là bộ phận mạng, cậu có hứng thú với cái nào hơn?)"
+      ]
+    },
+    {
+      "category": "【领悟、明白】 Thể hiện sự lĩnh hội, hiểu biết",
+      "examples": [
+        "明白了。(Đã rõ rồi.)",
+        "我懂了。(Tôi hiểu rồi.)",
+        "哦，就是负责翻译和回答网络上的问题。(Ồ, tức là phụ trách dịch và trả lời câu hỏi trên mạng.)",
+        "哦，知道了。(Ồ, biết rồi.)"
+      ]
+    },
+    {
+      "category": "【解释、说明】 Giải thích, thuyết minh",
+      "examples": [
+        "一般来说，实习的学生，不是在市场部，就是在网络部。你可以根据自己的兴趣选择。(Nói chung sinh viên thực tập... bạn có thể chọn theo sở thích.)",
+        "如果在市场部，你需要跟客户打交道，向他们介绍我们的产品。(Nếu ở bộ phận thị trường, bạn cần giao thiệp với khách hàng...)",
+        "如果在网络部，你除了要翻译一些资料，还要回答网上客户的一些问题。(Nếu ở bộ phận mạng, ngoài dịch tài liệu bạn còn phải trả lời câu hỏi của khách hàng...)"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "substitution",
+      "instruction": "Luyện tập thay thế từ",
+      "questions": [
+        {
+          "sentence": "A: 你们班不是有两个来实习的学生吗？\nB: 对，另一个病了，今天来不了。",
+          "substitutes": [
+            "想学京剧的 / 不想学 / 以后也不来了",
+            "日本 / 回国 / 早上刚走的",
+            "参加演出的 / 请假 / 今天不来了"
+          ]
+        },
+        {
+          "sentence": "A: 这是我的电话号码，你记一下，以后好跟我联系。\nB: 太好了。",
+          "substitutes": [
+            "地址 / 记 / 找我",
+            "朋友 / 跟他互相认识 / 经常联系",
+            "资料 / 看 / 准备你自己的"
+          ]
+        },
+        {
+          "sentence": "A: 这两个汉字读音一样，意思不一样。\nB: 明白了，我以后一定不会错了。",
+          "substitutes": [
+            "“喝”和“渴”右边一样，左边 / 懂",
+            "“肥”和“胖”意思差不多，用法 / 清楚",
+            "汉语和日语里“新闻”两个字，意思完全 / 哦，知道"
+          ]
+        },
+        {
+          "sentence": "他天天都在公司里，不在办公室，就在会议室。",
+          "substitutes": [
+            "他的中午饭很简单 / 吃面条 / 吃饺子",
+            "他肯定在学校 / 在图书馆 / 在操场",
+            "他差不多想好了 / 去农村 / 去外地"
+          ]
+        },
+        {
+          "sentence": "在市场部，你要跟客户打交道，向他们介绍我们的产品。",
+          "substitutes": [
+            "网络部 / 网上的客户 / 回答他们的问题",
+            "记者部 / 各种人 / 去发现各种各样的新闻",
+            "学校 / 很多人 / 跟他们做朋友"
+          ]
+        },
+        {
+          "sentence": "A: 怎么样，或者是市场部，或者是网络部，你对哪个更感兴趣？\nB: 我好好儿想想。",
+          "substitutes": [
+            "今天 / 明天 / 想哪天去",
+            "眼镜 / 手表 / 想要哪一个",
+            "买新车 / 买二手车 / 想买哪种"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "instruction": "Hoàn thành các đoạn hội thoại",
+      "questions": [
+        {
+          "context": "A: 我是来_______________，我叫王大明。您是张经理吗？\nB: 张经理_______________了，实习的事情现在_______________。\nA: 请问，您贵姓？\nB: 我姓李，我是张经理的秘书。",
+          "hint": "(Gợi ý: 由 / 实习 / 出差)",
+          "answer": "实习的\n出差\n由我负责"
+        },
+        {
+          "context": "A: 你们有几个人要来实习？\nB: 两个，可是另一个同学突然病了，今天_______________。\nA: 请你_______________，_______________，我们好给他安排实习时间。\nB: 好，我一定_______________他。",
+          "hint": "(Gợi ý: 转告 / 尽快 / ……不了)",
+          "answer": "来不了了\n转告他\n尽快跟我们联系\n告诉"
+        },
+        {
+          "context": "A: 你_______________张朋也来吗？他怎么没来啊？\nB: 他下午有点儿不舒服，也许晚来一会儿。\nA: 那咱们还_______________吗？\nB: 咱们_______________商量，他晚点儿也没关系。",
+          "hint": "(Gợi ý: 先 / 按时 / 不是说)",
+          "answer": "不是说\n按时开始\n先"
+        },
+        {
+          "context": "A: 花子让我转告您，她今天_______________，请您给她安排新的实习时间。\nB: 她好点儿了吗？\nA: 她_______________。我把您办公室的电话告诉她了，可以吧？\nB: 没问题，上班时间，我_______________，_______________，打这个电话就能找到我。",
+          "hint": "(Gợi ý: 不在……就在…… / 好多了 / 联系)",
+          "answer": "来不了了，希望能尽快联系\n好多了\n不在办公室\n就在会议室"
+        },
+        {
+          "context": "A: 李秘书，我们实习生在公司做些什么工作？\nB: 一般来说，实习的学生，_______________。\nA: 那我去哪个部门？\nB: 你可以_______________选择。\nA: 好的，我好好儿想想。",
+          "hint": "(Gợi ý: 不是……就是…… / ……部 / 根据)",
+          "answer": "不是在市场部，就是在网络部\n根据自己的兴趣"
+        },
+        {
+          "context": "A: 在市场部实习，_______________呢？\nB: 如果在市场部，要_______________，向他们介绍我们的产品。\nA: 在网络部呢？\nB: 在网络部的话，_______________。\nA: 哦，明白了。",
+          "hint": "(Gợi ý: 打交道 / 具体 / 除了……还……)",
+          "answer": "具体做些什么\n跟客户打交道\n除了要翻译资料，还要回答问题"
+        },
+        {
+          "context": "A: 想好了吗？_______________，_______________，你对哪个更感兴趣？\nB: 两个都很有意思。\nA: 你_______________哪个工作？\nB: 我能两个工作都试试吗？_______________，我还是听您的安排吧。",
+          "hint": "(Gợi ý: 更 / 要是……的话 / 或者)",
+          "answer": "或者是市场部\n或者是网络部\n更喜欢\n要是不行的话"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "lesson": 17,
+  "vocabAudioPath": "audio/33.mp3",
+  "title": "我要一张去桂林的卧铺票 (I want a berth ticket to Guilin)",
+  "pdfPage": 197,
+  "vocabulary": [
+    { "id": 1, "hanzi": "双卧", "pinyin": "shuāngwò", "meaning": "vé tàu nằm khứ hồi", "type": "" },
+    { "id": 2, "hanzi": "双", "pinyin": "shuāng", "meaning": "đôi, cặp", "type": "tính từ" },
+    { "id": 3, "hanzi": "往返", "pinyin": "wǎngfǎn", "meaning": "khứ hồi, đi và về", "type": "động từ" },
+    { "id": 4, "hanzi": "卧铺", "pinyin": "wòpù", "meaning": "giường nằm (trên tàu xe)", "type": "danh từ" },
+    { "id": 5, "hanzi": "住宿", "pinyin": "zhùsù", "meaning": "ở trọ, nghỉ lại", "type": "động từ" },
+    { "id": 6, "hanzi": "交通", "pinyin": "jiāotōng", "meaning": "giao thông, đi lại", "type": "danh từ" },
+    { "id": 7, "hanzi": "包括", "pinyin": "bāokuò", "meaning": "bao gồm", "type": "động từ" },
+    { "id": 8, "hanzi": "门票", "pinyin": "ménpiào", "meaning": "vé vào cửa", "type": "danh từ" },
+    { "id": 9, "hanzi": "主要", "pinyin": "zhǔyào", "meaning": "chủ yếu, chính", "type": "tính từ" },
+    { "id": 10, "hanzi": "景点", "pinyin": "jǐngdiǎn", "meaning": "điểm tham quan, điểm du lịch", "type": "danh từ" },
+    { "id": 11, "hanzi": "旅行社", "pinyin": "lǚxíngshè", "meaning": "công ty du lịch", "type": "danh từ" },
+    { "id": 12, "hanzi": "硬卧", "pinyin": "yìngwò", "meaning": "giường nằm cứng", "type": "danh từ" },
+    { "id": 13, "hanzi": "软卧", "pinyin": "ruǎnwò", "meaning": "giường nằm mềm", "type": "danh từ" },
+    { "id": 14, "hanzi": "下铺", "pinyin": "xiàpù", "meaning": "giường tầng dưới", "type": "danh từ" },
+    { "id": 15, "hanzi": "上铺", "pinyin": "shàngpù", "meaning": "giường tầng trên", "type": "danh từ" },
+    { "id": 16, "hanzi": "硬座", "pinyin": "yìngzuò", "meaning": "ghế cứng", "type": "danh từ" },
+    { "id": 17, "hanzi": "次", "pinyin": "cì", "meaning": "chuyến (tàu, xe)", "type": "lượng từ" },
+    { "id": 18, "hanzi": "刷卡", "pinyin": "shuākǎ", "meaning": "quẹt thẻ", "type": "động từ" },
+    { "id": 19, "hanzi": "付", "pinyin": "fù", "meaning": "trả, thanh toán", "type": "động từ" },
+    { "id": 20, "hanzi": "找", "pinyin": "zhǎo", "meaning": "trả lại (tiền thừa)", "type": "động từ" },
+    { "id": 21, "hanzi": "桂林", "pinyin": "Guìlín", "meaning": "Quế Lâm", "type": "tên riêng" },
+    { "id": 22, "hanzi": "云南", "pinyin": "Yúnnán", "meaning": "Vân Nam", "type": "tên riêng" }
+  ],
+  "dialogues": [
+    {
+      "id": 1,
+      "audioPath": "audio/34.mp3",
+      "title": "课文 (一)",
+      "context": "杰森想去旅游，汉娜帮他找了一条旅游路线",
+      "lines": [
+        { "speaker": "汉娜", "hanzi": "杰森，你不是说要去旅行吗？你看看这个广告。", "pinyin": "Jiésēn, nǐ bú shì shuō yào qù lǚxíng ma? Nǐ kànkan zhège guǎnggào.", "translation": "Jason, bạn không phải bảo là muốn đi du lịch sao? Bạn xem cái quảng cáo này đi." },
+        { "speaker": "杰森", "hanzi": "“桂林双卧，5天1150”，什么是“双卧”？", "pinyin": "“Guìlín shuāngwò, wǔ tiān yīqiān yī bǎi wǔshí”, shénme shì “shuāngwò”?", "translation": "\"Quế Lâm giường nằm khứ hồi, 5 ngày 1150\", \"giường nằm khứ hồi\" là gì?" },
+        { "speaker": "汉娜", "hanzi": "双卧就是往返都坐火车，都是卧铺票。", "pinyin": "Shuāngwò jiùshì wǎngfǎn dōu zuò huǒchē, dōu shì wòpù piào.", "translation": "Song ngọa chính là đi và về đều đi tàu hỏa, đều là vé giường nằm." },
+        { "speaker": "杰森", "hanzi": "哦，明白了。我正想去桂林呢。", "pinyin": "Ò, míngbai le. Wǒ zhèng xiǎng qù Guìlín ne.", "translation": "Ồ, hiểu rồi. Mình đang muốn đi Quế Lâm đây." },
+        { "speaker": "汉娜", "hanzi": "我觉得不错，多便宜啊！", "pinyin": "Wǒ juéde búcuò, duō piányi a!", "translation": "Mình thấy không tồi, quá rẻ luôn!" },
+        { "speaker": "杰森", "hanzi": "就是，我昨天上网查了一下，到桂林的票要400左右，往返就要800多。", "pinyin": "Jiùshì, wǒ zuótiān shàngwǎng chá le yíxià, dào Guìlín de piào yào sìbǎi zuǒyòu, wǎngfǎn jiù yào bābǎi duō.", "translation": "Đúng thế, hôm qua mình có lên mạng tra một chút, vé đến Quế Lâm khoảng 400, khứ hồi đã tốn hơn 800 rồi." },
+        { "speaker": "汉娜", "hanzi": "对啊，还要加上住宿、交通和吃饭，去5天，最少也要1300到1400吧。", "pinyin": "Duì a, hái yào jiāshang zhùsù, jiāotōng hé chīfàn, qù wǔ tiān, zuì shǎo yě yào yìqiān sān dào yìqiān sì ba.", "translation": "Đúng thế, còn phải cộng thêm tiền ăn ở, đi lại, đi 5 ngày ít nhất cũng phải 1300 đến 1400 chứ." },
+        { "speaker": "杰森", "hanzi": "对了，这1150块包括门票吗？", "pinyin": "Duì le, zhè yìqiān yībǎi wǔshí kuài bāokuò ménpiào ma?", "translation": "Đúng rồi, 1150 tệ này có bao gồm vé vào cổng không?" },
+        { "speaker": "汉娜", "hanzi": "我看看，广告上说，主要景点的门票都包括。", "pinyin": "Wǒ kànkan, guǎnggào shang shuō, zhǔyào jǐngdiǎn de ménpiào dōu bāokuò.", "translation": "Để mình xem, trên quảng cáo nói, vé của các điểm tham quan chính đều bao gồm cả." },
+        { "speaker": "杰森", "hanzi": "哦。便宜是便宜，我担心会不会时间太短了。", "pinyin": "Ò. Piányi shì piányi, wǒ dānxīn huì bú huì shíjiān tài duǎn le.", "translation": "Ồ. Rẻ thì có rẻ, mình lo lắng không biết thời gian có bị ngắn quá không." },
+        { "speaker": "汉娜", "hanzi": "还可以吧，除了路上两天，还有3天的时间呢，我觉得够了。", "pinyin": "Hái kěyǐ ba, chúle lùshang liǎng tiān, hái yǒu sān tiān de shíjiān ne, wǒ juéde gòu le.", "translation": "Cũng được mà, trừ 2 ngày đi đường, còn 3 ngày nữa, mình thấy đủ rồi." },
+        { "speaker": "杰森", "hanzi": "好，我马上给旅行社打电话问问。", "pinyin": "Hǎo, wǒ mǎshàng gěi lǚxíngshè dǎ diànhuà wènwen.", "translation": "Được, mình sẽ gọi ngay cho công ty du lịch hỏi thử." }
+      ],
+      "questions": [
+        { "q": "汉娜找的旅游广告是什么内容？", "a": "广告是“桂林双卧，5天1150”。" },
+        { "q": "什么是“双卧”？", "a": "双卧就是往返都坐火车，都是卧铺票。" },
+        { "q": "自己去桂林的话，5天得多少钱？", "a": "最少也要1300到1400块。" },
+        { "q": "杰森觉得旅行社的价格、时间怎么样？", "a": "他觉得便宜是便宜，但担心时间会不会太短了。" }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "课文 (二)",
+      "context": "在火车票售票处",
+      "lines": [
+        { "speaker": "杰森", "hanzi": "汉娜，我还是决定自己去旅行，先去桂林，然后去云南。", "pinyin": "Hànnà, wǒ háishì juédìng zìjǐ qù lǚxíng, xiān qù Guìlín, ránhòu qù Yúnnán.", "translation": "Hannah, mình vẫn quyết định tự đi du lịch, đi Quế Lâm trước, sau đó đi Vân Nam." },
+        { "speaker": "汉娜", "hanzi": "好啊。你打算怎么去？坐火车还是坐飞机？", "pinyin": "Hǎo a. Nǐ dǎsuàn zěnme qù? Zuò huǒchē háishì zuò fēijī?", "translation": "Được thôi. Bạn định đi bằng gì? Đi tàu hỏa hay máy bay?" },
+        { "speaker": "杰森", "hanzi": "坐火车。你能陪我去买火车票吗？我怕说不清楚。", "pinyin": "Zuò huǒchē. Nǐ néng péi wǒ qù mǎi huǒchēpiào ma? Wǒ pà shuō bù qīngchu.", "translation": "Đi tàu hỏa. Bạn có thể đi cùng mình đi mua vé tàu không? Mình sợ nói không rõ." },
+        { "speaker": "汉娜", "hanzi": "别担心，我陪你去。", "pinyin": "Bié dānxīn, wǒ péi nǐ qù.", "translation": "Đừng lo, mình đi cùng bạn." },
+        { "speaker": "", "hanzi": "(在火车票售票处)", "pinyin": "(Zài huǒchēpiào shòupiàochù)", "translation": "(Tại phòng bán vé tàu hỏa)" },
+        { "speaker": "杰森", "hanzi": "您好！我要一张30号去桂林的票，要卧铺。", "pinyin": "Nín hǎo! Wǒ yào yì zhāng sānshí hào qù Guìlín de piào, yào wòpù.", "translation": "Chào cô! Tôi muốn một vé đi Quế Lâm ngày 30, lấy vé giường nằm." },
+        { "speaker": "售票员", "hanzi": "30号，只有下午的票。硬卧还是软卧？", "pinyin": "Sānshí hào, zhǐ yǒu xiàwǔ de piào. Yìngwò háishì ruǎnwò?", "translation": "Ngày 30, chỉ có vé buổi chiều. Giường nằm cứng hay nằm mềm?" },
+        { "speaker": "杰森", "hanzi": "软卧多少钱？", "pinyin": "Ruǎnwò duōshao qián?", "translation": "Giường nằm mềm bao nhiêu tiền?" },
+        { "speaker": "售票员", "hanzi": "软卧623，硬卧400多。", "pinyin": "Ruǎnwò liùbǎi èrshísān, yìngwò sìbǎi duō.", "translation": "Giường nằm mềm 623, giường nằm cứng hơn 400." },
+        { "speaker": "杰森", "hanzi": "那要硬卧吧，有下铺吗？", "pinyin": "Nà yào yìngwò ba, yǒu xiàpù ma?", "translation": "Vậy lấy giường nằm cứng đi, có giường tầng dưới không?" },
+        { "speaker": "售票员", "hanzi": "下铺没有了，上铺行吗？", "pinyin": "Xiàpù méiyǒu le, shàngpù xíng ma?", "translation": "Giường tầng dưới hết rồi, tầng trên được không?" },
+        { "speaker": "杰森", "hanzi": "上铺啊？还有别的票吗？", "pinyin": "Shàngpù a? Hái yǒu bié de piào ma?", "translation": "Tầng trên ạ? Còn vé khác không?" },
+        { "speaker": "售票员", "hanzi": "硬座还有，要吗？", "pinyin": "Yìngzuò hái yǒu, yào ma?", "translation": "Ghế ngồi cứng vẫn còn, lấy không?" },
+        { "speaker": "杰森", "hanzi": "坐硬座太累了。那我还是要硬卧上铺吧。", "pinyin": "Zuò yìngzuò tài lèi le. Nà wǒ háishì yào yìngwò shàngpù ba.", "translation": "Ngồi ghế cứng mệt lắm. Vậy tôi vẫn lấy giường nằm cứng tầng trên đi." },
+        { "speaker": "售票员", "hanzi": "30号，T5次，硬卧上铺，415。", "pinyin": "Sānshí hào, T wǔ cì, yìngwò shàngpù, sìbǎi yìshíwǔ.", "translation": "Ngày 30, chuyến T5, giường nằm cứng tầng trên, 415." },
+        { "speaker": "杰森", "hanzi": "能刷卡吗？", "pinyin": "Néng shuākǎ ma?", "translation": "Có quẹt thẻ được không?" },
+        { "speaker": "售票员", "hanzi": "不行，要付现金。", "pinyin": "Bù xíng, yào fù xiànjīn.", "translation": "Không được, phải trả tiền mặt." },
+        { "speaker": "杰森", "hanzi": "好的，给您500。", "pinyin": "Hǎo de, gěi nín wǔbǎi.", "translation": "Vâng, gửi cô 500." },
+        { "speaker": "售票员", "hanzi": "找你85，拿好钱和票。", "pinyin": "Zhǎo nǐ bāshíwǔ, ná hǎo qián hé piào.", "translation": "Trả lại 85, cất kỹ tiền và vé nhé." },
+        { "speaker": "汉娜", "hanzi": "看你，多棒呀！其实你根本不需要我帮忙。", "pinyin": "Kàn nǐ, duō bàng ya! Qíshí nǐ gēnběn bù xūyào wǒ bāngmáng.", "translation": "Nhìn cậu xem, giỏi quá! Thực ra cậu căn bản không cần mình giúp." }
+      ],
+      "questions": [
+        { "q": "杰森打算怎么去旅行？", "a": "他打算自己坐火车去，先去桂林，然后去云南。" },
+        { "q": "杰森为什么让汉娜陪他去买火车票？", "a": "因为他怕自己说不清楚。" },
+        { "q": "杰森买的是哪天的什么票？", "a": "他买的是30号下午T5次的硬卧上铺。" }
+      ]
+    }
+  ],
+  "functional_sentences": [
+    {
+      "category": "【同意】 Thể hiện sự đồng ý, tán thành",
+      "examples": [
+        "A: 我觉得不错，多便宜啊！ B: 就是。(Chính thế.)",
+        "A: 我昨天上网查了一下... B: 对啊。(Đúng vậy.)",
+        "A: 我还是决定自己去旅行。 B: 好啊。(Được thôi.)"
+      ]
+    },
+    {
+      "category": "【担心】 Thể hiện sự lo lắng",
+      "examples": [
+        "我担心会不会时间太短了。(Mình lo lắng không biết thời gian có bị ngắn quá không.)",
+        "你能陪我去买火车票吗？我怕说不清楚。(Bạn đi mua vé với mình nhé? Mình sợ nói không rõ.)",
+        "我要是说不清楚怎么办呀？(Nhỡ mình nói không rõ thì phải làm sao?)"
+      ]
+    },
+    {
+      "category": "【解释】 Giải thích",
+      "examples": [
+        "双卧就是往返都坐火车，都是卧铺票。(Song ngọa chính là đi và về đều đi tàu hỏa, vé giường nằm.)",
+        "双卧的意思是往返都坐火车，都是卧铺票。(Ý của song ngọa là đi tàu khứ hồi bằng vé giường nằm.)",
+        "其实你根本不需要我帮忙。(Thực ra bạn căn bản không cần mình giúp.)"
+      ]
+    },
+    {
+      "category": "【拒绝】 Từ chối",
+      "examples": [
+        "A: 能刷卡吗？ B: 不行，要付现金。(Không được, phải trả tiền mặt.)",
+        "A: 能刷卡吗？ B: 不能，只能付现金。(Không thể, chỉ có thể trả tiền mặt.)",
+        "A: 能刷卡吗？ B: 您还是付现金吧。(Bạn nên trả bằng tiền mặt thì hơn.)"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "substitution",
+      "instruction": "Luyện tập thay thế từ",
+      "questions": [
+        {
+          "sentence": "A: 你不是说要去旅行吗？\nB: 对呀，我很喜欢旅行，我希望每个周末都有机会去。\nA: 就是，我也这么想。",
+          "substitutes": [
+            "听音乐会",
+            "看京剧",
+            "踢球"
+          ]
+        },
+        {
+          "sentence": "A: 你能陪我去买火车票吗？\nB: 当然可以。\nA: 谢谢，我怕我说不清楚。",
+          "substitutes": [
+            "去旅行社 / 我听不懂",
+            "在这里等他 / 他不认识我",
+            "去见客户 / 有的事我不能决定"
+          ]
+        },
+        {
+          "sentence": "A: 我怕时间太紧张。\nB: 不用担心，一点儿问题也没有。",
+          "substitutes": [
+            "担心我唱不好 / 肯定没问题",
+            "要是考不好怎么办呀？ / 你肯定能考好",
+            "怕我做的菜你们不爱吃 / 我们肯定喜欢"
+          ]
+        },
+        {
+          "sentence": "A: 一个人1150，包括门票吗？\nB: 不包括，门票还要付钱。",
+          "substitutes": [
+            "一个晚上260 / 早餐",
+            "一个人2000 / 住宿",
+            "一张票980 / 保险"
+          ]
+        },
+        {
+          "sentence": "A: 我决定自己去旅行，先去桂林，然后去云南。\nB: 这个主意不错。",
+          "substitutes": [
+            "每天早点儿起 / 去跑步 / 吃早饭",
+            "下课以后抓紧时间 / 写作业 / 去运动",
+            "参加汉语口语比赛 / 准备资料 / 好好儿练习"
+          ]
+        },
+        {
+          "sentence": "A: 能刷卡吗？\nB: 不行，要付现金。",
+          "substitutes": [
+            "进去 / 对不起 / 过一会儿再进吧",
+            "吃饭了 / 不能 / 还没做好呢",
+            "拿走 / 不行 / 我们还要用"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "fill-in-the-blank",
+      "instruction": "Hoàn thành các đoạn hội thoại",
+      "questions": [
+        {
+          "context": "A: 你不是说要去旅行吗？这儿有一个广告。\nB: 去桂林，_______________，我_______________呢。\nA: _______________，“桂林双卧，5天1150”。\nB: 不错，价格挺便宜的。",
+          "hint": "(Gợi ý: 正想 / 太好了 / 你看)",
+          "answer": "太好了\n正想去\n你看"
+        },
+        {
+          "context": "A: 广告上说，“桂林双卧，5天1150”，什么是“双卧”呀？\nB: 双卧就是_______________，都是卧铺票。\nA: 那挺_______________的。\nB: 是啊，而且现在_______________。",
+          "hint": "(Gợi ý: 不好买 / 往返 / 舒服)",
+          "answer": "往返都坐火车\n舒服\n票不好买"
+        },
+        {
+          "context": "A: 我听说，到桂林的火车票_______________，往返就要800多。\nB: 对啊，自己去玩儿的话，_______________和吃饭，去5天，最少也要一千三四。",
+          "hint": "(Gợi ý: 住宿 / 大概400左右 / 加上)",
+          "answer": "大概400左右\n加上住宿"
+        },
+        {
+          "context": "A: 广告上说的1150块_______________吗？\nB: 你看，这儿写着呢，主要景点的门票都包括。\nA: 那真是便宜。",
+          "hint": "(Gợi ý: 加上 / 左右 / 包括)",
+          "answer": "包括门票"
+        },
+        {
+          "context": "A: 你说，去桂林，5天的时间够吗？1150块，_______________，我担心会不会时间太短了。\nB: 我觉得还行，_______________，还有3天的时间，差不多够了。\nA: 出去玩儿，我不喜欢时间太紧张了，我还是_______________。\nB: 那也好啊。",
+          "hint": "(Gợi ý: 除了 / 决定 / ……是……)",
+          "answer": "便宜是便宜\n除了路上两天\n决定自己去"
+        },
+        {
+          "context": "A: 我去买火车票。\nB: 快去吧，_______________该没有卧铺了。\nA: 我怕_______________，你能_______________吗？\nB: 你肯定没问题，我陪你去。",
+          "hint": "(Gợi ý: 清楚 / 晚 / 陪)",
+          "answer": "去晚了\n我说不清楚\n陪我去"
+        },
+        {
+          "context": "A: 您好！我要一张30号去桂林的票，要卧铺。\nB: 30号，下午。没有硬卧了，_______________。\nA: 软卧多少钱？\nB: 680。\nA: 那有动车吗？\nB: 有，_______________680一张。\nA: 有点儿贵，那31号的硬卧还有吗？\nB: 还有一张，上铺行吗？下铺没有了。\nA: 多少钱？\nB: 450。\nA: 那好，就要_______________吧。",
+          "hint": "(Gợi ý: 上铺 / 也是 / 软卧)",
+          "answer": "软卧要吗\n也是\n上铺"
+        }
+      ]
+    }
+  ]
+}
